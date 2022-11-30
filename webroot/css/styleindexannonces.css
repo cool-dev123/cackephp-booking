@@ -1,0 +1,130 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 juil. 2018, 15:24:22
+*/
+img.img-responsive {
+    /*height: 450px !important;*/
+    height: auto !important;
+}
+.promotion .title-slide .right .blue {
+    margin-right: 6px;
+    font-size: 15px !important;
+}
+.promotion .title-slide .right{
+    margin-top: 3px;
+}
+.promotion .title-slide .left{
+    margin-left: 8px;
+}
+.text-about p {
+    height: 163px;
+}
+@media (max-width:767px) {
+    .text-about p {
+        height: 250px !important;
+        overflow: hidden;
+    }
+    #about button{
+        font-size: 14px;
+    }
+}
+@media (max-width:1200px) {
+   .text-about p {
+        height: 183px;
+    }
+}
+@media (min-width: 768px) and (max-width:1200px){
+    .featured-product{
+        height: 450px;
+    }
+}
+.description-product {
+    background: white;
+}
+.featured-product {
+    background: white;
+    box-shadow: 2px 4px 4px #ddd;
+}
+.btnrecherchebande {
+    /*margin-top: 15px;*/
+    padding: 2px;
+    width: 95%;
+    bottom: 60px;
+    margin-left: 7px;
+}
+.prixminbloc {
+    color: #3caffb;
+    margin-left: 5px;
+}
+
+
+/* CSS Index PUB */
+.carousel {
+    position: initial;
+}
+/* Images Annonces */
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px !important;
+    height: 10px !important;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+ol.carousel-indicators {
+    bottom: 0%;
+}
+.glyphicon-chevron-right:before {
+    content: "\e258";
+}
+.glyphicon-chevron-left:before {
+    content: "\e257";
+}
+.item.next.left {
+    padding: 0px;
+}
+.title-product {
+    background: #3caffb;
+    text-transform: none;
+    padding: 0px;
+}
+#main-slide .carousel-indicators {
+	bottom: 30px;
+}
+#main-slide .carousel-indicators li{
+    width: 50px !important;
+    height: 15px !important;
+    border: 0 !important;
+    margin: 0 !important;
+	background-color: #cccccc;
+	border-radius: 0;
+}
+#main-slide .carousel-indicators .active{
+	background-color: #f7901f;
+}
+#main-slide .carousel-indicators{
+    left: 75%;
+    margin-left: 0;
+    background-color: #fff;
+    width: 22%;
+    padding: 5px;
+    height: 25px;
+	left: 80%;
+    margin-left: 0;
+    background-color: #fff;
+    width: auto;
+    padding: 5px;
+	height: 25px;
+}
+.products li{
+    margin-bottom: 0px;
+}
+

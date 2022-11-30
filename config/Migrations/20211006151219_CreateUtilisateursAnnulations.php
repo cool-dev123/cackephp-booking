@@ -1,0 +1,20 @@
+<?php
+use Migrations\AbstractMigration;
+
+class CreateUtilisateursAnnulations extends AbstractMigration
+{
+    /**
+     * Change Method.
+     *
+     * More information on this method is available here:
+     * http://docs.phinx.org/en/latest/migrations.html#the-change-method
+     * @return void
+     */
+    public function change()
+    {
+        $table = $this->table('utilisateurs_annulations', ['id' => false, 'primary_key' => ['utilisateur_id','annulation_id']]);
+        $table->addColumn('utilisateur_id','integer');
+        $table->addColumn('annulation_id','integer');
+        $table->create();
+    }
+}

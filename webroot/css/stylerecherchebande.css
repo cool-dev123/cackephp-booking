@@ -1,0 +1,454 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 juin 2018, 14:57:25
+    Author     : Maroua ITE
+*/
+select#nbcouchage {
+    width: 100%;
+    height: 35px;
+}
+.btn-input {
+    border: 1px solid #acacac;
+    background: white;
+}
+.ui-widget-shadow {
+    width: 60%;
+    z-index: 16;
+    background: #eee;
+    opacity: 1;
+}
+#contenubudget{
+  visibility: hidden;
+  height: 0px;
+}
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+.ui-tooltip {
+    padding: 10px 20px;
+    color: black;
+    border-radius: 2px;
+    box-shadow: 0 0 1px black;
+    border: 0.1px solid white !important;
+    background: white;
+    position: absolute;
+}
+.arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -17px;
+}
+.arrow.top {
+    top: -17px;
+    bottom: auto;
+}
+.arrow.left {
+    left: 20%;
+}
+.arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    background: rgba(245, 245, 245, 0.98);
+    box-shadow: 0 0 1px black;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.arrow.top:after {
+    bottom: -20px;
+    top: auto;
+}
+.hidden {
+    visibility: hidden;
+}
+#slide .col-md-12 {
+    min-height: 50px;
+}
+.budgetdiv {
+    width: 8%;
+    padding-right: 0px;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+.surfacediv {
+    width: 10%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.destinationdiv{
+    padding-left: 0px;
+    width: 18%;
+    padding-right: 10px;
+    margin-left: 1%;
+}
+.optionsdiv{
+  width: 8%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 10px;
+}
+.ui-tooltip-options{
+  width: 35%;
+}
+#location_au {
+    padding-right: 7px;
+    padding-left: 30px;
+}
+#location_du {
+    padding-right: 7px;
+    padding-left: 30px;
+}
+.validerdiv{
+  padding: 0px;
+  width: 23.5%;
+}
+.validerbtn{
+    width: 41%;
+}
+.ad_search_content {
+    border: 1px solid #0099ff;
+    padding: 10px;
+    padding-top: 27px;
+    border-radius: 10px;
+    background: rgba(60, 175, 251, 1);
+}
+select.form-control {
+  background-position-x: 95%;
+}
+/* Masquer le bouton radio d'origine */
+input[type=radio]{
+    display: none;
+}
+/* Affichage par défaut du bouton radio personnalisé */
+input[type=radio] + label:before {
+    background: #fff;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    margin-top: -3px;
+    margin-right: 6px;
+    display: inline-block;
+    vertical-align: middle;
+    content: '';
+    width: 15px;
+    height: 15px;
+}
+/* Affichage du bouton radio personnalisé quand il est sélectionné */
+input[type=radio]:checked + label:before {
+    background: #3caffb;
+    /* border-color: #3caffb; */
+    box-shadow: inset 0px 0px 0px 2px #fff;
+}
+
+input[type=radio] + label{
+  margin-right: 6px;
+  cursor:pointer;
+}
+/* CHECKBOX */
+/* Base for label styling */
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+  position: absolute;
+  left: -9999px;
+}
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+  position: relative;
+  padding-left: 1.95em;
+  cursor: pointer;
+}
+/* checkbox aspect */
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0;
+  width: 1.25em; height: 1.25em;
+  border: 2px solid #ccc;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,.1);
+}
+/* checked mark aspect */
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+  content: '✔';
+  position: absolute;
+  top: .2em;
+  left: 0.1em;
+  font-size: 1.2em;
+  line-height: 0.8;
+  color: #3caffb;
+  transition: all .2s;
+}
+/* checked mark aspect changes */
+[type="checkbox"]:not(:checked) + label:after {
+  opacity: 0;
+  transform: scale(0);
+}
+[type="checkbox"]:checked + label:after {
+  opacity: 1;
+  transform: scale(1);
+}
+
+#motcle {
+    background: #fff url(../images/ico/search-input.png) no-repeat 10px;
+    padding-left: 35px;
+}
+.dateclass{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 10px;
+    width: 10%;
+}
+.referenceclass{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 10px;
+    width: 8%;
+}
+.referenceclass input{
+    padding: 5.5px;
+}
+.budgetinterval {
+    display: flex;
+    padding: 0px;
+    margin-top: 20px;
+}
+.surfaceinterval {
+    display: flex;
+    padding: 0px;
+    margin-top: 10px;
+}
+#debutsurface {
+    padding-left: 5px;
+    margin-top: -3px;
+}
+#finsurface {
+    margin-top: -3px;
+}
+#debutbudg{
+    padding: 0px;
+    margin-top: -3px;
+    width: 7%;
+}
+#finbudg{
+    padding: 0px;
+    margin-top: -3px;
+    margin-left: 10px;
+}
+.ui-widget-header{
+    background: #3caffb;
+    border-color: #3caffb;
+}
+.ui-slider-handle{
+    border: 1px solid #3caffb !important;
+    background: #f6f6f6 url(../img/ui-bg_glass_100_f6f6f6_1x400.png) 50% 50% repeat-x !important;
+}
+.couchagediv{
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 9%;
+}
+.featured-product {
+    margin-bottom: 15px;
+}
+.btn {
+    text-transform: initial;
+}
+.voirmap{
+    bottom: 65px;
+}
+#budgetlabel {
+    width: 100%;
+}
+#optionslabel {
+    width: 100%;
+}
+#slide {
+    margin-bottom: 25px;
+}
+#slide .row {
+    margin-bottom: 25px;
+}
+#validerbudget{
+    left: 43%;
+    margin-top: 20px;
+}
+#btn-reset, #valideroptions, #validerbudget {
+    border-radius: 0px;
+    box-shadow: none;
+    font-size: 14px;
+    margin-right: 10px;
+    margin-top: 0px;
+    height: 33px;
+}
+.resetdiv {
+    padding: 0px;
+    width: 12.5%;
+    margin-right: 10px;
+}
+.form-control[readonly]{
+    background-color: white;
+    color: #333;
+}
+::placeholder {
+    color: #333 !important;
+}
+/* Par défaut, une étoile est en gris,
+   avec un padding et un curseur en forme de main. */
+.newnote {
+    color: #ddd;
+    cursor: pointer;
+    padding: 0.0625rem;
+    font-size: 13px;
+}
+/* Si elle porte en plus la classe '.gold', elle sera en jaune. */
+.newnote.gold {
+    color: #3caffb;
+}
+
+/* Le groupe '.stars' positionne les étoiles
+         les unes à côté des autres sans espacements. */
+.stars {
+    display: inline-flex;
+    justify-content: center;
+    font-size: 3em;
+    margin-left: 10px;
+}
+@media (max-width:1200px) {
+    .validerdiv {
+        display: grid;
+        width: 22%;
+    }
+    .validerbtn {
+        width: 95%;
+    }
+    .ad_search_content select, .ad_search_content input, .ad_search_content label {
+        font-size: 13px;
+        height: 35px !important;
+    }
+    #nbcouchage {
+        padding-left: 6px;
+    }
+}
+@media (min-width: 768px) and (max-width:991px) {
+   .destinationdiv {
+        padding-right: 5px;
+        /*width: 18%;*/
+        padding-left: 0px;
+    }
+    .dateclass {
+        margin-right: 5px;
+    }
+    .referenceclass{
+        margin-right: 5px;
+    }
+    .couchagediv{
+        padding-left: 0px;
+        /*width: 13%;*/
+    }
+    .budgetdiv {
+        padding-left: 5px;
+        margin-right: 5px;
+        /*width: 11%;*/
+    }
+    .optionsdiv {
+        margin-right: 5px;
+        width: 11%;
+    }
+    .validerdiv{
+        width: 9%;
+    }
+    #budgetlabel {
+        padding-left: 5px;
+    }
+    .featured-product {
+        height: 430px !important;
+    }
+    .ad_search_content select, .ad_search_content input, .ad_search_content label {
+        font-size: 12px;
+        height: 35px !important;
+    }
+}
+@media (max-width:767px) {
+   .ad_search_content {
+        padding-right: 20%;
+        padding-left: 20%;
+    }
+    .destinationdiv {
+        width: 100%;
+        padding-left: 4px;
+        padding-right: 17px;
+    }
+    .dateclass {
+        width: 100%;
+        padding-left: 8px;
+        padding-right: 14px;
+        margin-bottom: 15px;
+    }
+    .referenceclass{
+        width: 100%;
+        padding-left: 8px;
+        padding-right: 14px;
+        margin-bottom: 15px;
+    }
+    .couchagediv {
+        padding-left: 8px;
+        padding-right: 14px;
+        width: 100%;
+    }
+    .budgetdiv {
+        width: 100%;
+        padding-left: 8px;
+        padding-right: 14px;
+       margin-bottom: 15px;
+    }
+    #budgetlabel {
+        width: 100%;
+    }
+    .optionsdiv {
+        width: 100%;
+        padding-left: 8px;
+        padding-right: 14px;
+        margin-bottom: 15px;
+    }
+    #optionslabel {
+        width: 100%;
+    }
+    .validerdiv {
+        width: 100%;
+        padding-left: 9px;
+        padding-right: 14px;
+    }
+    #slider-range {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .ui-tooltip-options {
+        width: 55%;
+    }
+    #slider-range-surface {
+        width: 100%;
+    }
+    .validerbtn {
+        width: 100%;
+    }
+    #btn-reset {
+        width: 100%;
+    }    
+}

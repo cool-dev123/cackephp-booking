@@ -1,0 +1,271 @@
+.messaging { padding: 0 0 50px 0;}
+
+.message-box {
+    border: 1px solid #c4c4c4;
+    clear: both;
+    overflow: hidden;
+}
+
+.dropdown-item:active {
+    color: #212529;
+    text-decoration: none;
+    background-color: #fff;
+}
+
+/*Header section*/
+.header-section {
+    display: flex;
+    padding: 10px 29px 10px 20px;
+    overflow: hidden;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+.heading {
+    width: 25%;
+    font-weight: bold;
+}
+
+.actions-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter_bar select {
+    display: none;
+}
+
+.filter_bar .filter-btn {
+    padding: 0 10px;
+    border: 1px solid;
+    border-radius: 0;
+}
+
+.filter_bar .filter-btn:focus {
+    box-shadow: none !important;
+}
+
+.filter_bar .multiselect-container {
+    width: max-content;
+}
+
+.filter_bar .multiselect-container .separator {
+    border-top: 1px solid;
+}
+
+.filter_bar .multiselect-container label {
+    padding: 3px 20px;
+}
+
+.srch_bar {
+    position: absolute;
+    right: 2%;
+    display: inline-block;
+    text-align: right;
+    width: 60%;
+}
+
+.srch_bar .stylish-input-group {
+    background: #f9f7f7cc;
+    padding: 0 8px;
+    border-radius: 25px;
+}
+
+.srch_bar input {
+    border: none;
+    width: 97%;
+    background:none;
+    font-weight: normal!important;
+}
+
+.srch_bar .search-bar:focus-visible,
+.srch_bar .search-bar:focus { outline: none;}
+/*End of Header section*/
+
+/* Left block */
+.chat_list {
+    background: #f8f8f8 none repeat scroll 0 0;
+    float: left;
+    overflow: hidden;
+    width: 25%;
+    border-right:1px solid #c4c4c4;
+}
+
+.chat_box {
+    height: 550px;
+    overflow-y: scroll;
+}
+
+.chat_list_item {
+    border-bottom: 1px solid #c4c4c4;
+    margin: 0;
+    padding: 18px 16px 10px;
+}
+
+.chat_list_item.active {
+    background: #ebebeb;
+}
+
+.chat_contact {
+    overflow:hidden;
+    clear:both;
+}
+
+.chat_contact .info-section {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+.chat_contact .reservation-status {
+    border: 1px solid;
+    text-align: center;
+    padding: 3px 15px;
+}
+
+.chat_contact .message-status {
+    padding: 3px;
+}
+
+.chat_contact .dropdown-btn {
+    border: 1px solid;
+    text-align: center;
+    font-weight: bold;
+    cursor:pointer;
+    padding: 0 8px;
+    font-size: 20px;
+}
+
+.chat_contact .dropdown-item:first-child {
+    border-bottom: 1px solid #bbb6b6;
+}
+
+.chat_contact_info h5 {
+    font-size:15px;
+    color:#464646;
+    margin:0 0 8px 0;
+}
+.chat_contact_info p{
+    font-size:14px;
+    color:#989898;
+    margin:auto
+}
+.chat_contact_info {
+    width: 88%;
+}
+
+/*End of Left block */
+
+/* Right block */
+.mesgs {
+    float: left;
+    width: 75%;
+}
+
+.headind_section {
+    display: flex;
+    padding:10px 29px 10px 20px;
+    overflow:hidden;
+    border-bottom:1px solid #c4c4c4;
+}
+
+.contact_name {
+    float: left;
+    width:40%;
+}
+
+.contact_name h4 {
+    font-size: 21px;
+    margin: auto;
+}
+
+.headind_section .see-booking {
+    width: 60%;
+}
+
+.headind_section .see-booking a {
+    float: right;
+    border: 1px solid;
+    padding: 0 15px;
+}
+
+.msg_history {
+    height: 434px;
+    overflow-y: auto;
+}
+
+.received_msg {
+    display: inline-block;
+    padding: 0 0 0 10px;
+    vertical-align: top;
+    width: 92%;
+}
+
+.received_withd_msg {
+    width: 57%;
+}
+
+.received_withd_msg p {
+    background: #0096ff none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    margin: 0;
+    padding: 5px 10px 5px 12px;
+    width: 100%;
+}
+
+.outgoing_msg {
+    overflow:hidden;
+    margin:26px 0 26px;
+}
+
+.sent_msg_ p {
+    background: #ebebeb none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #646464;
+    font-size: 14px;
+    margin: 0;
+    padding: 5px 10px 5px 12px;
+    width:100%;
+}
+
+.sent_msg_ {
+    float: right;
+    width: 46%;
+}
+
+.time_date {
+    color: #747474;
+    display: block;
+    font-size: 12px;
+    margin: 8px 0 0;
+}
+
+.type_msg {
+    border-top: 1px solid #c4c4c4;
+    position: relative;
+}
+
+.input_msg_write input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    color: #4c4c4c;
+    font-size: 15px;
+    min-height: 48px;
+    width: 100%;
+}
+
+.msg_send_btn {
+    background: #05728f none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    font-size: 17px;
+    height: 33px;
+    position: absolute;
+    right: 0;
+    top: 11px;
+    width: 33px;
+}
+/*End of Right block */

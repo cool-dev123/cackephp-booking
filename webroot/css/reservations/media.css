@@ -1,0 +1,118 @@
+@media (width: 320px) {
+    .reservation_body > div,
+    .reservation_body > .opt div {
+        flex-direction: column;
+    }
+
+    .reservation_body > .opt div {
+        align-items: center;
+    }
+
+    .reservation_body > .opt,
+    .reservation_body h2 {
+        text-align: center;
+    }
+
+    .reservation_body > .opt .my-flex-between button:first-child {
+        margin-bottom: 5px;
+    }
+
+    .reservation_time {
+        font-size: 10px !important;
+    }
+
+    .reservation-details .modal-body .details-section .bordered_button {
+        width: 56%;
+    }
+
+    .reservation-details .modal-body .inventory-btn {
+        width: 100%;
+    }
+
+    .reservation-details .modal-body .add-comment-btn,
+    .reservation-details .modal-body .inventory-btn,
+    .reservation-details .modal-body .send-message-long {
+        font-size: 10px !important;
+    }
+}
+
+@media (width: 375px) {
+    .action-buttons {
+        justify-content: space-between;
+        gap: 0;
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px) {
+    .no-reservations-block div {
+        font-size: 3rem;
+    }
+
+    .no-reservations-block a {
+        font-size: 19px;
+    }
+}
+
+@media screen  and (max-width: 700px){
+    .reservation-details .modal-body {
+        max-width: 580px;
+        width: auto;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+    .reservations_row {
+        flex-direction: column;
+        height: max-content;
+        align-items: baseline;
+    }
+
+    .reservation_body {
+        padding: 10px 30px;
+        width: 100%;
+    }
+
+    .reservation_body .description-timer {
+        margin-top: 0;
+    }
+
+    .reservations_row > .image {
+        width: 100%;
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 10px;
+        margin: 0;
+    }
+
+    .reservations_row > .image > img {
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 10px;
+    }
+    .reservations_row > .image:after {
+        border-bottom-left-radius: 0;
+    }
+
+    .no-reservations-block a {
+        font-size: 22px;
+    }
+
+    .reservation_time {
+        font-size: 12px;
+    }
+
+    .reservation-details .modal-body .inventory-btn {
+        width: 100%;
+    }
+
+    .reservation-details .modal-body .inventory-btn,
+    .reservation-details .modal-body .send-message-long {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 768px) {
+    .reservation_time {
+        font-size: 13px;
+        gap: 5px;
+    }
+}

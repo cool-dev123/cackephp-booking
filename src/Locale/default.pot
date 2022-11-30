@@ -1,0 +1,5997 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-08-10 13:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AnnoncesController.php:1246;2586;2739;3298;3462
+#: Template/Annonces/view.ctp:559
+#: Template/Element/menu_recherche.ctp:114
+#: Template/Element/menu_recherche_bande.ctp:234
+msgid "Studio"
+msgstr ""
+
+#: Controller/AnnoncesController.php:1246;2586;2739;3298;3462
+#: Template/Annonces/view.ctp:559
+#: Template/Element/menu_recherche.ctp:109
+#: Template/Element/menu_recherche_bande.ctp:225
+msgid "Appartement"
+msgstr ""
+
+#: Controller/AnnoncesController.php:1246;2586;2739;3298;3462
+#: Template/Annonces/view.ctp:559
+#: Template/Element/menu_recherche.ctp:104
+#: Template/Element/menu_recherche_bande.ctp:216
+msgid "Chalet"
+msgstr ""
+
+#: Controller/AnnoncesController.php:1246;2586;2739;3298;3462
+#: Template/Annonces/view.ctp:559
+msgid "Villa"
+msgstr ""
+
+#: Controller/AnnoncesController.php:1246;2586;2739;3298;3462
+#: Template/Annonces/view.ctp:559
+msgid "Gîte"
+msgstr ""
+
+#: Controller/AnnoncesController.php:1246;2586;2739;3298;3462
+msgid "Autre"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2480;2669
+msgid "Cette appartement est lié à une annonce"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2500;2509;2688;2697;3429;3438
+msgid "Le fichier n'a pas pu etre enregistré"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2506;2694;3435
+msgid "Le fichier a été bien enregistré"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2565
+msgid "Votre annonce a bien été sauvegardée"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2569;2711;2811
+msgid "L'annonce n'a pas été sauvegardée"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2656;2794;2830
+#: Controller/DisposController.php:91
+msgid "Vous ne pouvez pas voir l'annonce d'un autre utilisateur"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2665;2803
+msgid "Vous ne pouvez pas modifier l'annonce d'un autre utilisateur"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2708;2808
+msgid "Les modifications sur votre annonce ont bien été sauvegardées"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2746
+#: Controller/UtilisateursController.php:2080
+msgid "Brouillon"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2746
+#: Controller/UtilisateursController.php:2080
+msgid "Comité d'entreprise"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2746
+#: Controller/UtilisateursController.php:2080
+msgid "Désactivée"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2746
+#: Controller/UtilisateursController.php:2080
+msgid "Suspendue"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2746
+#: Controller/UtilisateursController.php:2080
+msgid "Validée"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2746
+#: Controller/UtilisateursController.php:2080
+msgid "Supprimée"
+msgstr ""
+
+#: Controller/AnnoncesController.php:2883
+msgid "L'annonce a été supprimée."
+msgstr ""
+
+#: Controller/AnnoncesController.php:2885
+msgid "L'annonce ne peut pas etre supprimée. Essayer une autre fois."
+msgstr ""
+
+#: Controller/AnnoncesController.php:3055
+#: Controller/ReservationsController.php:2227
+msgid "Votre message a été bien envoyé."
+msgstr ""
+
+#: Controller/AnnoncesController.php:3087
+#: Controller/UtilisateursController.php:2151
+msgid "votre message a été envoyé."
+msgstr ""
+
+#: Controller/AnnoncesController.php:3090
+msgid "Erreur d'envoi de votre message"
+msgstr ""
+
+#: Controller/AnnoncesController.php:3094
+msgid "Votre message n'a pas été envoyé, Veuillez prouver que vous n'êtes pas un robot."
+msgstr ""
+
+#: Controller/AnnoncesController.php:3327
+msgid "Votre commentaire a bien été envoyé. En attente de validation du gestionnaire"
+msgstr ""
+
+#: Controller/DisposController.php:82;629;887
+msgid "Période invalide"
+msgstr ""
+
+#: Controller/DisposController.php:138;769
+msgid "Votre Période a été créée"
+msgstr ""
+
+#: Controller/DisposController.php:142;772
+msgid "Cette  Période existe déja"
+msgstr ""
+
+#: Controller/DisposController.php:618
+msgid "Merci d'aller dans Réservations à valider"
+msgstr ""
+
+#: Controller/DisposController.php:620
+msgid "Merci d'aller dans Réservations en cours"
+msgstr ""
+
+#: Controller/DisposController.php:691;923
+msgid "Période modifiée"
+msgstr ""
+
+#: Controller/DisposController.php:694;926
+msgid "Période non modifiée"
+msgstr ""
+
+#: Controller/DisposController.php:698;931
+msgid "Période non valide"
+msgstr ""
+
+#: Controller/DisposController.php:953;966
+msgid "Periode supprimée"
+msgstr ""
+
+#: Controller/DisposController.php:956
+msgid "Identifiant invalide pour la période"
+msgstr ""
+
+#: Controller/DisposController.php:976
+msgid "Periodes supprimées"
+msgstr ""
+
+#: Controller/PhotosController.php:129;159;280
+msgid "Les modifications ont bien été enregistrées"
+msgstr ""
+
+#: Controller/ReservationsController.php:290
+msgid "Votre réservation a bien été modifiée"
+msgstr ""
+
+#: Controller/ReservationsController.php:370
+msgid "Anomalie au moment de l'enregistrement de votre réservation"
+msgstr ""
+
+#: Controller/ReservationsController.php:840
+msgid "Votre Réservation n'a pas été créée"
+msgstr ""
+
+#: Controller/ReservationsController.php:893
+msgid "La réservation a été supprimée."
+msgstr ""
+
+#: Controller/ReservationsController.php:895
+msgid "La réservation ne peut pas etre supprimée. Essayez une autre fois."
+msgstr ""
+
+#: Controller/ReservationsController.php:3025
+#: Controller/UtilisateursController.php:501
+#: Template/Annonces/view.ctp:2667
+msgid "Les emails Airbnb et Abritel ne sont pas acceptés."
+msgstr ""
+
+#: Controller/ReservationsController.php:3571
+msgid "Votre réservation a bien été créée"
+msgstr ""
+
+#: Controller/ReservationsController.php:3839
+msgid "Votre réservation n'a pas pu être enregistrée"
+msgstr ""
+
+#: Controller/ReservationsController.php:4043
+msgid "La réservation a bien été validée"
+msgstr ""
+
+#: Controller/ReservationsController.php:4047
+msgid "La réservation a bien été annulée"
+msgstr ""
+
+#: Controller/ReservationsController.php:4066
+msgid "Aucune ligne sélectionnée"
+msgstr ""
+
+#: Controller/UtilisateursController.php:232
+msgid "newcake3"
+msgstr ""
+
+#: Controller/UtilisateursController.php:234;237
+msgid "Nom d'utilisateur ou mot de passe incorrect, essayez à nouveau."
+msgstr ""
+
+#: Controller/UtilisateursController.php:654
+#: Template/Annonces/view.ctp:2673
+msgid "Votre inscription n'a pas pu être terminée."
+msgstr ""
+
+#: Controller/UtilisateursController.php:658
+#: Template/Annonces/view.ctp:2679
+msgid "Cette adresse email existe déjà."
+msgstr ""
+
+#: Controller/UtilisateursController.php:662
+msgid "Erreur ReCaptcha."
+msgstr ""
+
+#: Controller/UtilisateursController.php:712
+msgid "Votre compte est déjà activé, vous pouvez vous connecter."
+msgstr ""
+
+#: Controller/UtilisateursController.php:716
+msgid "Votre compte est activé avec succès, vous pouvez maintenant vous connecter."
+msgstr ""
+
+#: Controller/UtilisateursController.php:725
+msgid "Aucun compte n'est lié à cette adresse email."
+msgstr ""
+
+#: Controller/UtilisateursController.php:729
+msgid "Ce token a expiré."
+msgstr ""
+
+#: Controller/UtilisateursController.php:740
+msgid "Le fichier dépasse la limite autorisée par le serveur (fichier php.ini) !"
+msgstr ""
+
+#: Controller/UtilisateursController.php:743
+msgid "Le fichier dépasse la limite autorisée dans le formulaire HTML !"
+msgstr ""
+
+#: Controller/UtilisateursController.php:747
+msgid "L'envoi du fichier a été interrompu pendant le transfert !"
+msgstr ""
+
+#: Controller/UtilisateursController.php:750
+msgid "Le fichier que vous avez envoyé a une taille nulle !"
+msgstr ""
+
+#: Controller/UtilisateursController.php:785
+msgid "podcast envoyé avec succès"
+msgstr ""
+
+#: Controller/UtilisateursController.php:788
+msgid "Veuillez inserer un fichier de type mp3"
+msgstr ""
+
+#: Controller/UtilisateursController.php:815;2369
+msgid "Vous ne pouvez pas voir les informations d'un autre utilisateur"
+msgstr ""
+
+#: Controller/UtilisateursController.php:975
+msgid "L'utilisateur ne peut pas etre supprimé"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1150
+msgid "Votre nouveau mot de passe est pris en compte"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1155
+msgid "Anomalie au moment de l'enregistrement de votre mot de passe"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1729
+msgid "Merci de préciser votre identifiant"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1868
+msgid "Anomalie au moment de l'enregistrement du mot de passe"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1873
+msgid "Cette adresse email n'existe pas"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1884
+msgid "Argument invalide"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1891
+msgid "Votre adresse email a bien été modifiée"
+msgstr ""
+
+#: Controller/UtilisateursController.php:1894
+msgid "Anomalie au moment de l'enregistrement de votre email"
+msgstr ""
+
+#: Controller/UtilisateursController.php:2074
+msgid "Vous ne pouvez pas voir les annonces d'un autre utilisateur"
+msgstr ""
+
+#: Controller/UtilisateursController.php:2154
+msgid "votre message n'a pas pu etre envoyé."
+msgstr ""
+
+#: Controller/UtilisateursController.php:2393
+msgid "Vos informations bancaires ont été enregistrées avec success."
+msgstr ""
+
+#: Controller/UtilisateursController.php:2398
+msgid "Vos informations bancaires ont été modifiées avec success."
+msgstr ""
+
+#: Controller/Manager/ArriveesController.php:100;1113;1135
+msgid "The arrivee could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Manager/ArriveesController.php:1110;1132
+msgid "The arrivee has been saved."
+msgstr ""
+
+#: Controller/Manager/ArriveesController.php:1153
+msgid "The arrivee has been deleted."
+msgstr ""
+
+#: Controller/Manager/ArriveesController.php:1155
+msgid "The arrivee could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/Manager/ArriveesController.php:5032
+msgid "Cette semaine est déja occupée, merci de vérifier votre planning et vos disponibilités"
+msgstr ""
+
+#: Controller/Manager/GestionnairesController.php:287;376
+msgid "The gestionnaire could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Manager/OfficeTourismeController.php:316
+#: Controller/Manager/RmecaniqueController.php:298
+#: Controller/Manager/StationsController.php:492;552
+#: Controller/Manager/VillageController.php:218
+msgid "Error."
+msgstr ""
+
+#: Controller/Manager/RegistresController.php:66;88
+msgid "The registre has been saved."
+msgstr ""
+
+#: Controller/Manager/RegistresController.php:69;91;134
+msgid "The registre could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/Manager/RegistresController.php:109
+msgid "The registre has been deleted."
+msgstr ""
+
+#: Controller/Manager/RegistresController.php:111
+msgid "The registre could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Annonces/add.ctp:49
+msgid "Entrez le nom complet de votre bâtiment"
+msgstr ""
+
+#: Template/Annonces/add.ctp:75
+#: Template/Annonces/edit.ctp:44;1077
+#: Template/Annonces/uploadinventaire.ctp:54;97
+msgid "Lien Pièce jointe"
+msgstr ""
+
+#: Template/Annonces/add.ctp:208
+msgid "Ajout Nouveau Bâtiment"
+msgstr ""
+
+#: Template/Annonces/add.ctp:215
+#: Template/Annonces/prop.ctp:100
+#: Template/Reservations/locataireAddres.ctp:120
+#: Template/Reservations/locataire_addres.ctp:505
+msgid "Nom"
+msgstr ""
+
+#: Template/Annonces/add.ctp:218;235;239
+#: Template/Annonces/view.ctp:1339;1344;1349
+msgid "Choix obligatoire"
+msgstr ""
+
+#: Template/Annonces/add.ctp:222;316
+#: Template/Annonces/edit.ctp:187
+msgid "Village"
+msgstr ""
+
+#: Template/Annonces/add.ctp:242
+#: Template/Annonces/view.ctp:1212
+#: Template/Annonces/viewprev.ctp:583
+#: Template/Reservations/locataire_addres.ctp:421
+msgid "Chercher"
+msgstr ""
+
+#: Template/Annonces/add.ctp:254;1178
+#: Template/Annonces/edit.ctp:1083
+#: Template/Annonces/edit2.ctp:104
+#: Template/Annonces/photo.ctp:96
+#: Template/Utilisateurs/edit.ctp:103
+#: Template/Utilisateurs/infobancaire.ctp:90
+msgid "Enregistrer"
+msgstr ""
+
+#: Template/Annonces/add.ctp:264
+#: Template/Annonces/edit.ctp:124
+#: Template/Annonces/edit2.ctp:23
+#: Template/Annonces/photo.ctp:11
+#: Template/Annonces/previsualiser.ctp:54
+#: Template/Dispos/view.ctp:87
+#: Template/Element/menu_proprietaire.ctp:37
+msgid "Informations générales"
+msgstr ""
+
+#: Template/Annonces/add.ctp:267
+#: Template/Annonces/edit.ctp:127
+#: Template/Annonces/edit2.ctp:26
+#: Template/Annonces/photo.ctp:14
+#: Template/Annonces/previsualiser.ctp:57
+#: Template/Dispos/view.ctp:90
+msgid "Ajouter des images"
+msgstr ""
+
+#: Template/Annonces/add.ctp:270
+#: Template/Annonces/edit.ctp:130
+#: Template/Annonces/edit2.ctp:29
+#: Template/Annonces/photo.ctp:17
+#: Template/Annonces/previsualiser.ctp:60
+#: Template/Dispos/view.ctp:93
+msgid "Tarifs et diponibilités"
+msgstr ""
+
+#: Template/Annonces/add.ctp:273
+#: Template/Annonces/edit.ctp:133
+#: Template/Annonces/edit2.ctp:32
+#: Template/Annonces/photo.ctp:20
+#: Template/Annonces/previsualiser.ctp:63
+#: Template/Dispos/view.ctp:96
+msgid "Prévisualisez votre annonce"
+msgstr ""
+
+#: Template/Annonces/add.ctp:279
+#: Template/Annonces/edit.ctp:139
+msgid "Localisation et accès"
+msgstr ""
+
+#: Template/Annonces/add.ctp:300
+#: Template/Annonces/edit.ctp:171
+#: Template/Report/view.ctp:49
+#: Template/Reservations/locataire_view.ctp:52
+#: Template/Reservations/validation.ctp:62
+#: Template/Reservations/view.ctp:467
+msgid "Station"
+msgstr ""
+
+#: Template/Annonces/add.ctp:302
+#: Template/Annonces/edit.ctp:173
+msgid "Choisir station"
+msgstr ""
+
+#: Template/Annonces/add.ctp:311;320;328;335;340;349;356;433;445;449;1143;1149
+#: Template/Annonces/depotannonce.ctp:42;49;55
+#: Template/Annonces/edit.ctp:182;191;199;206;211;220;227;304;316;320;1046;1052
+#: Template/Annonces/view.ctp:2499;2510;2527;2533
+#: Template/Reservations/editreservationcalendar.ctp:331;344;355;367;383
+#: Template/Utilisateurs/infobancaire.ctp:38;45;52;63;69;75;81;87
+msgid "Champs obligatoires"
+msgstr ""
+
+#: Template/Annonces/add.ctp:317
+#: Template/Annonces/edit.ctp:188
+msgid "Sélectionnez votre village"
+msgstr ""
+
+#: Template/Annonces/add.ctp:324
+#: Template/Annonces/edit.ctp:195
+#: Template/Annonces/view.ctp:884
+#: Template/Annonces/viewprev.ctp:84
+msgid "Bâtiment"
+msgstr ""
+
+#: Template/Annonces/add.ctp:325
+#: Template/Annonces/edit.ctp:196
+msgid "Sélectionnez votre bâtiment"
+msgstr ""
+
+#: Template/Annonces/add.ctp:333
+#: Template/Annonces/edit.ctp:204
+msgid "Étage"
+msgstr ""
+
+#: Template/Annonces/add.ctp:338
+#: Template/Annonces/edit.ctp:209
+msgid "Numéro d'appartement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:343
+#: Template/Annonces/edit.ctp:214
+msgid "Caution"
+msgstr ""
+
+#: Template/Annonces/add.ctp:343
+msgid "La caution est une empreinte bancaire du moyen de paiement utilisé par le locataire lors de sa réservation. Il est possible de prélever le montant correspondant aux dommages jusqu’à 14 jours après le départ du locataire."
+msgstr ""
+
+#: Template/Annonces/add.ctp:343
+msgid "Attention, le locataire doit avoir une capacité de paiement correspondant à la somme de la réservation et de la caution. Un montant trop élevé peut donc rendre plus difficile la réservation de votre hébergement."
+msgstr ""
+
+#: Template/Annonces/add.ctp:346
+#: Template/Annonces/edit.ctp:217
+msgid "Choisir la caution"
+msgstr ""
+
+#: Template/Annonces/add.ctp:354
+#: Template/Annonces/edit.ctp:225
+#: Template/Annonces/view.ctp:1298
+msgid "Numéro d'enregistrement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:354
+#: Template/Annonces/edit.ctp:225
+msgid "Numéro d'immatriculation à 13 chiffres pour la location saisonnière d'un meublé de tourisme. <br>Cette identification unique, commune à toutes les plateformes, est fournie par la mairie."
+msgstr ""
+
+#: Template/Annonces/add.ctp:359
+#: Template/Annonces/edit.ctp:230
+msgid "Sélectionnez votre statut"
+msgstr ""
+
+#: Template/Annonces/add.ctp:359
+#: Template/Annonces/edit.ctp:230
+msgid "Le décret n°2020-1585 du 14 décembre 2020 relatif aux informations obligatoires pour toute offre de location en meublé de tourisme vient préciser qu'à compter du 1er janvier 2021, toute offre de location d'un meublé de tourisme émanant d'un professionnel doit porter la mention 'annonce professionnelle'. Toute offre de location d'un meublé de tourisme n'émanant pas d'un professionnel porte la mention 'annonce de particulier'. Vous êtes considéré comme loueur professionnel lorsque les recettes annuelles retirées de l'activité de location par l'ensemble des membres du foyer fiscal excédent 23000€. Ces recettes excédent les revenus que le foyer fiscal tire des autres revenus soumis à l'impôt sur le revenu (traitements et salaires, bénéfices industriels)."
+msgstr ""
+
+#: Template/Annonces/add.ctp:362
+#: Template/Annonces/edit.ctp:233
+#: Template/Annonces/view.ctp:1301
+msgid "Loueur particulier"
+msgstr ""
+
+#: Template/Annonces/add.ctp:366
+#: Template/Annonces/edit.ctp:237
+#: Template/Annonces/view.ctp:1301
+msgid "Loueur professionnel"
+msgstr ""
+
+#: Template/Annonces/add.ctp:372
+#: Template/Annonces/detail.ctp:44
+#: Template/Annonces/edit.ctp:243
+#: Template/Annonces/view.ctp:755
+msgid "Ascenseur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:375;386;397
+#: Template/Annonces/edit.ctp:246;257;268
+#: Template/Annonces/view.ctp:736;751;759;772
+#: Template/Dispos/view.ctp:959
+#: Template/Reservations/locataireAddres.ctp:245
+#: Template/Reservations/locataire_addres.ctp:606
+#: Template/Reservations/locataire_view.ctp:188;258
+#: Template/Reservations/view.ctp:529
+#: Template/Utilisateurs/listannonce.ctp:125
+#: Template/Utilisateurs/mesmessages.ctp:296
+msgid "Non"
+msgstr ""
+
+#: Template/Annonces/add.ctp:379;390;401
+#: Template/Annonces/edit.ctp:250;261;272
+#: Template/Annonces/view.ctp:736
+#: Template/Dispos/view.ctp:960
+#: Template/Reservations/locataireAddres.ctp:245
+#: Template/Reservations/locataire_addres.ctp:602
+#: Template/Reservations/locataire_view.ctp:189;259
+#: Template/Reservations/view.ctp:530
+#: Template/Utilisateurs/listannonce.ctp:126
+#: Template/Utilisateurs/mesmessages.ctp:297
+msgid "Oui"
+msgstr ""
+
+#: Template/Annonces/add.ctp:383
+#: Template/Annonces/edit.ctp:254
+msgid "Accès personnes à mobilité réduite"
+msgstr ""
+
+#: Template/Annonces/add.ctp:394
+#: Template/Annonces/detail.ctp:52
+#: Template/Annonces/edit.ctp:265
+#: Template/Annonces/view.ctp:772
+#: Template/Annonces/viewprev.ctp:165
+msgid "Non-fumeur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:407
+#: Template/Annonces/edit.ctp:278
+#: Template/Annonces/view.ctp:747
+msgid "Stationnement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:411
+#: Template/Annonces/edit.ctp:282
+#: Template/Annonces/view.ctp:737
+msgid "Garage"
+msgstr ""
+
+#: Template/Annonces/add.ctp:415
+#: Template/Annonces/edit.ctp:286
+#: Template/Annonces/view.ctp:737
+#: Template/Element/menu_recherche.ctp:197
+#: Template/Element/menu_recherche_avancee.ctp:107
+#: Template/Element/menu_recherche_bande.ctp:291
+msgid "Parking"
+msgstr ""
+
+#: Template/Annonces/add.ctp:419
+#: Template/Annonces/edit.ctp:290
+#: Template/Annonces/view.ctp:737
+msgid "à Proximité"
+msgstr ""
+
+#: Template/Annonces/add.ctp:426
+#: Template/Annonces/edit.ctp:297
+msgid "A propos de votre hébergement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:432
+#: Template/Annonces/depotannonce.ctp:47
+#: Template/Annonces/edit.ctp:303
+msgid "Type d'hébergement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:436
+#: Template/Annonces/edit.ctp:307
+#: Template/Annonces/view.ctp:763
+#: Template/Annonces/viewprev.ctp:169
+msgid "Exposition"
+msgstr ""
+
+#: Template/Annonces/add.ctp:436
+#: Template/Annonces/edit.ctp:307
+msgid "Exposition de votre hébergement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:439
+#: Template/Annonces/edit.ctp:310
+#: Template/Annonces/view.ctp:768
+msgid "Vue"
+msgstr ""
+
+#: Template/Annonces/add.ctp:439
+#: Template/Annonces/edit.ctp:310
+msgid "Vue de votre hébergement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:444
+#: Template/Annonces/edit.ctp:315
+msgid "Nombre de pièces"
+msgstr ""
+
+#: Template/Annonces/add.ctp:444
+#: Template/Annonces/edit.ctp:315
+msgid "Sélectionnez le nombre de pièces"
+msgstr ""
+
+#: Template/Annonces/add.ctp:448
+#: Template/Annonces/edit.ctp:319
+msgid "Superficie"
+msgstr ""
+
+#: Template/Annonces/add.ctp:452
+#: Template/Annonces/edit.ctp:323
+#: Template/Element/menu_recherche_bande.ctp:248
+msgid "Classement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:452
+#: Template/Annonces/edit.ctp:323
+msgid "Attention, il s’agît du classement délivré par l’un des organismes certifiés, donnant lieu à une modification du calcul de la taxe de séjour. Le classement étoilé d'une résidence de tourisme ne constitue pas un classement de l'hébergement (qui doit être évalué de manière individuelle). Pensez à bien vérifier la certification de l’organisme délivrant (les classements locaux délivrés par les stations ne sont pas nécessairement reconnus comme classements au niveau fiscal). Chaque propriétaire est tenu de vérifier la validité de son classement et est responsable de toute erreur de collecte de la taxe de séjour découlant d’une déclaration erronée."
+msgstr ""
+
+#: Template/Annonces/add.ctp:453
+#: Template/Annonces/edit.ctp:324
+msgid "Sélectionnez le classement de votre hébergement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:458
+#: Template/Annonces/edit.ctp:329
+msgid "Nombre de chambres"
+msgstr ""
+
+#: Template/Annonces/add.ctp:458
+#: Template/Annonces/edit.ctp:329
+msgid "Sélectionnez le nombre de chambres"
+msgstr ""
+
+#: Template/Annonces/add.ctp:461
+#: Template/Annonces/edit.ctp:332
+msgid "Sélectionnez le nombre de lits simples"
+msgstr ""
+
+#: Template/Annonces/add.ctp:461
+#: Template/Annonces/edit.ctp:332
+msgid "Nombre de lits simples"
+msgstr ""
+
+#: Template/Annonces/add.ctp:464
+#: Template/Annonces/edit.ctp:335
+msgid "Sélectionnez le nombre de personnes"
+msgstr ""
+
+#: Template/Annonces/add.ctp:464
+#: Template/Annonces/edit.ctp:335
+msgid "Nombre de personnes (maximum)"
+msgstr ""
+
+#: Template/Annonces/add.ctp:471
+#: Template/Annonces/edit.ctp:342
+msgid "Coin montagne"
+msgstr ""
+
+#: Template/Annonces/add.ctp:477
+#: Template/Annonces/edit.ctp:348
+msgid "Nombre de salles de bain"
+msgstr ""
+
+#: Template/Annonces/add.ctp:477
+#: Template/Annonces/edit.ctp:348
+msgid "Sélectionnez le nombre de salles de bain"
+msgstr ""
+
+#: Template/Annonces/add.ctp:480
+#: Template/Annonces/edit.ctp:351
+msgid "Nombre de douches"
+msgstr ""
+
+#: Template/Annonces/add.ctp:480
+#: Template/Annonces/edit.ctp:351
+msgid "Sélectionnez le nombre de douches"
+msgstr ""
+
+#: Template/Annonces/add.ctp:483
+#: Template/Annonces/edit.ctp:354
+msgid "Nombre de baignoires"
+msgstr ""
+
+#: Template/Annonces/add.ctp:483
+#: Template/Annonces/edit.ctp:354
+msgid "Sélectionnez le nombre de baignoires"
+msgstr ""
+
+#: Template/Annonces/add.ctp:488
+#: Template/Annonces/edit.ctp:359
+msgid "Nombre de WC"
+msgstr ""
+
+#: Template/Annonces/add.ctp:488
+#: Template/Annonces/edit.ctp:359
+msgid "Sélectionnez le nombre de WC"
+msgstr ""
+
+#: Template/Annonces/add.ctp:491
+#: Template/Annonces/edit.ctp:362
+msgid "Dont WC séparés"
+msgstr ""
+
+#: Template/Annonces/add.ctp:491
+#: Template/Annonces/edit.ctp:362
+msgid "Sélectionnez le nombre de WC séparés"
+msgstr ""
+
+#: Template/Annonces/add.ctp:494
+#: Template/Annonces/detail.ctp:75
+#: Template/Annonces/edit.ctp:365
+#: Template/Annonces/viewprev.ctp:183
+msgid "Extérieurs"
+msgstr ""
+
+#: Template/Annonces/add.ctp:497
+#: Template/Annonces/edit.ctp:368
+msgid "Balcon"
+msgstr ""
+
+#: Template/Annonces/add.ctp:501
+#: Template/Annonces/edit.ctp:372
+msgid "Terrasse"
+msgstr ""
+
+#: Template/Annonces/add.ctp:505
+#: Template/Annonces/edit.ctp:376
+msgid "Jardin"
+msgstr ""
+
+#: Template/Annonces/add.ctp:512
+#: Template/Annonces/edit.ctp:383
+msgid "Services et équipement"
+msgstr ""
+
+#: Template/Annonces/add.ctp:518
+#: Template/Annonces/edit.ctp:389
+msgid "Électroménager"
+msgstr ""
+
+#: Template/Annonces/add.ctp:522
+#: Template/Annonces/detail.ctp:312
+#: Template/Annonces/edit.ctp:393
+#: Template/Annonces/view.ctp:787
+#: Template/Annonces/viewprev.ctp:402
+msgid "Lave-linge"
+msgstr ""
+
+#: Template/Annonces/add.ctp:526
+#: Template/Annonces/detail.ctp:315
+#: Template/Annonces/edit.ctp:397
+#: Template/Annonces/view.ctp:790
+#: Template/Annonces/viewprev.ctp:405
+msgid "Sèche-linge"
+msgstr ""
+
+#: Template/Annonces/add.ctp:530
+#: Template/Annonces/detail.ctp:318
+#: Template/Annonces/edit.ctp:401
+#: Template/Annonces/view.ctp:793
+#: Template/Annonces/viewprev.ctp:408
+msgid "Radiateur sèche-serviettes"
+msgstr ""
+
+#: Template/Annonces/add.ctp:536
+#: Template/Annonces/detail.ctp:327
+#: Template/Annonces/edit.ctp:412
+#: Template/Annonces/view.ctp:802
+#: Template/Annonces/viewprev.ctp:417
+msgid "Réfrigerateur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:540
+#: Template/Annonces/edit.ctp:416
+#: Template/Annonces/view.ctp:803
+msgid "Table Top 140 Litres"
+msgstr ""
+
+#: Template/Annonces/add.ctp:544
+#: Template/Annonces/edit.ctp:420
+#: Template/Annonces/view.ctp:804
+msgid "Table Top et Compartiment Congélateur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:548
+#: Template/Annonces/edit.ctp:424
+#: Template/Annonces/view.ctp:805
+msgid "Supérieur à 140 litres"
+msgstr ""
+
+#: Template/Annonces/add.ctp:554
+#: Template/Annonces/detail.ctp:333
+#: Template/Annonces/edit.ctp:430
+#: Template/Annonces/view.ctp:808
+#: Template/Annonces/viewprev.ctp:423
+msgid "Micro-ondes"
+msgstr ""
+
+#: Template/Annonces/add.ctp:558
+#: Template/Annonces/detail.ctp:333
+#: Template/Annonces/edit.ctp:434
+#: Template/Annonces/view.ctp:808
+#: Template/Annonces/viewprev.ctp:423
+msgid "Multi-fonctions"
+msgstr ""
+
+#: Template/Annonces/add.ctp:564;568
+#: Template/Annonces/edit.ctp:445;449
+#: Template/Annonces/view.ctp:813
+msgid "Four"
+msgstr ""
+
+#: Template/Annonces/add.ctp:572
+#: Template/Annonces/edit.ctp:453
+#: Template/Annonces/view.ctp:814
+msgid "Mini Four"
+msgstr ""
+
+#: Template/Annonces/add.ctp:580
+#: Template/Annonces/detail.ctp:321
+#: Template/Annonces/edit.ctp:466
+#: Template/Annonces/view.ctp:796
+#: Template/Annonces/viewprev.ctp:411
+msgid "Lave vaisselle"
+msgstr ""
+
+#: Template/Annonces/add.ctp:584
+#: Template/Annonces/edit.ctp:470
+#: Template/Annonces/view.ctp:797
+msgid "4 Couverts"
+msgstr ""
+
+#: Template/Annonces/add.ctp:588
+#: Template/Annonces/edit.ctp:474
+#: Template/Annonces/view.ctp:798
+msgid "8 Couverts"
+msgstr ""
+
+#: Template/Annonces/add.ctp:592
+#: Template/Annonces/edit.ctp:478
+#: Template/Annonces/view.ctp:799
+msgid "12 Couverts"
+msgstr ""
+
+#: Template/Annonces/add.ctp:598
+#: Template/Annonces/detail.ctp:342
+#: Template/Annonces/edit.ctp:484
+#: Template/Annonces/view.ctp:816
+#: Template/Annonces/viewprev.ctp:432
+msgid "Table de Cuisson"
+msgstr ""
+
+#: Template/Annonces/add.ctp:603
+#: Template/Annonces/edit.ctp:489
+#: Template/Annonces/view.ctp:818
+msgid "Electrique"
+msgstr ""
+
+#: Template/Annonces/add.ctp:607
+#: Template/Annonces/edit.ctp:493
+#: Template/Annonces/view.ctp:819
+msgid "Gaz"
+msgstr ""
+
+#: Template/Annonces/add.ctp:611
+#: Template/Annonces/edit.ctp:497
+#: Template/Annonces/view.ctp:820
+msgid "Vitrocéramique"
+msgstr ""
+
+#: Template/Annonces/add.ctp:615
+#: Template/Annonces/edit.ctp:501
+#: Template/Annonces/view.ctp:821
+msgid "Induction"
+msgstr ""
+
+#: Template/Annonces/add.ctp:621
+#: Template/Annonces/edit.ctp:507
+msgid "2 feux"
+msgstr ""
+
+#: Template/Annonces/add.ctp:625
+#: Template/Annonces/edit.ctp:511
+msgid "3 feux"
+msgstr ""
+
+#: Template/Annonces/add.ctp:629
+#: Template/Annonces/edit.ctp:515
+msgid "4 feux"
+msgstr ""
+
+#: Template/Annonces/add.ctp:635
+#: Template/Annonces/detail.ctp:336
+#: Template/Annonces/edit.ctp:521
+#: Template/Annonces/view.ctp:811
+#: Template/Annonces/viewprev.ctp:426
+msgid "Hotte"
+msgstr ""
+
+#: Template/Annonces/add.ctp:640
+#: Template/Annonces/edit.ctp:526
+msgid "Petit Ménager"
+msgstr ""
+
+#: Template/Annonces/add.ctp:644
+#: Template/Annonces/edit.ctp:530
+msgid "Cafetière"
+msgstr ""
+
+#: Template/Annonces/add.ctp:648
+#: Template/Annonces/edit.ctp:534
+msgid "Grille-pain"
+msgstr ""
+
+#: Template/Annonces/add.ctp:652
+#: Template/Annonces/edit.ctp:538
+#: Template/Annonces/view.ctp:840
+msgid "Bouilloire"
+msgstr ""
+
+#: Template/Annonces/add.ctp:656
+#: Template/Annonces/edit.ctp:542
+#: Template/Annonces/view.ctp:841
+msgid "Auto-cuiseur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:660
+#: Template/Annonces/edit.ctp:546
+#: Template/Annonces/view.ctp:842
+msgid "Mixeur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:666
+#: Template/Annonces/edit.ctp:552
+#: Template/Annonces/view.ctp:851
+msgid "Aspirateur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:670
+#: Template/Annonces/edit.ctp:556
+#: Template/Annonces/view.ctp:843
+msgid "Raclette"
+msgstr ""
+
+#: Template/Annonces/add.ctp:674
+#: Template/Annonces/edit.ctp:560
+#: Template/Annonces/view.ctp:844
+msgid "Pierrade"
+msgstr ""
+
+#: Template/Annonces/add.ctp:678
+#: Template/Annonces/edit.ctp:564
+#: Template/Annonces/view.ctp:845
+msgid "Crépière"
+msgstr ""
+
+#: Template/Annonces/add.ctp:682
+#: Template/Annonces/edit.ctp:568
+#: Template/Annonces/view.ctp:846
+msgid "Fondue"
+msgstr ""
+
+#: Template/Annonces/add.ctp:688
+#: Template/Annonces/edit.ctp:574
+#: Template/Annonces/view.ctp:847
+msgid "Wok"
+msgstr ""
+
+#: Template/Annonces/add.ctp:692
+#: Template/Annonces/edit.ctp:578
+#: Template/Annonces/view.ctp:848
+msgid "Sèche-cheveux"
+msgstr ""
+
+#: Template/Annonces/add.ctp:696
+#: Template/Annonces/edit.ctp:582
+#: Template/Annonces/view.ctp:849
+msgid "Fer à repasser"
+msgstr ""
+
+#: Template/Annonces/add.ctp:700
+#: Template/Annonces/edit.ctp:586
+#: Template/Annonces/view.ctp:850
+msgid "Table à repasser"
+msgstr ""
+
+#: Template/Annonces/add.ctp:705
+#: Template/Annonces/edit.ctp:591
+msgid "Mobilier"
+msgstr ""
+
+#: Template/Annonces/add.ctp:709
+#: Template/Annonces/edit.ctp:595
+msgid "Placards"
+msgstr ""
+
+#: Template/Annonces/add.ctp:713
+#: Template/Annonces/edit.ctp:599
+msgid "Penderie"
+msgstr ""
+
+#: Template/Annonces/add.ctp:717
+#: Template/Annonces/edit.ctp:607
+msgid "Table"
+msgstr ""
+
+#: Template/Annonces/add.ctp:741
+#: Template/Annonces/edit.ctp:631
+msgid "Allongé"
+msgstr ""
+
+#: Template/Annonces/add.ctp:745
+msgid "autre"
+msgstr ""
+
+#: Template/Annonces/add.ctp:751
+#: Template/Annonces/edit.ctp:637
+msgid "Chaises"
+msgstr ""
+
+#: Template/Annonces/add.ctp:757
+#: Template/Annonces/edit.ctp:647
+msgid "Banquette Clic Clac"
+msgstr ""
+
+#: Template/Annonces/add.ctp:771
+#: Template/Annonces/edit.ctp:665
+msgid "Banquette BZ"
+msgstr ""
+
+#: Template/Annonces/add.ctp:793
+#: Template/Annonces/edit.ctp:687
+msgid "Tabourets"
+msgstr ""
+
+#: Template/Annonces/add.ctp:797
+#: Template/Annonces/edit.ctp:696
+msgid "Literie"
+msgstr ""
+
+#: Template/Annonces/add.ctp:801;805;809;813;817
+#: Template/Annonces/edit.ctp:700;704;708;712;716
+msgid "Lit"
+msgstr ""
+
+#: Template/Annonces/add.ctp:821;825
+#: Template/Annonces/edit.ctp:720;724
+msgid "Lits Superposés"
+msgstr ""
+
+#: Template/Annonces/add.ctp:829
+#: Template/Annonces/edit.ctp:728
+msgid "Banquette Révisible"
+msgstr ""
+
+#: Template/Annonces/add.ctp:833
+#: Template/Annonces/edit.ctp:732
+msgid "Banquette Gigogne"
+msgstr ""
+
+#: Template/Annonces/add.ctp:837
+#: Template/Annonces/edit.ctp:736
+msgid "Banquette Lits Peignes"
+msgstr ""
+
+#: Template/Annonces/add.ctp:841
+#: Template/Annonces/edit.ctp:740
+msgid "Banquette Rapido"
+msgstr ""
+
+#: Template/Annonces/add.ctp:849
+#: Template/Annonces/edit.ctp:748
+msgid "Oreillers"
+msgstr ""
+
+#: Template/Annonces/add.ctp:853
+#: Template/Annonces/edit.ctp:752
+msgid "Couvertures"
+msgstr ""
+
+#: Template/Annonces/add.ctp:857
+#: Template/Annonces/edit.ctp:756
+msgid "Couettes"
+msgstr ""
+
+#: Template/Annonces/add.ctp:861
+#: Template/Annonces/detail.ctp:416
+#: Template/Annonces/edit.ctp:760
+#: Template/Annonces/viewprev.ctp:515
+msgid "Protèges Matelas ou Alèzes"
+msgstr ""
+
+#: Template/Annonces/add.ctp:866
+#: Template/Annonces/edit.ctp:765
+msgid "Espace Ludique et multimédia"
+msgstr ""
+
+#: Template/Annonces/add.ctp:870
+#: Template/Annonces/edit.ctp:773
+#: Template/Annonces/view.ctp:863
+msgid "Téléviseur"
+msgstr ""
+
+#: Template/Annonces/add.ctp:874
+#: Template/Annonces/edit.ctp:777
+#: Template/Annonces/view.ctp:864
+msgid "Tube Cathodique"
+msgstr ""
+
+#: Template/Annonces/add.ctp:878
+#: Template/Annonces/edit.ctp:781
+#: Template/Annonces/view.ctp:865
+msgid "Cable Satellite"
+msgstr ""
+
+#: Template/Annonces/add.ctp:882
+#: Template/Annonces/edit.ctp:785
+#: Template/Annonces/view.ctp:866
+msgid "Décodeur Canal+"
+msgstr ""
+
+#: Template/Annonces/add.ctp:886
+#: Template/Annonces/edit.ctp:789
+#: Template/Annonces/view.ctp:867
+msgid "Ecran Plat LCD-LED"
+msgstr ""
+
+#: Template/Annonces/add.ctp:894
+#: Template/Annonces/edit.ctp:797
+#: Template/Annonces/view.ctp:869
+msgid "Décodeur Sky"
+msgstr ""
+
+#: Template/Annonces/add.ctp:898
+#: Template/Annonces/edit.ctp:801
+#: Template/Annonces/view.ctp:870
+msgid "Ecran Plasma"
+msgstr ""
+
+#: Template/Annonces/add.ctp:902
+#: Template/Annonces/edit.ctp:805
+#: Template/Annonces/view.ctp:871
+msgid "Chaines Etrangères"
+msgstr ""
+
+#: Template/Annonces/add.ctp:908
+#: Template/Annonces/edit.ctp:811
+#: Template/Annonces/view.ctp:873
+msgid "Lecteur CD"
+msgstr ""
+
+#: Template/Annonces/add.ctp:912
+#: Template/Annonces/edit.ctp:815
+#: Template/Annonces/view.ctp:874
+msgid "Chaine HIFI"
+msgstr ""
+
+#: Template/Annonces/add.ctp:918
+#: Template/Annonces/edit.ctp:821
+#: Template/Annonces/view.ctp:872
+msgid "Lecteur DVD"
+msgstr ""
+
+#: Template/Annonces/add.ctp:926
+#: Template/Annonces/edit.ctp:829
+#: Template/Annonces/view.ctp:759
+msgid "Wifi Gratuit (box dans l'appartement)"
+msgstr ""
+
+#: Template/Annonces/add.ctp:934
+#: Template/Annonces/edit.ctp:837
+#: Template/Annonces/view.ctp:759
+msgid "Wifi Payant"
+msgstr ""
+
+#: Template/Annonces/add.ctp:944
+#: Template/Annonces/edit.ctp:847
+#: Template/Annonces/view.ctp:875
+msgid "Jeux Vidéos"
+msgstr ""
+
+#: Template/Annonces/add.ctp:952
+#: Template/Annonces/edit.ctp:855
+msgid "jeux de société"
+msgstr ""
+
+#: Template/Annonces/add.ctp:957
+#: Template/Annonces/edit.ctp:860
+msgid "Équipements supplémentaires"
+msgstr ""
+
+#: Template/Annonces/add.ctp:961
+#: Template/Annonces/edit.ctp:864
+msgid "Baignoire Hydromassage"
+msgstr ""
+
+#: Template/Annonces/add.ctp:967;1052
+#: Template/Annonces/edit.ctp:870;955
+#: Template/Annonces/view.ctp:921
+msgid "Hammam"
+msgstr ""
+
+#: Template/Annonces/add.ctp:973;1056
+#: Template/Annonces/edit.ctp:876;959
+#: Template/Annonces/view.ctp:922
+msgid "Sauna"
+msgstr ""
+
+#: Template/Annonces/add.ctp:979
+#: Template/Annonces/edit.ctp:882
+msgid "Poêle à granule"
+msgstr ""
+
+#: Template/Annonces/add.ctp:984
+#: Template/Annonces/detail.ctp:80
+#: Template/Annonces/edit.ctp:887
+#: Template/Annonces/view.ctp:912
+#: Template/Annonces/viewprev.ctp:188
+#: Template/Pages/situation.ctp:10
+msgid "Situation"
+msgstr ""
+
+#: Template/Annonces/add.ctp:988
+#: Template/Annonces/edit.ctp:891
+msgid "Proche d'un centre commercial"
+msgstr ""
+
+#: Template/Annonces/add.ctp:992
+#: Template/Annonces/edit.ctp:895
+#: Template/Annonces/view.ctp:913
+msgid "Restaurants"
+msgstr ""
+
+#: Template/Annonces/add.ctp:996
+#: Template/Annonces/edit.ctp:899
+msgid "Locations de vélos"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1000
+#: Template/Annonces/edit.ctp:903
+msgid "Locations de ski"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1004
+#: Template/Annonces/edit.ctp:907
+msgid "Caisses de remontées mécaniques"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1010
+#: Template/Annonces/edit.ctp:913
+msgid "Proche des Transports publics"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1014
+#: Template/Annonces/edit.ctp:917
+#: Template/Annonces/view.ctp:942
+msgid "Proche des lieux d'animation"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1018
+#: Template/Annonces/edit.ctp:921
+#: Template/Annonces/view.ctp:943
+msgid "Bars"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1022
+#: Template/Annonces/edit.ctp:925
+#: Template/Annonces/view.ctp:944
+msgid "Pubs"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1026
+#: Template/Annonces/edit.ctp:929
+#: Template/Annonces/view.ctp:945
+msgid "Discothèques"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1034
+#: Template/Annonces/edit.ctp:937
+msgid "sentiers pédestres"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1038;1106
+#: Template/Annonces/edit.ctp:941;1009
+#: Template/Annonces/view.ctp:895;948
+msgid "Moins de 50 m"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1044
+#: Template/Annonces/edit.ctp:947
+#: Template/Annonces/view.ctp:919
+msgid "Proche des centres de bien etre"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1048
+#: Template/Annonces/edit.ctp:951
+#: Template/Annonces/view.ctp:920
+msgid "Spas"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1060
+#: Template/Annonces/edit.ctp:963
+#: Template/Annonces/view.ctp:923
+msgid "Jacuzzi"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1064
+#: Template/Annonces/edit.ctp:967
+#: Template/Annonces/view.ctp:924
+msgid "Massage"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1068
+#: Template/Annonces/edit.ctp:971
+#: Template/Annonces/view.ctp:925
+msgid "Acces Piscine"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1074
+#: Template/Annonces/edit.ctp:977
+#: Template/Annonces/view.ctp:936
+msgid "Proche des espaces enfants"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1078
+#: Template/Annonces/edit.ctp:981
+#: Template/Annonces/view.ctp:937
+msgid "Luge"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1082
+#: Template/Annonces/edit.ctp:985
+#: Template/Annonces/view.ctp:938
+msgid "Club Enfant"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1086
+#: Template/Annonces/edit.ctp:989
+#: Template/Annonces/view.ctp:939
+msgid "Garderie"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1090
+#: Template/Annonces/edit.ctp:993
+#: Template/Annonces/view.ctp:940
+msgid "Ecole de Ski"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1098
+#: Template/Annonces/edit.ctp:1001
+#: Template/Annonces/view.ctp:927
+msgid "Proche des espaces sportifs été/hiver"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1102
+#: Template/Annonces/edit.ctp:1005
+#: Template/Annonces/view.ctp:892;928
+msgid "Skis aux pieds"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1110
+#: Template/Annonces/edit.ctp:1013
+#: Template/Annonces/view.ctp:929
+msgid "Cours de Tennis"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1114
+#: Template/Annonces/edit.ctp:1017
+#: Template/Annonces/view.ctp:933
+msgid "Golf"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1118
+#: Template/Annonces/edit.ctp:1021
+#: Template/Annonces/view.ctp:930
+msgid "Piscine"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1122
+#: Template/Annonces/edit.ctp:1025
+#: Template/Annonces/view.ctp:931
+msgid "Squash"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1126
+#: Template/Annonces/edit.ctp:1029
+#: Template/Annonces/view.ctp:932
+msgid "Patinoire"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1135
+#: Template/Annonces/edit.ctp:1038
+msgid "Décrivez votre annonce"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1141
+#: Template/Annonces/edit.ctp:1044
+msgid "Titre de votre annonce (60 caractères maximum)"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1146
+#: Template/Annonces/edit.ctp:1049
+msgid "Description de l'annonce"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1147
+#: Template/Annonces/edit.ctp:1050
+msgid "Donnez envie d'en savoir plus : n'hésitez pas à vanter les mérites de votre appartement, son confort, équipement, proximité avec les lieux de commerce ou encore les richesses de la station (minimum 100 caractères, maximum 1000). Selon nos conditions générales, les adresses mail, références à d'autres sites internet ou numéros de téléphone ne sont pas acceptés ici. Merci de votre compréhension."
+msgstr ""
+
+#: Template/Annonces/add.ctp:1155
+#: Template/Annonces/edit.ctp:1058
+msgid "Inventaire"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1161
+#: Template/Annonces/edit.ctp:1064
+msgid "Télécharger une version de votre inventaire"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1162
+#: Template/Annonces/edit.ctp:1065
+msgid "Vous avez la possibilité de télécharger une version PDF de votre inventaire qui sera envoyé à vos locataires lors de leur arrivée"
+msgstr ""
+
+#: Template/Annonces/add.ctp:1167
+#: Template/Annonces/edit.ctp:1070
+msgid "nom-de-fichier.pdf"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:1
+msgid "Contact - Alpissime | Vos plus belles vacances à la montagne"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:2
+msgid "Vous avez une question pour Alpissime? Envoyez votre question ou votre commentaire via notre formulaire en ligne."
+msgstr ""
+
+#: Template/Annonces/contact.ctp:3
+msgid "Alpissime Location vacances aux Arcs - Contact"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:32
+#: Template/Annonces/galery.ctp:372
+#: Template/Annonces/lesarcslanding.ctp:661
+#: Template/Annonces/montchavinlescocheslanding.ctp:240;272;311;897
+#: Template/Annonces/station.ctp:447;752
+#: Template/Annonces/valdlanding.ctp:241;273;312;867
+#: Template/Annonces/webcam.ctp:402
+#: Template/Element/headerdiv.ctp:121;165;217
+#: Template/Layout/default.ctp:288
+#: Template/Layout/landing.ctp:729
+#: Template/Reservations/locataire_view.ctp:55
+#: Template/Reservations/validation.ctp:66
+#: Template/Reservations/view.ctp:471
+msgid "Contact"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:35
+msgid "Qui souhaitez-vous contacter ?"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:39
+#: Template/Annonces/depotannonce.ctp:261
+#: Template/Annonces/view.ctp:1556
+#: Template/Utilisateurs/add.ctp:232
+#: Template/Utilisateurs/edit.ctp:58
+msgid "Vos informations"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:41
+msgid "Adresse email"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:43
+#: Template/Utilisateurs/add.ctp:236
+#: Template/Utilisateurs/edit.ctp:63
+#: Template/Utilisateurs/nouveau_mdp.ctp:17
+#: Template/Utilisateurs/ouvrircompte.ctp:50
+msgid "Veuillez entrer une adresse email valide."
+msgstr ""
+
+#: Template/Annonces/contact.ctp:47
+#: Template/Annonces/view.ctp:2479
+#: Template/Reservations/locataire_view.ctp:283
+#: Template/Reservations/view.ctp:381
+msgid "Nom et prénom"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:49
+#: Template/Utilisateurs/add.ctp:262
+#: Template/Utilisateurs/edit.ctp:75
+msgid "Veuillez entrer votre nom."
+msgstr ""
+
+#: Template/Annonces/contact.ctp:54
+#: Template/Annonces/view.ctp:2541
+#: Template/Reservations/locataire_view.ctp:300
+#: Template/Reservations/view.ctp:398
+msgid "Votre message"
+msgstr ""
+
+#: Template/Annonces/contact.ctp:56
+msgid "Veuillez entrer votre message."
+msgstr ""
+
+#: Template/Annonces/contact.ctp:65
+#: Template/Annonces/view.ctp:2553
+#: Template/Annonces/viewprev.ctp:1183
+#: Template/Reservations/locataire_view.ctp:313
+#: Template/Reservations/view.ctp:411
+#: Template/Utilisateurs/addmessage.ctp:34
+#: Template/Utilisateurs/reponsemessageprop.ctp:22
+msgid "Envoyer"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:28
+msgid "Améliorez vos revenus en louant votre hébergement sur Alpissime"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:32
+msgid "Sélectionnez la station de votre hébergement"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:53
+msgid "Nombre de voyageurs"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:60
+#: Template/Annonces/lesarcslanding.ctp:375
+#: Template/Annonces/massif.ctp:102
+#: Template/Annonces/montchavinlescocheslanding.ctp:604
+#: Template/Annonces/valdlanding.ctp:602
+#: Template/Layout/landing.ctp:444
+msgid "En savoir plus"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:61
+msgid "Commencer"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:71
+msgid "Dépôt d'annonce gratuit et sans abonnement"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:78
+msgid "Gardez le contrôle"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:79
+msgid "Gerez en direct vos locations et optimisez votre taux de remplissage pour une rentabilité satisfaisante."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:80
+msgid "La location de vacance avec Alpissime vous permet de couvrir les frais d'entretien et de rénovation de votre résidence secondaire et de la rentabiliser."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:83
+msgid "En toute simplicité!"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:85
+#: Template/Element/boutons_clients.ctp:15
+msgid "Déposez votre annonce"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:86
+msgid "Reçevez et acceptez des demandes de réservation"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:87
+msgid "Percevez vos revenus"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:104
+msgid "Annonce gratuite et sans abonnement"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:105
+msgid "le dépôt d'annonce est gratuit et ne nécessite aucun abonnement. La commission liée à vos locations est limitée à 2%."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:117
+msgid "Paiement en ligne sécurisé"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:118
+msgid "Fini les paiements par chèque ou virements bancaires !<br>Profitez du paiement sécurisé de vos locations et cautions et louez l'esprit tranquille."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:130
+msgid "Des réductions en stations"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:131
+msgid "Grâce à nos partenariats, vous et vos locataires recevez des réductions utilisables sur la marketplace Alpissime ou directement en station."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:143
+msgid "Une offre de location entre particuliers pensée pour les propriétaires"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:144
+msgid "Né en 2009, Alpissime s'est construit autour des demandes des propriétaires de résidences secondaires en station de ski. Depuis, nos équipes améliorent sans cesse les fonctionalités de la plateforme pour apporter simplicité et facilité à la gestion des hébergements proposés à la location sur internet."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:146
+msgid "Vous êtes à la recherche d'une conciergerie ?"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:146
+msgid "Découvrez les stations dans lesquelles nous sommes présents."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:150
+msgid "Des conditions d'utilisation pensées pour vous protéger"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:151
+msgid "Une assistance dédiée et à l'écoute"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:152
+msgid "La gestion de vos demandes de location en toute simplicité"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:153
+msgid "La possibilité de choisir une caution pour votre hébergement"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:154
+msgid "La perception et le versement de la taxe de séjour aux municipalités"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:155
+msgid "La gestion des inventaires et des incidents"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:165
+msgid "Alpissime, la référence de la location de vacances entre particuliers en station de ski"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:166
+msgid "Déposer mon annonce"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:176
+#: Template/Annonces/view.ctp:1470
+msgid "Connectez-vous pour continuer"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:189
+#: Template/Annonces/view.ctp:1483
+msgid "Entrer votre email"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:195
+#: Template/Annonces/view.ctp:1489
+msgid "Entrer votre mot de passe"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:200
+#: Template/Annonces/view.ctp:1494
+#: Template/Utilisateurs/nouveau_mdp.ctp:28
+#: Template/Utilisateurs/ouvrircompte.ctp:62
+msgid "Mot de passe oublié !"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:211
+#: Template/Annonces/montchavinlescocheslanding.ctp:148;247
+#: Template/Annonces/valdlanding.ctp:149;248
+#: Template/Annonces/view.ctp:1505
+#: Template/Element/headerdiv.ctp:32;128
+#: Template/Utilisateurs/add.ctp:211
+#: Template/Utilisateurs/loginmanager.ctp:115
+#: Template/Utilisateurs/nouveau_mdp.ctp:7
+#: Template/Utilisateurs/ouvrircompte.ctp:39;73
+msgid "Connexion"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:218
+#: Template/Annonces/view.ctp:1512
+msgid "Vous n'avez pas de compte ?"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:218;348
+#: Template/Annonces/montchavinlescocheslanding.ctp:145;244
+#: Template/Annonces/valdlanding.ctp:146;245
+#: Template/Annonces/view.ctp:1512;1636
+#: Template/Element/headerdiv.ctp:29;125
+#: Template/Utilisateurs/add.ctp:210;301
+#: Template/Utilisateurs/nouveau_mdp.ctp:39
+#: Template/Utilisateurs/ouvrircompte.ctp:78
+msgid "Inscription"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:237
+#: Template/Annonces/view.ctp:1532
+msgid "Inscrivez-vous"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:254
+#: Template/Annonces/view.ctp:1549
+#: Template/Utilisateurs/add.ctp:220
+#: Template/Utilisateurs/edit.ctp:50
+msgid "Vous êtes"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:264
+#: Template/Annonces/view.ctp:1559
+#: Template/Utilisateurs/add.ctp:234
+#: Template/Utilisateurs/nouveau_mdp.ctp:15
+#: Template/Utilisateurs/ouvrircompte.ctp:47
+msgid "Votre adresse email"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:279
+#: Template/Annonces/view.ctp:1574
+#: Template/Utilisateurs/add.ctp:245
+#: Template/Utilisateurs/nouveau_mdp.ctp:21
+#: Template/Utilisateurs/ouvrircompte.ctp:54
+msgid "Votre mot de passe"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:286
+#: Template/Annonces/view.ctp:1581
+#: Template/Utilisateurs/add.ctp:252
+msgid "Confirmez votre mot de passe"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:295
+#: Template/Annonces/view.ctp:1590
+#: Template/Utilisateurs/add.ctp:260
+#: Template/Utilisateurs/edit.ctp:73
+msgid "Votre nom"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:301
+#: Template/Annonces/view.ctp:1596
+#: Template/Utilisateurs/add.ctp:266
+#: Template/Utilisateurs/edit.ctp:79
+msgid "Votre prénom"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:310
+#: Template/Annonces/view.ctp:1605
+#: Template/Utilisateurs/edit.ctp:91
+msgid "Date de naissance"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:320
+#: Template/Annonces/view.ctp:1615
+#: Template/Reservations/confirmreservations.ctp:151
+#: Template/Reservations/editreservationcalendar.ctp:381;397
+#: Template/Reservations/get_reservation_locataire.ctp:66;85;91;131
+#: Template/Reservations/get_reservation_proprietaire.ctp:70;88;94;101;189
+#: Template/Reservations/locataire_addres.ctp:535;549;1282
+#: Template/Utilisateurs/add.ctp:276
+#: Template/Utilisateurs/edit.ctp:88
+msgid "Numéro invalide"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:341
+#: Template/Annonces/view.ctp:1629
+#: Template/Utilisateurs/add.ctp:291
+msgid "J'accepte les"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:341
+#: Template/Annonces/view.ctp:1629
+#: Template/Utilisateurs/add.ctp:291
+msgid "Conditions Générales d'Utilisations"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:343
+#: Template/Annonces/view.ctp:1631
+#: Template/Utilisateurs/add.ctp:293
+msgid "Vous devez accepter avant de valider."
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:358
+#: Template/Annonces/view.ctp:1372;1407
+#: Template/Annonces/viewprev.ctp:1184
+msgid "ENVOYER"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:546;548
+#: Template/Annonces/montchavinlescocheslanding.ctp:158;183;237;269;305
+#: Template/Annonces/valdlanding.ctp:159;184;238;270;306
+#: Template/Annonces/view.ctp:2754;2756;2763
+#: Template/Element/headerdiv.ctp:40;64;118;162;211
+msgid "Magazine"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:546;548
+#: Template/Annonces/montchavinlescocheslanding.ctp:138;161;186;231;266;302
+#: Template/Annonces/valdlanding.ctp:139;162;187;232;267;303
+#: Template/Annonces/view.ctp:2754;2756;2763
+#: Template/Element/headerdiv.ctp:23;43;67;112;159;208
+#: Template/Utilisateurs/index.ctp:111;114
+msgid "Marketplace"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:546
+#: Template/Annonces/montchavinlescocheslanding.ctp:173
+#: Template/Annonces/valdlanding.ctp:174
+#: Template/Annonces/view.ctp:2754
+#: Template/Element/headerdiv.ctp:55
+msgid "Profil"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:546;548
+#: Template/Annonces/montchavinlescocheslanding.ctp:175;203;280
+#: Template/Annonces/valdlanding.ctp:176;204;281
+#: Template/Annonces/view.ctp:2754;2756;2763
+#: Template/Element/headerdiv.ctp:57;84;173
+#: Template/Reservations/editreservationcalendar.ctp:252;254
+#: Template/Reservations/locataire_view.ctp:34
+#: Template/Reservations/reservationcalendar.ctp:122;124
+#: Template/Reservations/validation.ctp:24;26
+#: Template/Reservations/view.ctp:431;433
+#: Template/Utilisateurs/edit.ctp:24;26
+#: Template/Utilisateurs/index.ctp:82
+#: Template/Utilisateurs/infobancaire.ctp:12;14
+#: Template/Utilisateurs/listannonce.ctp:8;10
+#: Template/Utilisateurs/locataire_index.ctp:40
+#: Template/Utilisateurs/mesmessages.ctp:130;132
+msgid "Réservations"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:546;548
+#: Template/Annonces/montchavinlescocheslanding.ctp:177;209;288;330
+#: Template/Annonces/valdlanding.ctp:178;210;289;331
+#: Template/Annonces/view.ctp:2754;2756;2763
+#: Template/Element/headerdiv.ctp:59;90;181;236
+#: Template/Element/menu_locataire.ctp:23
+#: Template/Element/menu_proprietaire.ctp:29
+#: Template/Utilisateurs/index.ctp:130
+#: Template/Utilisateurs/locataire_index.ctp:67
+msgid "Déconnexion"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:548
+#: Template/Annonces/montchavinlescocheslanding.ctp:201;316
+#: Template/Annonces/valdlanding.ctp:202;317
+#: Template/Annonces/view.ctp:2756;2763
+#: Template/Dispos/edit.ctp:9
+#: Template/Element/headerdiv.ctp:82;222
+#: Template/Reservations/locataire_addres.ctp:365
+#: Template/Utilisateurs/index.ctp:27
+msgid "Espace Propriétaire"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:548
+#: Template/Annonces/montchavinlescocheslanding.ctp:205;319
+#: Template/Annonces/valdlanding.ctp:206;320
+#: Template/Annonces/view.ctp:2756;2763
+#: Template/Element/headerdiv.ctp:86;225
+#: Template/Element/menu_proprietaire.ctp:11
+msgid "Mes annonces"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:548
+#: Template/Annonces/montchavinlescocheslanding.ctp:207;283;325
+#: Template/Annonces/valdlanding.ctp:208;284;326
+#: Template/Annonces/view.ctp:2756;2763
+#: Template/Element/headerdiv.ctp:88;176;231
+#: Template/Reservations/editreservationcalendar.ctp:256
+#: Template/Reservations/locataire_view.ctp:35
+#: Template/Reservations/reservationcalendar.ctp:126
+#: Template/Reservations/validation.ctp:28
+#: Template/Reservations/view.ctp:435
+#: Template/Utilisateurs/detailmessage.ctp:155
+#: Template/Utilisateurs/edit.ctp:28
+#: Template/Utilisateurs/index.ctp:97
+#: Template/Utilisateurs/infobancaire.ctp:16
+#: Template/Utilisateurs/listannonce.ctp:12
+#: Template/Utilisateurs/locataire_index.ctp:54
+#: Template/Utilisateurs/mesmessages.ctp:134
+msgid "Messages"
+msgstr ""
+
+#: Template/Annonces/depotannonce.ctp:548
+#: Template/Annonces/montchavinlescocheslanding.ctp:151;213;250;333
+#: Template/Annonces/valdlanding.ctp:152;214;251;334
+#: Template/Annonces/view.ctp:2756;2763
+#: Template/Element/headerdiv.ctp:35;94;131;239
+msgid "Créer une annonce"
+msgstr ""
+
+#: Template/Annonces/detail.ctp:231
+#: Template/Annonces/recherche.ctp:1000
+#: Template/Pages/sitemap.ctp:20
+msgid "Services"
+msgstr ""
+
+#: Template/Annonces/detail.ctp:308
+#: Template/Annonces/view.ctp:776
+msgid "Equipements"
+msgstr ""
+
+#: Template/Annonces/detail.ctp:405
+#: Template/Reservations/locataire_view.ctp:227
+msgid "Autres"
+msgstr ""
+
+#: Template/Annonces/edit.ctp:156
+msgid "Statut de votre annonce"
+msgstr ""
+
+#: Template/Annonces/edit.ctp:157
+#: Template/Element/menu_proprietaire.ctp:33
+#: Template/Photos/view.ctp:16
+#: Template/Reservations/validation.ctp:61
+#: Template/Reservations/view.ctp:466
+#: Template/Utilisateurs/mesmessages.ctp:166
+msgid "Annonce"
+msgstr ""
+
+#: Template/Annonces/edit.ctp:214
+msgid "La caution est une empreinte bancaire du moyen de paiement utilisé par le locataire lors de sa réservation. Il est possible de prélever le montant correspondant aux dommages jusqu’à 14 jours après le départ du locataire.</p><p>Attention, le locataire doit avoir une capacité de paiement correspondant à la somme de la réservation et de la caution. Un montant trop élevé peut donc rendre plus difficile la réservation de votre hébergement."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:22;25
+msgid "Séjour ski tout compris - Réservez vos vacances sur Alpissime.com"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:23
+msgid "Alpissime.com | Séjour ski tout compris - Réservez vos vacances sur Alpissime.com"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:24;26
+msgid "Composez votre séjour tout compris : Locations de vacances, Activités de professionnels en station de ski | Hébergements vérifiées, Paiement jusqu'à 4x sans frais."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:32
+msgid "Réservez vos plus belles vacances à la montagne avec Alpissime"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:33
+msgid "Réservez un hébergement seul ou ajoutez des activités et services à votre réservation pour composer les vacances qui vous ressemblent."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:58
+msgid "Composez votre séjour en station de ski"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:65
+msgid "Locations de vacances entre particuliers"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:66
+msgid "Trouvez l'hébergement parfait pour vos prochaines vacances à la montagne sur Alpissime grâce à une offre d'hébergements 100% vérifiés."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:70
+#: Template/Annonces/view.ctp:1207;1221;2815;2981
+msgid "Réserver"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:88
+msgid "Activités à la montagne"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:90
+msgid "Activités en station de ski"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:92
+msgid "Forfaits, cours ou location de ski, randonnées avec des guides de haute montagne ou location de matériel...<br>Ajoutez des activités proposées par les professionnels de votre station."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:96;114
+#: Template/Layout/landing.ctp:349
+msgid "Découvrir"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:109
+msgid "Services de conciergerie"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:110
+msgid "Toute une gamme de services pour faciliter vos vacances : ménage, location de linge, location de matériel de puériculture... avec Alpissime, les vacances sont plus faciles !"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:131
+msgid "Tous les hébergements proposés sur Alpissime.com font l'objet d'une vérification manuelle par notre équipe. Réservez sereinement votre location de vacances avec Alpissime !"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:149
+msgid "Les dernières locations de vacances entre particuliers"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:182
+msgid "Trouvez votre location de vacances dans les meilleures stations de ski"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:199
+msgid "Séjour ski tout compris - Composez facilement le séjour ski qui vous ressemble."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:200
+msgid "Choisissez le séjour ski tout compris sur Alpissime pour faciliter l'organisation de vos vacances"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:201
+msgid "Vous avez comme une envie de montagne et vous désespérez d'entendre le crissement de la neige sous vos spatules ? Réservez en quelques clics votre séjour tout compris sur Alpissime ! <br>Réserver un séjour en station de ski en tout compris comporte de nombreux avantages. Réunissez en une seule commande votre hébergement, vos activités préférées et même des services pour composer le séjour qui vous ressemble. <br>Facilitez l'organisation de vos vacances en réservant votre séjour ski tout compris sur Alpissime. Que vous cherchiez à réserver des vacances en famille ou entre amis, le séjour ski qui vous convient se trouve sur Alpissime. <br>Commencez par sélectionner un hébergement. Laissez libre cours à vos envies, du chalet grand luxe pour 15 personnes skis aux pieds à l'appartement cosy situé en centre station, Alpissime vous propose une large gamme d'hébergements en station de ski : locations de particuliers, résidences de tourisme, hôtels (prochainement !), ou encore gîtes. Ajoutez ensuite à votre commande les activités qui vous conviennent : forfaits de ski des remontées mécaniques de votre station, location de matériel de ski auprès de professionnels qualifiés et experts de la glisse, cours de ski par des moniteurs certifiés de l'Ecole de Ski Français ESF ou de l'Ecole de Ski Internationale ESI. <br>Récupérez les clés de votre hébergement, votre matériel de ski et les forfaits de remontées mécaniques sans perdre un instant. Plus besoin de faire le tour de la station pour comparer les meilleures offres : composez votre séjour ski tout compris sur Alpissime en quelques clics."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:210
+msgid "Séjour ski tout compris pas cher"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:211
+msgid "Une fois votre séjour ski tout compris composé, vous aurez la possibilité de régler jusqu'à 4x sans frais ! Les séjours au ski sont chers et nous en sommes conscients. C'est pour cela que chez Alpissime, nous mettons tout en œuvre pour préserver votre budget. Votre séjour ski tout compris pas cher se réserve facilement sur Alpissime grâce aux réductions négociées auprès de nos partenaires : vos forfaits, votre matériel de ski ou les cours de ski pour les enfants peuvent bénéficiez de jusqu'à 50% de réduction. Encore mieux! Votre séjour ski tout compris peut être réglé jusqu'à 4 fois sans frais. Il suffit de s'y prendre tôt ! Faîtes des économies sur la réservation de votre séjour à la carte en tout compris sur Alpissime.com et profitez pleinement des joies des stations de sport d'hiver."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:213
+msgid "Réservez votre séjour ski en tout compris sur Alpissime"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:214
+msgid "Alpissime vous propose des séjours ski à la montagne en tout compris. C'est le meilleur moyen pour faire des économies sur votre séjour, en bénéficiant en plus d'un paiement pouvant aller jusqu'à 4x sans frais ! Alpissime est le spécialiste de la location de vacances entre particuliers en station de ski. Depuis 2009, nous proposons aux vacanciers des locations d'hébergements en station de ski vérifiés par notre équipes de professionnels de la montagne. En résumé, réserver votre séjour à la montagne sur Alpissime c'est profiter d'un tout compris qui vous facilite la vie et vous fait faire des économies pour vous permettre de vous concentrer sur ce qui importe vraiment : votre famille, vos amis, vos expériences et moments de partage pour un séjour ski réussi."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:216
+msgid "Package séjour ski tout compris"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:217
+msgid "Vous souhaitez réserver un package séjour ski tout compris ? Les packages composés seront bientôt disponibles sur Alpissime. Vous pourrez réserver en un clic votre séjour en indiquant simplement les dates pendant lesquelles vous souhaitez vous rendre en station de ski et le nombre de personnes. Vous n'aurez plus qu'à cliquer sur réserver !"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:220
+msgid "Choisissez votre destination préférée pour votre prochain séjour ski tout compris"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:221
+msgid "Que vous soyez déjà adepte du ski ou que vous souhaitiez découvrir les sports d'hiver pour la première fois, vous pouvez réserver le séjour ski tout compris dans un domaine skiable qui vous ressemble. Des stations de sport d'hiver internationales comme <a href='"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:223
+msgid "Mon séjour ski en all inclusive"
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:224
+msgid "Réserver votre séjour tout compris sur Alpissime en quelques clics. Vous recevrez ensuite un mail de validation. Vous serez accueilli en station par les professionnels de nos équipes de conciergerie, par le propriétaire de l'hébergement que vous avez loué ou par sa conciergerie partenaire le cas échéant. Rendez-vous directement auprès de votre magasin de ski, de la caisse des forfaits et de l'ESF. Plus besoin de perdre du temps à faire le tour de la station : votre commande vous attend et vous n'avez qu'à faire les retraits ! C'est ça la magie du séjour ski tout compris sur Alpissime : facilité et économies pour profiter de la montagne à 100% ! Pendant que les parents dévalent les pistes, les enfants apprennent avec les moniteurs partenaires Alpissime de l'ESF ou ESI."
+msgstr ""
+
+#: Template/Annonces/explicationpub.ctp:237
+#: Template/Annonces/lesarcslanding.ctp:490
+#: Template/Annonces/massif.ctp:158
+#: Template/Annonces/montchavinlescocheslanding.ctp:719
+#: Template/Annonces/station.ctp:598
+#: Template/Annonces/valdlanding.ctp:717
+#: Template/Element/nos_partenaires.ctp:6
+#: Template/Layout/landing.ctp:567
+msgid "Nos partenaires"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:41
+#: Template/Annonces/lesarcslanding.ctp:38
+#: Template/Annonces/montchavinlescocheslanding.ctp:38
+#: Template/Annonces/station.ctp:38
+#: Template/Annonces/valdlanding.ctp:38
+#: Template/Annonces/webcam.ctp:41
+#: Template/Layout/default.ctp:27
+#: Template/Layout/landing.ctp:24
+msgid "location, appartement, hébergement, studio, séjour, vacances, montagne, les Arcs, Bourg Saint Maurice, Savoie, Alpes, Paradiski, hiver, ski, été, vtt"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:193
+#: Template/Annonces/lesarcslanding.ctp:117
+#: Template/Annonces/montchavinlescocheslanding.ctp:116
+#: Template/Annonces/station.ctp:176
+#: Template/Annonces/valdlanding.ctp:117
+#: Template/Annonces/webcam.ctp:194
+#: Template/Layout/default.ctp:151
+#: Template/Layout/landing.ctp:176
+msgid "Votre compte est limité, vous devez activer votre adresse email !"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:193
+#: Template/Annonces/lesarcslanding.ctp:117
+#: Template/Annonces/montchavinlescocheslanding.ctp:116
+#: Template/Annonces/station.ctp:176
+#: Template/Annonces/valdlanding.ctp:117
+#: Template/Annonces/webcam.ctp:194
+#: Template/Element/Flash/erroremailconfirmation.ctp:1
+#: Template/Layout/default.ctp:151
+#: Template/Layout/landing.ctp:176
+msgid "Renvoyer un mail de confirmation"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:231
+msgid "Pas de galerie à afficher pour cette station"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:239
+#: Template/Annonces/webcam.ctp:269
+msgid "Charger plus"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:256
+#: Template/Annonces/lesarcslanding.ctp:550
+#: Template/Annonces/montchavinlescocheslanding.ctp:786
+#: Template/Annonces/station.ctp:637
+#: Template/Annonces/valdlanding.ctp:756
+#: Template/Annonces/webcam.ctp:286
+#: Template/Layout/default.ctp:171
+#: Template/Layout/landing.ctp:611
+msgid "Inscrivez-vous à notre newsletter"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:267
+#: Template/Annonces/lesarcslanding.ctp:561
+#: Template/Annonces/montchavinlescocheslanding.ctp:797
+#: Template/Annonces/station.ctp:647
+#: Template/Annonces/valdlanding.ctp:767
+#: Template/Annonces/webcam.ctp:297
+#: Template/Layout/default.ctp:181
+#: Template/Layout/landing.ctp:621
+msgid "Je m'inscris !"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:296
+#: Template/Annonces/lesarcslanding.ctp:590
+#: Template/Annonces/montchavinlescocheslanding.ctp:826
+#: Template/Annonces/station.ctp:676
+#: Template/Annonces/valdlanding.ctp:796
+#: Template/Annonces/webcam.ctp:326
+#: Template/Layout/default.ctp:211
+#: Template/Layout/landing.ctp:650
+msgid "Inscription Newsletter"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:301
+#: Template/Annonces/lesarcslanding.ctp:595
+#: Template/Annonces/montchavinlescocheslanding.ctp:831
+#: Template/Annonces/station.ctp:681
+#: Template/Annonces/valdlanding.ctp:801
+#: Template/Annonces/webcam.ctp:331
+#: Template/Layout/default.ctp:215
+#: Template/Layout/landing.ctp:655
+msgid "Votre inscription à notre newletter a bien été prise en compte, nous vous remercions pour votre confiance."
+msgstr ""
+
+#: Template/Annonces/galery.ctp:336
+#: Template/Annonces/lesarcslanding.ctp:629
+#: Template/Annonces/montchavinlescocheslanding.ctp:865
+#: Template/Annonces/station.ctp:716
+#: Template/Annonces/valdlanding.ctp:835
+#: Template/Annonces/view.ctp:708;1293
+#: Template/Annonces/webcam.ctp:366
+#: Template/Layout/default.ctp:252
+#: Template/Layout/landing.ctp:692
+msgid "A propos"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:340
+#: Template/Annonces/lesarcslanding.ctp:632
+#: Template/Annonces/montchavinlescocheslanding.ctp:868
+#: Template/Annonces/station.ctp:720
+#: Template/Annonces/valdlanding.ctp:838
+#: Template/Annonces/webcam.ctp:370
+#: Template/Element/bloc_mots.ctp:65
+#: Template/Layout/default.ctp:256
+#: Template/Layout/landing.ctp:696
+msgid "Qui sommes nous ?"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:343
+#: Template/Annonces/lesarcslanding.ctp:635
+#: Template/Annonces/montchavinlescocheslanding.ctp:871
+#: Template/Annonces/station.ctp:723
+#: Template/Annonces/valdlanding.ctp:841
+#: Template/Annonces/webcam.ctp:373
+#: Template/Layout/default.ctp:259
+#: Template/Layout/landing.ctp:699
+#: Template/Pages/les_services.ctp:10
+msgid "Les services"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:346
+#: Template/Annonces/lesarcslanding.ctp:638
+#: Template/Annonces/montchavinlescocheslanding.ctp:874
+#: Template/Annonces/station.ctp:726
+#: Template/Annonces/valdlanding.ctp:844
+#: Template/Annonces/webcam.ctp:376
+#: Template/Element/mon_compte_2.ctp:76;155
+#: Template/Layout/default.ctp:262
+#: Template/Layout/landing.ctp:702
+#: Template/Pages/sitemap.ctp:7
+msgid "Accueil"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:349
+#: Template/Annonces/lesarcslanding.ctp:641
+#: Template/Annonces/montchavinlescocheslanding.ctp:877
+#: Template/Annonces/station.ctp:729
+#: Template/Annonces/valdlanding.ctp:847
+#: Template/Annonces/webcam.ctp:379
+#: Template/Layout/default.ctp:265
+#: Template/Layout/landing.ctp:705
+msgid "Actualités en station"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:352
+#: Template/Annonces/lesarcslanding.ctp:644
+#: Template/Annonces/montchavinlescocheslanding.ctp:880
+#: Template/Annonces/station.ctp:732
+#: Template/Annonces/valdlanding.ctp:850
+#: Template/Annonces/webcam.ctp:382
+#: Template/Layout/default.ctp:268
+#: Template/Layout/landing.ctp:708
+#: Template/Pages/les_appartements.ctp:10
+msgid "Les appartements"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:355
+#: Template/Annonces/lesarcslanding.ctp:647
+#: Template/Annonces/montchavinlescocheslanding.ctp:883
+#: Template/Annonces/station.ctp:735
+#: Template/Annonces/valdlanding.ctp:853
+#: Template/Annonces/webcam.ctp:385
+#: Template/Layout/default.ctp:271
+#: Template/Layout/landing.ctp:711
+msgid "Publicités"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:358
+#: Template/Annonces/lesarcslanding.ctp:650
+#: Template/Annonces/montchavinlescocheslanding.ctp:886
+#: Template/Annonces/station.ctp:738
+#: Template/Annonces/valdlanding.ctp:856
+#: Template/Annonces/webcam.ctp:388
+#: Template/Layout/default.ctp:274
+#: Template/Layout/landing.ctp:714
+msgid "Devenir Vendeur"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:368
+#: Template/Annonces/lesarcslanding.ctp:659
+#: Template/Annonces/montchavinlescocheslanding.ctp:895
+#: Template/Annonces/station.ctp:748
+#: Template/Annonces/valdlanding.ctp:865
+#: Template/Annonces/webcam.ctp:398
+#: Template/Layout/default.ctp:284
+#: Template/Layout/landing.ctp:725
+msgid "Service client"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:371
+#: Template/Annonces/previsualiser.ctp:102
+#: Template/Annonces/station.ctp:751
+#: Template/Annonces/webcam.ctp:401
+#: Template/Dispos/view.ctp:152
+#: Template/Layout/default.ctp:287
+#: Template/Layout/landing.ctp:728
+#: Template/Reservations/validation.ctp:185
+#: Template/Utilisateurs/index.ctp:127
+msgid "Centre d'aide"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:373
+#: Template/Annonces/lesarcslanding.ctp:662
+#: Template/Annonces/montchavinlescocheslanding.ctp:898
+#: Template/Annonces/station.ctp:753
+#: Template/Annonces/valdlanding.ctp:868
+#: Template/Annonces/webcam.ctp:403
+#: Template/Layout/default.ctp:289
+#: Template/Layout/landing.ctp:730
+msgid "CGU Alpissime.com"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:374
+#: Template/Annonces/lesarcslanding.ctp:663
+#: Template/Annonces/montchavinlescocheslanding.ctp:899
+#: Template/Annonces/station.ctp:754
+#: Template/Annonces/valdlanding.ctp:869
+#: Template/Annonces/webcam.ctp:404
+#: Template/Layout/default.ctp:290
+#: Template/Layout/landing.ctp:731
+msgid "CGV Marketplace"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:375
+#: Template/Annonces/lesarcslanding.ctp:664
+#: Template/Annonces/montchavinlescocheslanding.ctp:900
+#: Template/Annonces/station.ctp:755
+#: Template/Annonces/valdlanding.ctp:870
+#: Template/Annonces/webcam.ctp:405
+#: Template/Layout/default.ctp:291
+#: Template/Layout/landing.ctp:732
+msgid "Politique de confidentialité"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:376
+#: Template/Annonces/lesarcslanding.ctp:665
+#: Template/Annonces/montchavinlescocheslanding.ctp:901
+#: Template/Annonces/station.ctp:756
+#: Template/Annonces/valdlanding.ctp:871
+#: Template/Annonces/webcam.ctp:406
+#: Template/Layout/default.ctp:292
+#: Template/Layout/landing.ctp:733
+msgid "Mentions légales"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:384
+#: Template/Annonces/lesarcslanding.ctp:677
+#: Template/Annonces/montchavinlescocheslanding.ctp:913
+#: Template/Annonces/station.ctp:764
+#: Template/Annonces/valdlanding.ctp:883
+#: Template/Annonces/webcam.ctp:414
+#: Template/Layout/default.ctp:300
+#: Template/Layout/landing.ctp:743
+#: Template/Pages/informations.ctp:10
+#: Template/Utilisateurs/edit.ctp:43
+msgid "Informations"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:387
+#: Template/Annonces/lesarcslanding.ctp:680
+#: Template/Annonces/montchavinlescocheslanding.ctp:916
+#: Template/Annonces/station.ctp:767
+#: Template/Annonces/valdlanding.ctp:886
+#: Template/Annonces/webcam.ctp:417
+#: Template/Layout/default.ctp:303
+#: Template/Layout/landing.ctp:746
+msgid "Site map Alpissime.com"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:388
+#: Template/Annonces/lesarcslanding.ctp:681
+#: Template/Annonces/montchavinlescocheslanding.ctp:917
+#: Template/Annonces/station.ctp:768
+#: Template/Annonces/valdlanding.ctp:887
+#: Template/Annonces/webcam.ctp:418
+#: Template/Layout/default.ctp:304
+#: Template/Layout/landing.ctp:747
+msgid "Site map Marketplace"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:389
+#: Template/Annonces/lesarcslanding.ctp:682
+#: Template/Annonces/montchavinlescocheslanding.ctp:918
+#: Template/Annonces/station.ctp:769
+#: Template/Annonces/valdlanding.ctp:888
+#: Template/Annonces/webcam.ctp:419
+#: Template/Layout/default.ctp:305
+#: Template/Layout/landing.ctp:748
+msgid "Lexique de la location saisonnière"
+msgstr ""
+
+#: Template/Annonces/galery.ctp:391
+#: Template/Annonces/lesarcslanding.ctp:684
+#: Template/Annonces/montchavinlescocheslanding.ctp:920
+#: Template/Annonces/station.ctp:771
+#: Template/Annonces/valdlanding.ctp:890
+#: Template/Annonces/webcam.ctp:421
+#: Template/Layout/default.ctp:307
+#: Template/Layout/landing.ctp:750
+msgid "Routes"
+msgstr ""
+
+#: Template/Annonces/index.ctp:1
+msgid "Location vacances aux Arcs - Bourg Saint Maurice"
+msgstr ""
+
+#: Template/Annonces/index.ctp:2
+msgid "Alpissime Location vacances aux Arcs - Bourg Saint Maurice"
+msgstr ""
+
+#: Template/Annonces/index.ctp:3
+msgid "Location les Arcs - Plus de 400 appartements en location de particuliers à particuliers stations les arcs 1600,arcs 1800,arcs 1950,arcs 2000,bourg saint maurice"
+msgstr ""
+
+#: Template/Annonces/index.ctp:116
+msgid "Les dernières annonces de locations de vacances à la montagne"
+msgstr ""
+
+#: Template/Annonces/index.ctp:255
+#: Template/Annonces/landing.ctp:54
+#: Template/Annonces/lesarcslanding.ctp:299;311;427
+#: Template/Annonces/montchavinlescocheslanding.ctp:528;540;656
+#: Template/Annonces/station.ctp:260;531
+#: Template/Annonces/valdlanding.ctp:526;538;654
+#: Template/Annonces/view.ctp:1737
+#: Template/Annonces/viewprev.ctp:530;1263
+#: Template/Layout/landing.ctp:476
+msgid "Voir plus"
+msgstr ""
+
+#: Template/Annonces/landing.ctp:53
+msgid "Location de vacances entre particuliers été et hiver en station de ski"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:134
+#: Template/Annonces/montchavinlescocheslanding.ctp:360
+#: Template/Annonces/valdlanding.ctp:361
+#: Template/Layout/landing.ctp:194
+msgid "Trouvez l'hébergement parfait pour vos prochaines vacances"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:137
+#: Template/Annonces/montchavinlescocheslanding.ctp:363
+#: Template/Annonces/valdlanding.ctp:364
+#: Template/Layout/landing.ctp:199
+msgid "Selectionnez la station de vos envies"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:139
+#: Template/Annonces/montchavinlescocheslanding.ctp:365
+#: Template/Annonces/valdlanding.ctp:366
+#: Template/Element/menu_recherche_bande.ctp:116
+#: Template/Element/menu_recherche_station.ctp:43
+#: Template/Layout/landing.ctp:201
+msgid "Toutes les stations"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:159
+#: Template/Annonces/montchavinlescocheslanding.ctp:388
+#: Template/Annonces/valdlanding.ctp:386
+#: Template/Annonces/view.ctp:1153;2492
+#: Template/Element/menu_recherche_station.ctp:53
+#: Template/Layout/landing.ctp:222
+msgid "Dates"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:180
+#: Template/Annonces/montchavinlescocheslanding.ctp:409
+#: Template/Annonces/valdlanding.ctp:407
+#: Template/Annonces/view.ctp:1174;2521
+#: Template/Element/menu_recherche_bande.ctp:152
+#: Template/Element/menu_recherche_station.ctp:70
+#: Template/Layout/landing.ctp:243
+msgid "Voyageurs"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:191
+#: Template/Annonces/montchavinlescocheslanding.ctp:420
+#: Template/Annonces/valdlanding.ctp:418
+#: Template/Element/menu_recherche_station.ctp:78
+#: Template/Layout/landing.ctp:254
+msgid "Rechercher"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:213
+#: Template/Annonces/montchavinlescocheslanding.ctp:442
+#: Template/Annonces/station.ctp:294
+#: Template/Annonces/valdlanding.ctp:440
+#: Template/Layout/landing.ctp:291
+msgid "Les meilleurs prix de la location de vacances de PAP en station de ski"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:226
+#: Template/Annonces/montchavinlescocheslanding.ctp:455
+#: Template/Annonces/station.ctp:307
+#: Template/Annonces/valdlanding.ctp:453
+#: Template/Layout/landing.ctp:304
+msgid "Activités et services vendus par des professionnels de la montagne vérifiés"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:239
+#: Template/Annonces/montchavinlescocheslanding.ctp:468
+#: Template/Annonces/station.ctp:320
+#: Template/Annonces/valdlanding.ctp:466
+#: Template/Layout/landing.ctp:317
+msgid "Paiement en ligne sécurisé de votre séjour montagne jusqu'à 4x sans frais"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:328
+#: Template/Annonces/montchavinlescocheslanding.ctp:557
+#: Template/Annonces/valdlanding.ctp:555
+#: Template/Layout/landing.ctp:397
+msgid "Propriétaires - louez facilement avec les conciergeries Alpissime"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:342
+#: Template/Annonces/montchavinlescocheslanding.ctp:571
+#: Template/Annonces/valdlanding.ctp:569
+#: Template/Layout/landing.ctp:411
+msgid "Accueil et remise de clés"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:343
+#: Template/Annonces/montchavinlescocheslanding.ctp:572
+#: Template/Annonces/valdlanding.ctp:570
+#: Template/Layout/landing.ctp:412
+msgid "Check-in, check-out des locataires en station et remise de clés."
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:353
+#: Template/Annonces/montchavinlescocheslanding.ctp:582
+#: Template/Annonces/valdlanding.ctp:580
+#: Template/Layout/landing.ctp:422
+msgid "Ménages et inventaires"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:354
+#: Template/Annonces/montchavinlescocheslanding.ctp:583
+#: Template/Annonces/valdlanding.ctp:581
+#: Template/Layout/landing.ctp:423
+msgid "Ménages de départ ou de fin de saison et inventaire de contrôle."
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:364
+#: Template/Annonces/montchavinlescocheslanding.ctp:593
+#: Template/Annonces/valdlanding.ctp:591
+#: Template/Layout/landing.ctp:433
+msgid "Location de linge"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:365
+#: Template/Annonces/montchavinlescocheslanding.ctp:594
+#: Template/Annonces/valdlanding.ctp:592
+#: Template/Layout/landing.ctp:434
+msgid "Location de linge et prestations lit-fait pour faciliter la vie des locataires à l’arrivée."
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:389
+#: Template/Annonces/montchavinlescocheslanding.ctp:618
+#: Template/Annonces/valdlanding.ctp:616
+#: Template/Layout/landing.ctp:378
+msgid "Location de vacances entre particuliers à la montagne"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:390
+#: Template/Annonces/montchavinlescocheslanding.ctp:619
+#: Template/Annonces/valdlanding.ctp:617
+#: Template/Layout/landing.ctp:379
+msgid "Trouvez l’hébergement parfait pour vos prochaines <strong>vacances à la montagne</strong> en choisissant la <strong>location entre particuliers</strong> sur Alpissime. \n                    Découvrez une vaste gamme d’hébergements, de l’appartement en centre de station au chalet pied des pistes. \n                    Les annonces de location proposées sur Alpissime sont vérifiées."
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:396
+#: Template/Annonces/montchavinlescocheslanding.ctp:625
+#: Template/Annonces/valdlanding.ctp:623
+#: Template/Layout/landing.ctp:385
+msgid "Réservez votre séjour au ski tout compris sur Alpissime"
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:397
+#: Template/Annonces/montchavinlescocheslanding.ctp:626
+#: Template/Annonces/valdlanding.ctp:624
+#: Template/Layout/landing.ctp:386
+msgid "Après avoir choisi l’hébergement idéal pour vos prochaines <strong>vacances en station de ski</strong>, ajoutez des activités et services vendus par les professionnels de votre station : location, cours et forfaits de ski, guides de haute montagne et bien plus encore ! \n                    Composez votre <strong>séjour à la carte</strong> pour des vacances inoubliables."
+msgstr ""
+
+#: Template/Annonces/lesarcslanding.ctp:426
+#: Template/Annonces/montchavinlescocheslanding.ctp:655
+#: Template/Annonces/valdlanding.ctp:653
+#: Template/Layout/landing.ctp:475
+msgid "Découvrez le magazine Alpissime"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:54;55
+msgid "Destination {0} : Stations de ski | Alpissime.com"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:56;57
+msgid "Découvrez Toutes les stations de la destination."
+msgstr ""
+
+#: Template/Annonces/massif.ctp:63
+#: Template/Annonces/station.ctp:257
+msgid "Locations de vacances"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:63
+msgid "Séjour ski par destination"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:79
+msgid "Découvrez les stations de ski par massif"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:88
+msgid "Destination montagne"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:111
+msgid "Trouvez l'hébergement idéal"
+msgstr ""
+
+#: Template/Annonces/massif.ctp:124
+msgid "Voir toutes les annonces"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:141;189;234;308
+#: Template/Annonces/valdlanding.ctp:142;190;235;309
+#: Template/Element/headerdiv.ctp:26;70;115;214
+msgid "Conciergerie"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:226;261;297
+#: Template/Annonces/valdlanding.ctp:227;262;298
+#: Template/Element/headerdiv.ctp:107;154;203
+msgid "Menu"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:228;263;299
+#: Template/Annonces/valdlanding.ctp:229;264;300
+#: Template/Element/headerdiv.ctp:109;156;205
+msgid "Hébergements"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:275;314
+#: Template/Annonces/valdlanding.ctp:276;315
+#: Template/Element/headerdiv.ctp:168;220
+#: Template/Element/menu_locataire.ctp:5
+#: Template/Element/menu_proprietaire.ctp:5
+#: Template/Element/mon_compte_2.ctp:92;99
+msgid "Mon espace"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:277
+#: Template/Annonces/valdlanding.ctp:278
+#: Template/Element/headerdiv.ctp:170
+#: Template/Element/mon_compte.ctp:62
+#: Template/Element/mon_compte_2.ctp:86
+#: Template/Reservations/add.ctp:34
+#: Template/Reservations/annulationlocataire.ctp:226
+#: Template/Reservations/annule.ctp:30
+#: Template/Reservations/locataire_view.ctp:40
+#: Template/Utilisateurs/detailmessage.ctp:160
+#: Template/Utilisateurs/edit.ctp:33
+#: Template/Utilisateurs/locataire_index.ctp:15
+#: Template/Utilisateurs/mesmessages.ctp:139
+msgid "Espace locataire"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:322
+#: Template/Annonces/valdlanding.ctp:323
+#: Template/Element/headerdiv.ctp:228
+#: Template/Element/menu_locataire.ctp:11
+#: Template/Utilisateurs/index.ctp:84
+#: Template/Utilisateurs/locataire_index.ctp:42
+msgid "Mes réservations"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:337
+#: Template/Annonces/valdlanding.ctp:338
+#: Template/Element/headerdiv.ctp:243
+msgid "Alpissime évolue depuis de 2009, toujours porté par votre confiance."
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:338
+#: Template/Annonces/valdlanding.ctp:339
+#: Template/Element/headerdiv.ctp:244
+msgid "Une question, une suggestions ou une amélioration à apporter ?"
+msgstr ""
+
+#: Template/Annonces/montchavinlescocheslanding.ctp:339
+#: Template/Annonces/valdlanding.ctp:340
+#: Template/Element/headerdiv.ctp:245
+msgid "Contactez-nous"
+msgstr ""
+
+#: Template/Annonces/photo.ctp:27
+msgid "Ajouter des photos"
+msgstr ""
+
+#: Template/Annonces/photo.ctp:59;61
+#: Template/Dispos/view.ctp:1061
+#: Template/Reservations/get_reservation_locataire.ctp:131
+#: Template/Reservations/get_reservation_proprietaire.ctp:189
+#: Template/Reservations/locataire_view.ctp:125;126
+msgid "Supprimer"
+msgstr ""
+
+#: Template/Annonces/photo.ctp:88
+msgid "Ajoutez jusqu'à 10 images pour illustrer votre annonce (Format JPEG | Taille maximum des photos 10 MO | Les dimensions minimales pour une photo sont de 700px x 525px | Résolution minimale : 72 Pixels | Format paysage : 4:3 ou 16:9)"
+msgstr ""
+
+#: Template/Annonces/photo.ctp:89
+msgid "Attention, il est interdit de communiquer des adresses mail, références à d'autres sites internet ou numéros de téléphone dans les images."
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:70
+msgid "Prévisualiser votre annonce"
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:97
+msgid "Pour créez un lien direct depuis votre site internet, copiez-collez le texte suivant"
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:98
+#: Template/Element/menu_proprietaire.ctp:46
+msgid "Tarifs et disponibilités"
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:100
+msgid "Merci"
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:101
+msgid "Votre annonce a bien été enregistrée et vient d'être envoyée à la validation par nos équipes."
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:102
+msgid "En attendant, n'hésitez pas à consulter notre"
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:107
+msgid "Pour envoyer votre annonce à la validation, <span class='text-blue'>activez votre compte grâce à l'email que vous avez reçu.</span><br>Si vous ne le trouvez pas, pensez à regarder dans dossier spams et à approuver Alpissime comme contact !"
+msgstr ""
+
+#: Template/Annonces/previsualiser.ctp:115
+msgid "Terminer"
+msgstr ""
+
+#: Template/Annonces/prop.ctp:107
+#: Template/Annonces/viewprev.ctp:1125
+#: Template/Reservations/editreservationcalendar.ctp:361
+#: Template/Reservations/locataireAddres.ctp:129
+#: Template/Reservations/locataire_addres.ctp:513
+msgid "Prénom"
+msgstr ""
+
+#: Template/Annonces/prop.ctp:135
+#: Template/Annonces/view.ctp:1359
+msgid "Votre Commentaire"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:894
+msgid "Séjour ski - Réservez vos vacances sur Alpissime | Hébergements vérifiés ⛷ Activités en station ⭐ Services de conciergerie | Paiement en 4x sans frais"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:895;896
+msgid "Location {0} {1} {2}"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:906
+msgid "résultats de location"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:916
+msgid "Trié par"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:994
+msgid "Options D'affichage"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:998
+msgid "Immeubles"
+msgstr ""
+
+#: Template/Annonces/recherche.ctp:1002
+msgid "Immeubles et Services"
+msgstr ""
+
+#: Template/Annonces/station.ctp:37
+msgid "sur Alpissime"
+msgstr ""
+
+#: Template/Annonces/station.ctp:333;567
+#: Template/Annonces/valdlanding.ctp:687
+msgid "Découvrez la station"
+msgstr ""
+
+#: Template/Annonces/station.ctp:338
+msgid "OUVERTURE"
+msgstr ""
+
+#: Template/Annonces/station.ctp:338
+msgid "DU"
+msgstr ""
+
+#: Template/Annonces/station.ctp:338
+msgid "AU"
+msgstr ""
+
+#: Template/Annonces/station.ctp:386
+msgid "Domaine skiable"
+msgstr ""
+
+#: Template/Annonces/station.ctp:388
+msgid "Domaine"
+msgstr ""
+
+#: Template/Annonces/station.ctp:389
+msgid "Altitude basse"
+msgstr ""
+
+#: Template/Annonces/station.ctp:390
+msgid "Altitude haute"
+msgstr ""
+
+#: Template/Annonces/station.ctp:391
+msgid "Km de pistes"
+msgstr ""
+
+#: Template/Annonces/station.ctp:395
+msgid "Pistes vertes"
+msgstr ""
+
+#: Template/Annonces/station.ctp:400
+msgid "Pistes bleues"
+msgstr ""
+
+#: Template/Annonces/station.ctp:405
+msgid "Pistes rouges"
+msgstr ""
+
+#: Template/Annonces/station.ctp:410
+msgid "Pistes noires"
+msgstr ""
+
+#: Template/Annonces/station.ctp:418
+msgid "Informations pratiques"
+msgstr ""
+
+#: Template/Annonces/station.ctp:420
+msgid "Office(s) de tourisme"
+msgstr ""
+
+#: Template/Annonces/station.ctp:427;463
+msgid "Plan des pistes"
+msgstr ""
+
+#: Template/Annonces/station.ctp:427
+msgid "Voir le plan"
+msgstr ""
+
+#: Template/Annonces/station.ctp:437
+msgid "Office de Tourisme"
+msgstr ""
+
+#: Template/Annonces/station.ctp:443
+#: Template/Utilisateurs/infobancaire.ctp:59;67
+#: Template/Utilisateurs/view.ctp:58
+msgid "Adresse"
+msgstr ""
+
+#: Template/Annonces/station.ctp:469
+msgid "Le lien est inaccessible pour le moment. Merci de réessayer plus tard."
+msgstr ""
+
+#: Template/Annonces/station.ctp:483
+msgid "Accessibilité"
+msgstr ""
+
+#: Template/Annonces/station.ctp:491
+msgid "Webcam et Galerie photo"
+msgstr ""
+
+#: Template/Annonces/station.ctp:528
+msgid "Pour préparer vos vacances"
+msgstr ""
+
+#: Template/Annonces/station.ctp:566
+msgid "Vos prochaines vacances"
+msgstr ""
+
+#: Template/Annonces/station.ctp:645
+#: Template/Layout/default.ctp:179
+#: Template/Layout/landing.ctp:619
+#: Template/Utilisateurs/view.ctp:18
+msgid "Email"
+msgstr ""
+
+#: Template/Annonces/uploadinventaire.ctp:31
+#: Template/Reservations/add.ctp:12
+#: Template/Reservations/annule.ctp:9
+#: Template/Reservations/editreservationcalendar.ctp:260
+#: Template/Reservations/reservationcalendar.ctp:130
+#: Template/Reservations/validation.ctp:32
+#: Template/Reservations/view.ctp:439
+#: Template/Utilisateurs/infobancaire.ctp:20
+#: Template/Utilisateurs/listannonce.ctp:16
+msgid "Espace"
+msgstr ""
+
+#: Template/Annonces/view.ctp:600
+msgid "Voir les {0} photos"
+msgstr ""
+
+#: Template/Annonces/view.ctp:694;695
+msgid "Location {0} {1} {2} pour {3} personne(s) ▶ Composez vos vacances à la montagne sur Alpissime : Hébergements vérifiés, Paiement 4x sans frais"
+msgstr ""
+
+#: Template/Annonces/view.ctp:701
+msgid "Appartement classé"
+msgstr ""
+
+#: Template/Annonces/view.ctp:720
+msgid "pièce(s)"
+msgstr ""
+
+#: Template/Annonces/view.ctp:720
+msgid "chambre(s)"
+msgstr ""
+
+#: Template/Annonces/view.ctp:726
+msgid "personnes"
+msgstr ""
+
+#: Template/Annonces/view.ctp:732
+msgid "salle(s) de bain"
+msgstr ""
+
+#: Template/Annonces/view.ctp:732
+msgid "baignoire(s)"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Non précisée"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Nord"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Sud"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Est"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Ouest"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Nord-Est"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Nord-Ouest"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Sud-Est"
+msgstr ""
+
+#: Template/Annonces/view.ctp:738
+msgid "Sud-Ouest"
+msgstr ""
+
+#: Template/Annonces/view.ctp:739
+msgid "Vallée"
+msgstr ""
+
+#: Template/Annonces/view.ctp:739;891
+#: Template/Annonces/viewprev.ctp:106
+msgid "Pistes"
+msgstr ""
+
+#: Template/Annonces/view.ctp:743
+#: Template/Element/menu_recherche.ctp:225
+#: Template/Element/menu_recherche_bande.ctp:318
+msgid "Animaux Acceptés"
+msgstr ""
+
+#: Template/Annonces/view.ctp:743
+msgid "non précisé"
+msgstr ""
+
+#: Template/Annonces/view.ctp:747
+msgid "Couvert"
+msgstr ""
+
+#: Template/Annonces/view.ctp:751
+msgid "Accès mobilité réduite"
+msgstr ""
+
+#: Template/Annonces/view.ctp:759
+msgid "WIFI"
+msgstr ""
+
+#: Template/Annonces/view.ctp:786
+msgid "Electroménager"
+msgstr ""
+
+#: Template/Annonces/view.ctp:822;823;824
+msgid "feux"
+msgstr ""
+
+#: Template/Annonces/view.ctp:838
+msgid "Petit ménager"
+msgstr ""
+
+#: Template/Annonces/view.ctp:838
+msgid "Cafetière"
+msgstr ""
+
+#: Template/Annonces/view.ctp:839
+msgid "Grill-pain"
+msgstr ""
+
+#: Template/Annonces/view.ctp:863
+msgid "Multimédia et espace ludique"
+msgstr ""
+
+#: Template/Annonces/view.ctp:868
+msgid "TNT"
+msgstr ""
+
+#: Template/Annonces/view.ctp:876
+msgid "Jeux de société"
+msgstr ""
+
+#: Template/Annonces/view.ctp:881;1342
+msgid "Localisation"
+msgstr ""
+
+#: Template/Annonces/view.ctp:887
+msgid "Etage"
+msgstr ""
+
+#: Template/Annonces/view.ctp:912
+msgid "Proche d'un centre Commercial"
+msgstr ""
+
+#: Template/Annonces/view.ctp:914
+msgid "Location de vélos"
+msgstr ""
+
+#: Template/Annonces/view.ctp:915
+msgid "Location de ski"
+msgstr ""
+
+#: Template/Annonces/view.ctp:916
+msgid "Caisses de remontés mécaniques"
+msgstr ""
+
+#: Template/Annonces/view.ctp:917
+msgid "Proche des transports publics"
+msgstr ""
+
+#: Template/Annonces/view.ctp:947
+msgid "Sentiers pédestres"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1020
+msgid "Découvrez ce qu'ils en ont pensé"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1024
+msgid "Noter cette annonce"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1036
+msgid "Confort"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1040
+msgid "Emplacement"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1044
+msgid "Qualité / prix"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1050
+msgid "Aucun voyageur n'a laissé d'avis sur l'hébergement de {0} pour l'instant. Vous pouvez cependant réserver cet hébergement en toute confiance, toutes les annonces présentes sur Alpissime sont vérifiées par notre équipe"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1056
+msgid "L'hébergement de {0} est noté {1}/5 par {2} vacanciers y ayant séjourné"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1068
+msgid "Publié le"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1070
+msgid "A séjourné en"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1073
+#: Template/Utilisateurs/getinfomessage.ctp:18
+msgid "Répondre"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1077
+msgid "Afficher la réponse"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1079
+msgid "Réponse propriétaire"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1081
+msgid "Masquer la réponse"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1092
+msgid "Afficher plus d'avis"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1097
+msgid "Pour déposer un avis, un voyageur doit avoir séjournée dans l'hébergement concerné. Les avis font l'objet d'une vérification manuelle par notre équipe"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1100
+msgid "Composez votre séjour montagne n'a jamais été aussi simple avec Alpissime"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1106
+msgid "Réservez en un clic"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1107
+msgid "Vos vacances seront confirmées dès que {0} aura accepté votre demande de réservation"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1113
+msgid "Location PAP Vérifié"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1114
+msgid "Toutes nos annonces sont 100% vérifiées par l'équipe Alpissime. Ici, pas d'arnaque à la location !"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1120
+msgid "Composez votre séjour"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1121
+msgid "A la prochaine étape, ajoutez des services et activités et payez jusqu'à 4x sans frais"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1125
+msgid "D'autres voyageurs ont aussi consulté"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1140
+msgid "Voir les annonces similaires"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1148
+#: Template/Reservations/locataireAddres.ctp:189
+#: Template/Reservations/locataire_addres.ctp:376
+msgid "Réservation"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1177;2525
+#: Template/Element/menu_recherche_station.ctp:72
+#: Template/Layout/landing.ctp:246
+msgid "Adultes"
+msgstr ""
+
+msgid "Adulte(s)"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1180;2531
+#: Template/Element/menu_recherche_station.ctp:73
+#: Template/Layout/landing.ctp:249
+msgid "Enfants"
+msgstr ""
+
+msgid "Enfant(s)"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1189
+msgid "Frais de service"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1189
+msgid "Les frais de services permettent le fonctionnement d'Alpissime, la réservation en ligne sécurisée et l'accès au service client."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1189
+msgid "Les frais de services incluent la TVA à 20%"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1191
+msgid "Total"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1191
+msgid "Une empreinte de votre moyen de paiement sera stockée de manière sécurisée par notre partenaire de paiement afin d’assurer la caution de l’hébergement"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1192
+msgid "à hauteur"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1193
+msgid "Celle-ci sera automatiquement effacée si aucun dommage n’est signalé."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1220
+msgid "nuit"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1227
+#: Template/Annonces/viewprev.ctp:666
+msgid "Contacter le propriétaire"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1230
+msgid "Partager cet hébergement"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1295
+msgid "Référence de l'annonce"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1301
+#: Template/Element/boutons_clients.ctp:14
+#: Template/Manager/Annonces/virementsreservations.ctp:31
+#: Template/Utilisateurs/add.ctp:225
+#: Template/Utilisateurs/edit.ctp:51
+#: Template/Utilisateurs/listannonce.ctp:16
+msgid "Propriétaire"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1323
+msgid "Partager votre expérience"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1332
+msgid "Comment évaluez-vous les critères suivants ?"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1337
+msgid "Confort et équipement"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1347
+msgid "Rapport Qualité/Prix"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1354
+msgid "Donner un titre à votre avis"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1356
+msgid "Merci de renseigner le titre de votre avis."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1361;1401
+msgid "Votre commentaire ne doit pas dépasser 360 caractères"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1362
+msgid "S'il vous plaît, entrez un Commentaire"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1366
+msgid "Je certifie que cet avis est authentique et reflète ma propre expérience. Je ne suis pas liée personnellement ou professionnellement au propriétaire de cet hébergement, et n'ai reçu aucune compensation (financière ou autre). En contrepartie, je comprends que dans le cas contraire, mon avis pourra etre supprimé"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1368
+msgid "Merci de cocher la case certifiant que votre avis est authentique."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1390
+msgid "Répondre à cet Avis"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1399
+msgid "Votre Réponse"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1402
+msgid "Merci de renseigner votre réponse."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1427
+#: Template/Annonces/viewprev.ctp:1202
+#: Template/Reservations/locataire_addres.ctp:655
+msgid "Détails période"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1430
+#: Template/Annonces/viewprev.ctp:1205
+#: Template/Dispos/view.ctp:985;1091
+#: Template/Reservations/locataire_addres.ctp:658;704
+#: Template/Reservations/locataire_view.ctp:56
+msgid "Statut "
+msgstr ""
+
+#: Template/Annonces/view.ctp:1434
+#: Template/Annonces/viewprev.ctp:1209
+#: Template/Dispos/view.ctp:2833;2835;2841;2843
+#: Template/Reservations/locataire_addres.ctp:662
+msgid "Durée minimum de séjour"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1438
+#: Template/Annonces/viewprev.ctp:1213
+#: Template/Dispos/view.ctp:1035;1141
+#: Template/Reservations/locataire_addres.ctp:666;754
+msgid "Prix /nuitée"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1443
+#: Template/Annonces/viewprev.ctp:1218
+#: Template/Dispos/view.ctp:1041;1147
+#: Template/Reservations/locataire_addres.ctp:671;760
+msgid "Prix promotion /nuitée"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1448
+#: Template/Annonces/viewprev.ctp:575;1223
+#: Template/Dispos/view.ctp:2833;2835;2838;2841;2843
+#: Template/Reservations/editreservationcalendar.ctp:293
+#: Template/Reservations/get_reservation_locataire.ctp:30
+#: Template/Reservations/get_reservation_proprietaire.ctp:51
+#: Template/Reservations/locataire_addres.ctp:417
+msgid "Date de départ"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1459
+#: Template/Annonces/viewprev.ctp:1234
+#: Template/Dispos/view.ctp:1063;1167;1191;1217
+#: Template/Element/menu_recherche_bande.ctp:331
+#: Template/Reservations/locataireAddres.ctp:265
+#: Template/Reservations/locataire_addres.ctp:679;780
+msgid "Fermer"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1668
+msgid "Votre réservation est en cours. <br>Vous allez être redirigé(e) vers notre marketplace pour procéder au paiement."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1672
+msgid "Votre réservation vous attendra dans votre panier. <br>Vous pouvez également compléter votre séjour en y ajoutant des activités et des services (cours, matériel, forfaits de ski et bien plus encore)."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1676
+msgid "Si {0} refuse votre demande de réservation, votre commande sera annulée et vous n’aurez rien à payer."
+msgstr ""
+
+#: Template/Annonces/view.ctp:1681;2796;2798;2966;2968
+msgid "Nous sommes en train de préparer votre commande"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1693
+msgid "Merci de patienter"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1694
+msgid "Suivant"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1987;1991
+#: Template/Reservations/locataire_addres.ctp:109;1164
+msgid "nuitées"
+msgstr ""
+
+#: Template/Annonces/view.ctp:1996
+msgid "Taxe de séjour"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2121;2751
+msgid "Vous devez activer votre adresse email pour réserver"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2124;2762
+msgid "Vous devez avoir un compte Locataire pour réserver"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2142
+msgid "Le propriétaire a choisi de n'accepter que les réservations de"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2142
+msgid "nuitées minimum. Merci de modifier votre sélection."
+msgstr ""
+
+#: Template/Annonces/view.ctp:2162
+msgid "Le propriétaire a choisi de n'accepter que les réservations allant du samedi au samedi. Merci de modifier votre sélection."
+msgstr ""
+
+#: Template/Annonces/view.ctp:2167
+msgid "Le propriétaire a choisi de n'accepter que les réservations allant du dimanche au dimanche. Merci de modifier votre sélection."
+msgstr ""
+
+#: Template/Annonces/view.ctp:2267
+msgid "Période doit être du Samedi au Samedi"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2272
+msgid "Période doit être du Dimanche au Dimanche"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2465
+msgid "Vous avez un message pour"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2475;2546
+#: Template/Reservations/locataire_view.ctp:279;305
+#: Template/Reservations/view.ctp:377;403
+#: Template/Utilisateurs/detailmessage.ctp:169;242
+msgid "Votre message ne peut pas être envoyé car il viole les conditions générales de Alpissime.com.<br> Il est interdit de communiquer une adresse email ou un numéro de téléphone par la messagerie."
+msgstr ""
+
+#: Template/Annonces/view.ctp:2685
+msgid "Veuillez prouver que vous n'êtes pas un robot !"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2694
+msgid "Votre inscription a été effectuée avec success."
+msgstr ""
+
+#: Template/Annonces/view.ctp:2717
+msgid "Le champ Email ne doit pas être vide !"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2720
+msgid "Le champ Mot de passe ne doit pas être vide !"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2731
+msgid "Erreur au moment de la connexion ! Vérifier vos données"
+msgstr ""
+
+#: Template/Annonces/view.ctp:2734
+msgid "Un email de confirmation vous a été envoyé par Alpissime (administration@alpissime.com). Veuillez consulter votre boite mail pour activer votre compte."
+msgstr ""
+
+#: Template/Annonces/view.ctp:2796;2966
+msgid "Les dates de réservation sélectionnées vous permettent de payer jusqu’à <span id='Xfois'></span> fois sans frais."
+msgstr ""
+
+#: Template/Annonces/view.ctp:3382
+msgid "cacher"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:75
+#: Template/Element/menu_recherche.ctp:72
+#: Template/Element/menu_recherche_avancee.ctp:32
+msgid "Situation géographique"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:549
+#: Template/Dispos/view.ctp:114
+#: Template/Reservations/locataire_addres.ctp:437
+msgid "Indication"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:552
+#: Template/Dispos/view.ctp:120;989;1095
+#: Template/Reservations/locataire_addres.ctp:440;708;861
+msgid "Option"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:558
+#: Template/Dispos/view.ctp:126;990;1096
+#: Template/Reservations/locataire_addres.ctp:446;709;863
+msgid "Réservé"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:561
+#: Template/Dispos/edit.ctp:76
+#: Template/Element/menu_recherche.ctp:188
+#: Template/Element/menu_recherche_bande.ctp:283
+#: Template/Reservations/locataire_addres.ctp:449
+msgid "Promotion"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:571
+#: Template/Reservations/editreservationcalendar.ctp:287
+#: Template/Reservations/get_reservation_locataire.ctp:19
+#: Template/Reservations/get_reservation_proprietaire.ctp:32
+#: Template/Reservations/locataire_addres.ctp:413
+msgid "Date d'arrivée"
+msgstr ""
+
+#: Template/Annonces/viewprev.ctp:1121
+msgid "S'il vous plaît, entrez votre Nom"
+msgstr ""
+
+#: Template/Annonces/webcam.ctp:253
+msgid "Voir détail"
+msgstr ""
+
+#: Template/Annonces/webcam.ctp:260
+msgid "Pas de webcam à afficher pour cette station"
+msgstr ""
+
+#: Template/Dispos/add.ctp:3
+#: Template/Dispos/index.ctp:3;25
+#: Template/Manager/Arrivees/add.ctp:3
+#: Template/Manager/Arrivees/edit.ctp:3
+#: Template/Manager/Arrivees/view.ctp:3
+#: Template/Manager/Registres/add.ctp:3
+#: Template/Manager/Registres/index.ctp:3;18
+#: Template/Manager/Registres/view.ctp:3
+#: Template/Photos/add.ctp:3
+#: Template/Photos/edit.ctp:3
+#: Template/Photos/index.ctp:3;18
+#: Template/Photos/view.ctp:3
+#: Template/Reservations/edit.ctp:3
+#: Template/Reservations/index.ctp:3;27
+#: Template/Utilisateurs/view.ctp:3
+msgid "Actions"
+msgstr ""
+
+#: Template/Dispos/add.ctp:4
+#: Template/Reservations/edit.ctp:15
+#: Template/Reservations/index.ctp:9
+msgid "Liste des disponibilités"
+msgstr ""
+
+#: Template/Dispos/add.ctp:5
+#: Template/Dispos/index.ctp:5
+#: Template/Photos/add.ctp:5
+#: Template/Photos/edit.ctp:11
+#: Template/Photos/index.ctp:5
+#: Template/Photos/view.ctp:8
+#: Template/Reservations/edit.ctp:11
+#: Template/Reservations/index.ctp:5
+msgid "Liste des annonces"
+msgstr ""
+
+#: Template/Dispos/add.ctp:6
+#: Template/Dispos/index.ctp:6
+#: Template/Photos/add.ctp:6
+#: Template/Photos/edit.ctp:12
+#: Template/Photos/index.ctp:6
+#: Template/Photos/view.ctp:9
+#: Template/Reservations/edit.ctp:12
+#: Template/Reservations/index.ctp:6
+msgid "Nouvelle annonce"
+msgstr ""
+
+#: Template/Dispos/add.ctp:7
+#: Template/Dispos/index.ctp:7
+#: Template/Reservations/edit.ctp:13
+#: Template/Reservations/index.ctp:7
+#: Template/Utilisateurs/view.ctp:6
+msgid "Liste des utilisateurs"
+msgstr ""
+
+#: Template/Dispos/add.ctp:8
+#: Template/Dispos/index.ctp:8
+#: Template/Reservations/edit.ctp:14
+#: Template/Reservations/index.ctp:8
+#: Template/Utilisateurs/view.ctp:7
+msgid "Nouvel utilisateur"
+msgstr ""
+
+#: Template/Dispos/add.ctp:9
+#: Template/Dispos/index.ctp:9
+#: Template/Reservations/edit.ctp:10
+msgid "Liste des réservations"
+msgstr ""
+
+#: Template/Dispos/add.ctp:10
+#: Template/Dispos/index.ctp:10
+#: Template/Reservations/index.ctp:4
+msgid "Nouvelle réservation"
+msgstr ""
+
+#: Template/Dispos/add.ctp:16
+msgid "Add Dispo"
+msgstr ""
+
+#: Template/Dispos/add.ctp:31
+#: Template/Manager/Arrivees/add.ctp:17
+#: Template/Manager/Arrivees/edit.ctp:23
+#: Template/Manager/Registres/add.ctp:19
+#: Template/Photos/add.ctp:19
+#: Template/Photos/edit.ctp:25
+#: Template/Reservations/edit.ctp:43
+#: View/Helper/FormHelper.php:1927
+msgid "Submit"
+msgstr ""
+
+#: Template/Dispos/edit.ctp:99
+#: Template/Dispos/view.ctp:926
+#: Template/Utilisateurs/nouveau_mdp.ctp:40
+#: Template/Utilisateurs/ouvrircompte.ctp:79
+msgid "Retour"
+msgstr ""
+
+#: Template/Dispos/index.ctp:4
+#: Template/Reservations/edit.ctp:16
+#: Template/Reservations/index.ctp:10
+msgid "Nouvelle disponibilité"
+msgstr ""
+
+#: Template/Dispos/index.ctp:14
+msgid "Dispos"
+msgstr ""
+
+#: Template/Dispos/index.ctp:39
+#: Template/Manager/Registres/index.ctp:31
+#: Template/Photos/index.ctp:29
+#: Template/Reservations/index.ctp:41
+#: View/Helper/PaginatorHelper.php:1220
+msgid "View"
+msgstr ""
+
+#: Template/Dispos/index.ctp:40
+#: Template/Manager/Registres/index.ctp:32
+#: Template/Photos/index.ctp:30
+#: Template/Reservations/index.ctp:42
+msgid "Edit"
+msgstr ""
+
+#: Template/Dispos/index.ctp:41
+#: Template/Manager/Arrivees/edit.ctp:5
+#: Template/Manager/Registres/index.ctp:33
+#: Template/Photos/edit.ctp:5
+#: Template/Photos/index.ctp:31
+#: Template/Reservations/edit.ctp:5
+#: Template/Reservations/index.ctp:43
+msgid "Delete"
+msgstr ""
+
+#: Template/Dispos/index.ctp:41
+#: Template/Manager/Arrivees/edit.ctp:7
+#: Template/Manager/Arrivees/view.ctp:5
+#: Template/Manager/Registres/index.ctp:33
+#: Template/Manager/Registres/view.ctp:5
+#: Template/Photos/edit.ctp:7
+#: Template/Photos/index.ctp:31
+#: Template/Photos/view.ctp:5
+#: Template/Reservations/edit.ctp:7
+#: Template/Reservations/index.ctp:43
+#: Template/Utilisateurs/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Dispos/index.ctp:49
+#: Template/Element/admin_pagination.ctp:7
+#: Template/Manager/Registres/index.ctp:41
+#: Template/Photos/index.ctp:39
+#: Template/Reservations/index.ctp:51
+msgid "previous"
+msgstr ""
+
+#: Template/Dispos/index.ctp:51
+#: Template/Element/admin_pagination.ctp:9
+#: Template/Manager/Registres/index.ctp:43
+#: Template/Photos/index.ctp:41
+#: Template/Reservations/index.ctp:53
+msgid "next"
+msgstr ""
+
+#: Template/Dispos/view.ctp:103
+msgid "Planning des disponibilités et tarifs"
+msgstr ""
+
+#: Template/Dispos/view.ctp:117
+msgid "Vacances"
+msgstr ""
+
+#: Template/Dispos/view.ctp:123
+#: Template/Reservations/locataire_addres.ctp:443
+msgid "Disponible"
+msgstr ""
+
+#: Template/Dispos/view.ctp:129
+msgid "Station ouverte"
+msgstr ""
+
+#: Template/Dispos/view.ctp:132
+msgid "Station fermée"
+msgstr ""
+
+#: Template/Dispos/view.ctp:135
+msgid "Réservé importé"
+msgstr ""
+
+#: Template/Dispos/view.ctp:138
+#: Template/Reservations/locataire_addres.ctp:1152;1167;1178;1252;1262
+msgid "Ajouter une période"
+msgstr ""
+
+#: Template/Dispos/view.ctp:142
+msgid "Synchronisation du calendrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:144
+msgid "Importer le calendrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:146
+msgid "Exporter le calendrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:152
+msgid "Une question ? Consultez notre"
+msgstr ""
+
+#: Template/Dispos/view.ctp:155
+msgid "Consultez les statistiques de pricing dans votre station pour les années précédentes (hébergements de même surface)"
+msgstr ""
+
+#: Template/Dispos/view.ctp:158
+msgid "Affichage par mois"
+msgstr ""
+
+#: Template/Dispos/view.ctp:161
+msgid "Septembre"
+msgstr ""
+
+#: Template/Dispos/view.ctp:162
+msgid "Octobre"
+msgstr ""
+
+#: Template/Dispos/view.ctp:163
+msgid "Novembre"
+msgstr ""
+
+#: Template/Dispos/view.ctp:164
+msgid "Décembre"
+msgstr ""
+
+#: Template/Dispos/view.ctp:165
+msgid "Janvier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:166
+msgid "Fevrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:167
+msgid "Mars"
+msgstr ""
+
+#: Template/Dispos/view.ctp:168
+msgid "Avril"
+msgstr ""
+
+#: Template/Dispos/view.ctp:169
+msgid "Mai"
+msgstr ""
+
+#: Template/Dispos/view.ctp:170
+msgid "Juin"
+msgstr ""
+
+#: Template/Dispos/view.ctp:171
+msgid "Juillet"
+msgstr ""
+
+#: Template/Dispos/view.ctp:172
+msgid "Août"
+msgstr ""
+
+#: Template/Dispos/view.ctp:175
+msgid "Affichage par semaine"
+msgstr ""
+
+#: Template/Dispos/view.ctp:182
+#: Template/Pages/cartevacanceseuropeennes.ctp:20
+msgid "Carte des vacances européennes"
+msgstr ""
+
+#: Template/Dispos/view.ctp:844
+#: Template/Pages/cartevacanceseuropeennes.ctp:822
+msgid "Zone A"
+msgstr ""
+
+#: Template/Dispos/view.ctp:848
+#: Template/Pages/cartevacanceseuropeennes.ctp:826
+msgid "Besançon, Bordeaux, Clermont-Ferrand, Dijon, Grenoble, Limoges, Lyon, Poitiers"
+msgstr ""
+
+#: Template/Dispos/view.ctp:854
+#: Template/Pages/cartevacanceseuropeennes.ctp:832
+msgid "Zone B"
+msgstr ""
+
+#: Template/Dispos/view.ctp:858
+#: Template/Pages/cartevacanceseuropeennes.ctp:836
+msgid "Aix-Marseille, Amiens, Caen, Lille, Nancy-Metz, Nantes, Nice, Orléans-Tours, Reims, Rennes, Rouen, Strasbourg"
+msgstr ""
+
+#: Template/Dispos/view.ctp:864
+#: Template/Pages/cartevacanceseuropeennes.ctp:842
+msgid "Zone C"
+msgstr ""
+
+#: Template/Dispos/view.ctp:868
+#: Template/Pages/cartevacanceseuropeennes.ctp:846
+msgid "Créteil, Montpellier, Paris, Toulouse, Versailles"
+msgstr ""
+
+#: Template/Dispos/view.ctp:928
+#: Template/Element/menu_proprietaire.ctp:49
+msgid "Prévisualiser"
+msgstr ""
+
+#: Template/Dispos/view.ctp:949
+msgid "Supprimer les semaines de locations"
+msgstr ""
+
+#: Template/Dispos/view.ctp:955
+msgid "Vous allez supprimer toutes les semaines de locations"
+msgstr ""
+
+#: Template/Dispos/view.ctp:977
+msgid "Modifier nuitée ou période (ex: semaine)"
+msgstr ""
+
+#: Template/Dispos/view.ctp:981;1084
+#: Template/Reservations/locataire_addres.ctp:697
+msgid "Veuillez saisir un prix par nuitée !"
+msgstr ""
+
+#: Template/Dispos/view.ctp:982;1086
+#: Template/Reservations/locataire_addres.ctp:699
+msgid "Veuillez saisir un prix par nuitée > 0€ !"
+msgstr ""
+
+#: Template/Dispos/view.ctp:988;1094
+#: Template/Reservations/locataire_addres.ctp:707;862
+msgid "Libre"
+msgstr ""
+
+#: Template/Dispos/view.ctp:995;1101
+#: Template/Reservations/locataire_addres.ctp:714
+msgid "Début"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1001;1107
+#: Template/Reservations/locataire_addres.ctp:720
+msgid "Fin"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1007;1113
+#: Template/Reservations/locataire_addres.ctp:726
+msgid "Durée minimum séjour (nuitée)"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1014;1120
+#: Template/Reservations/locataire_addres.ctp:733
+msgid "Condition"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1018;1124
+#: Template/Reservations/locataire_addres.ctp:737
+msgid "durée minimum"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1024;1130
+#: Template/Element/menu_recherche.ctp:90
+#: Template/Reservations/locataire_addres.ctp:743
+msgid "samedi au samedi"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1030;1136
+#: Template/Element/menu_recherche.ctp:95
+#: Template/Reservations/locataire_addres.ctp:749
+msgid "dimanche au dimanche"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1047;1153
+#: Template/Reservations/locataire_addres.ctp:766
+msgid "Prix /période"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1053;1159
+#: Template/Reservations/locataire_addres.ctp:772
+msgid "Prix promotion /période"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1064
+#: Template/Reservations/locataire_view.ctp:127
+msgid "Modifier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1080
+#: Template/Reservations/locataire_addres.ctp:693
+msgid "Ajouter nuitée ou période (ex: semaine)"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1085
+#: Template/Reservations/locataire_addres.ctp:698
+msgid "Le début d'une période valide ne doit pas être à une date passée !"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1168
+#: Template/Photos/ok.ctp:1
+#: Template/Reservations/locataire_addres.ctp:781
+msgid "Ajouter"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1179
+msgid "Exporter le calendrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1184
+msgid "Copier l'URL suivant"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1201
+msgid "Importer un calendrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1206
+msgid "Coller l'URL du calendrier à importer : <br><small>Veuillez importer le calendrier au format iCal</small>"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1208
+msgid "Nom du calendrier"
+msgstr ""
+
+#: Template/Dispos/view.ctp:1218
+msgid "Importer"
+msgstr ""
+
+#: Template/Dispos/view.ctp:2833;2835
+#: Template/Element/boutons_clients.ctp:29
+#: Template/Reservations/validation.ctp:63
+#: Template/Reservations/view.ctp:468
+#: Template/Utilisateurs/add.ctp:224
+#: Template/Utilisateurs/edit.ctp:51
+#: Template/Utilisateurs/infobancaire.ctp:111
+#: Template/Utilisateurs/listannonce.ctp:16
+msgid "Locataire"
+msgstr ""
+
+#: Template/Dispos/view.ctp:2833;2835;2841;2843
+msgid "Prix/nuitée"
+msgstr ""
+
+#: Template/Dispos/view.ctp:2835;2843
+msgid "Prix promotion/nuitée"
+msgstr ""
+
+#: Template/Dispos/view.ctp:2838
+msgid "Nom du calendrier"
+msgstr ""
+
+#: Template/Element/admin_pagination.ctp:3
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: Template/Element/headerdiv.ctp:15
+msgid "Fr"
+msgstr ""
+
+#: Template/Element/headerdiv.ctp:17
+msgid "Français"
+msgstr ""
+
+#: Template/Element/headerdiv.ctp:18
+msgid "Anglais"
+msgstr ""
+
+#: Template/Element/menu_locataire.ctp:17
+#: Template/Element/menu_proprietaire.ctp:23
+#: Template/Utilisateurs/index.ctp:99
+#: Template/Utilisateurs/locataire_index.ctp:56
+msgid "Mes messages"
+msgstr ""
+
+#: Template/Element/menu_proprietaire.ctp:73
+#: Template/Reservations/validation.ctp:198
+#: Template/Reservations/view.ctp:560
+#: Template/Utilisateurs/index.ctp:142
+msgid "Vous allez créer une réservation"
+msgstr ""
+
+#: Template/Element/menu_proprietaire.ctp:74
+#: Template/Reservations/validation.ctp:199
+#: Template/Reservations/view.ctp:561
+#: Template/Utilisateurs/index.ctp:143
+msgid "pour que cette réservation soit possible vous devez renseigner la période avant de passer celle ci sur le Statut réservé"
+msgstr ""
+
+#: Template/Element/menu_proprietaire.ctp:75
+#: Template/Reservations/validation.ctp:200
+#: Template/Reservations/view.ctp:562
+#: Template/Utilisateurs/index.ctp:144
+msgid "si vous ne voyez pas votre semaine après avoir ouvert ce tableau"
+msgstr ""
+
+#: Template/Element/menu_proprietaire.ctp:76
+#: Template/Reservations/validation.ctp:201
+#: Template/Reservations/view.ctp:563
+#: Template/Utilisateurs/index.ctp:145
+msgid "mettez la semaine sur libre, vous la retrouverez dans votre tableau création d'une réservation manuelle"
+msgstr ""
+
+#: Template/Element/menu_proprietaire.ctp:77
+#: Template/Reservations/validation.ctp:202
+#: Template/Reservations/view.ctp:564
+#: Template/Utilisateurs/index.ctp:146
+msgid "une période est considérée \"réservé\" si elle est renseignée avec les coordonnées de votre locataire"
+msgstr ""
+
+#: Template/Element/menu_proprietaire.ctp:81
+#: Template/Element/menu_recherche.ctp:236
+#: Template/Element/menu_recherche_bande.ctp:332
+#: Template/Reservations/tarifdispo.ctp:66
+#: Template/Reservations/validation.ctp:203
+#: Template/Reservations/view.ctp:565
+#: Template/Utilisateurs/index.ctp:150
+msgid "Valider"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:67
+#: Template/Element/menu_recherche_bande.ctp:340
+msgid "Recherche"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:119
+#: Template/Element/menu_recherche_bande.ctp:243
+msgid "Gite"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:139
+#: Template/Element/menu_recherche_bande.ctp:262
+msgid "Nombre de pièces"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:165
+#: Template/Element/menu_recherche_bande.ctp:186
+msgid "Prix par Nuitée"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:170
+#: Template/Element/menu_recherche_bande.ctp:188
+msgid "Prix Période"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:173
+#: Template/Element/menu_recherche_bande.ctp:176;196
+#: Template/Utilisateurs/mesmessages.ctp:165
+msgid "De"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:206
+#: Template/Element/menu_recherche_avancee.ctp:113
+#: Template/Element/menu_recherche_bande.ctp:300
+msgid "Internet"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:215
+#: Template/Element/menu_recherche_bande.ctp:309
+msgid "Draps et linge fournis"
+msgstr ""
+
+#: Template/Element/menu_recherche.ctp:233
+#: Template/Element/menu_recherche_bande.ctp:328
+msgid "Mots clés"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:106
+msgid "Modifier ma recherche"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:129;484
+#: Template/Layout/landing.ctp:214;994
+#: Template/Manager/Gestionnaires/remplissagestatis.ctp:290
+msgid "Tous les villages"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:138
+msgid "Arrivée"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:146
+msgid "Départ"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:158
+msgid "Adulte(s)"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:159
+msgid "Enfant(s)"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:165
+msgid "Options"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:178;198
+msgid "A"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:203
+msgid "Du Samedi au Samedi"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:206
+msgid "Du Dimanche au Dimanche"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:272
+msgid "et plus"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:323
+msgid "Annonce n°"
+msgstr ""
+
+#: Template/Element/menu_recherche_bande.ctp:337
+msgid "Réinitialiser"
+msgstr ""
+
+#: Template/Element/menu_recherche_station.ctp:41
+msgid "Sélectionnez la station de vos envies"
+msgstr ""
+
+#: Template/Element/petite_annonce.ctp:119
+msgid "Dès "
+msgstr ""
+
+#: Template/Element/petite_annonce.ctp:119
+msgid "Nuitée"
+msgstr ""
+
+#: Template/Layout/default.ctp:152
+#: Template/Layout/landing.ctp:177
+msgid "Vous ne le trouvez pas ? Vérifiez votre dossier Spams et ajoutez Alpissime à vos contacts !"
+msgstr ""
+
+#: Template/Layout/default.ctp:328
+#: Template/Layout/landing.ctp:773
+msgid "Vous avez une réservation en attente."
+msgstr ""
+
+#: Template/Layout/default.ctp:328
+#: Template/Layout/landing.ctp:773
+msgid "Cliquez ici"
+msgstr ""
+
+#: Template/Layout/default.ctp:328
+#: Template/Layout/landing.ctp:773
+msgid "pour la finaliser"
+msgstr ""
+
+#: Template/Layout/landing.ctp:22;28
+msgid "Locations entre particuliers en station de ski"
+msgstr ""
+
+#: Template/Layout/landing.ctp:23
+msgid "Séjour ski - Réservez vos vacances sur Alpissime | 🏘 Hébergements vérifiés ⛷ Activités en station ⭐️ Services de conciergerie | Paiement en 4x sans frais"
+msgstr ""
+
+#: Template/Layout/landing.ctp:212
+msgid "Sélectionnez un village"
+msgstr ""
+
+#: Template/Layout/landing.ctp:332
+msgid "Trouvez votre location de vacances par destination"
+msgstr ""
+
+#: Template/Layout/landing.ctp:402
+msgid "Facilitez la gestion de votre hébergement en faisant confiance à des professionnels de la location - Accueil de vos locataires, remises de clés, suivi de la location durant le séjour, collecte de la taxe de séjour et vérification de l'inventaire. Les conciergeries Alpissime en station de ski représentent un intermédiaire de confiance pour vous et vos locataires."
+msgstr ""
+
+#: Template/Layout/landing.ctp:508
+msgid "Pourquoi réserver vos vacances à la montagne avec Alpissime ?"
+msgstr ""
+
+#: Template/Layout/landing.ctp:509
+msgid "Alpissime vous propose un large choix de location entre particuliers pour vos prochaines <strong>vacances au ski</strong>. \n                Réservez un appartement au centre de votre station de ski préférée, un <strong>chalet au pied des pistes</strong> pour des vacances à la montagne inoubliables. \n                Choisissez sur la marketplace Alpissime les activités qui vous correspondent : location de skis, cours de ski, forfaits, randonnées avec un guide de haute montagne et bien d’autres pour composer votre <strong>séjour au ski tout compris</strong>."
+msgstr ""
+
+#: Template/Layout/landing.ctp:520
+msgid "Location de vacances entre particuliers - réservez vos plus belles vacances montagne sur Alpissime"
+msgstr ""
+
+#: Template/Layout/landing.ctp:521
+msgid "Vous organisez votre location de vacances à la montagne ? Ne cherchez plus ! \n                    Alpissime vous propose une sélection vérifiée pour votre <strong>location de vacances de particuliers à particuliers à la montagne</strong>. \n                    Réservez un appartement au ski ou un chalet pied des pistes entre particuliers pour vos prochaines <strong>vacances d’hiver</strong> en famille. \n                    Que vous soyez un adepte des <strong>vacances à la montagne</strong> pour noël, d’une semaine de ski pour les vacances d’hiver ou d’un court séjour pour un week-end à la montagne, \n                    les propriétaires qui louent entre particuliers sur Alpissime vous proposent des hébergements de qualité, vérifiés et à bas prix."
+msgstr ""
+
+#: Template/Layout/landing.ctp:526
+msgid "Location de vacances entre particuliers pour des vacances au ski inoubliables"
+msgstr ""
+
+#: Template/Layout/landing.ctp:527
+msgid "Redécouvrez les joies du ski et profitez des sports d’hiver en réservant des <strong>vacances en station de ski</strong>. \n                    Alpissime vous propose des formules de location de vacances à la carte. \n                    Simplifiez l’organisation de votre séjour à la montagne : \n                    réservez votre location de vacances entre particulier et composez votre <strong>séjour au ski tout compris</strong> en réservant location de skis, cours de ski, \n                    forfaits et bien d’autres activités en station de sports d’hiver pour un séjour au ski tout compris."
+msgstr ""
+
+#: Template/Layout/landing.ctp:532
+msgid "Vacances d’hiver en famille dans les plus belles stations de ski de France"
+msgstr ""
+
+#: Template/Layout/landing.ctp:533
+msgid "Profitez de vacances en famille dans les Alpes du Nord : rendez-vous sur Alpissime pour réserver votre location de vacances aux Arcs, à la Plagne, \n                    Peisey Vallandry ou Montchavin Les Coches pour des vacances dans le domaine Paradiski. \n                    Découvrez l’espace Killy avec les stations de Tignes et Val d’Isère. Profitez des 3 vallées dans les stations de Meribel, Courchevel ou Val Thorens. \n                    Partagez des moments inoubliables lors de vacances d’hiver en famille et retrouvez-vous dans les stations de Pralognan la Vanoise, La Clusaz. \n                    Prenez un bol d’air frais ensoleillé en découvrant le ski dans les alpes du sud avec la station du Val d’Allos, de Pra Loup, les Orres ou encore Serre-Chevalier."
+msgstr ""
+
+#: Template/Layout/landing.ctp:540
+msgid "Vacances au ski pas cher : réservez dès maintenant vos prochaines vacances à la montagne"
+msgstr ""
+
+#: Template/Layout/landing.ctp:541
+msgid "Faîtes des économies sur la réservation de vos prochaines <strong>vacances au ski</strong> en réservant un séjour pas cher à la montagne entre particuliers. \n                    Économisez sur la réservation de vos activités grâce à nos partenariats en station de ski. \n                    Les commerçants de montagne vous proposent des activités et services à prix réduit ! \n                    Profitez de <strong>vacances au ski pas cher</strong> en réservant votre appartement entre particuliers sur Alpissime et bénéficiez de réduction sur votre location au ski : matériel, forfaits de ski et cours de ski."
+msgstr ""
+
+#: Template/Layout/landing.ctp:545
+msgid "Location ski tout compris : location de vacances, activités en station au meilleur prix"
+msgstr ""
+
+#: Template/Layout/landing.ctp:546
+msgid "Alpissime vous propose une sélection des meilleures locations de <strong>chalet montagne entre particuliers, location d’appartements au ski</strong> pour la semaine ou le week-end pour un séjour ski tout compris réussi ! \n                    Retrouvez sur notre marketplace les produits, services et activités vendus par vos commerçants et professionnels en station. \n                    Réservez votre <strong>location au ski pas cher</strong> en ajoutant à votre réservation des cours de ski, location de skis, forfaits, randonnées avec des guides de haute montagne. \n                    L’été, profitez d’activités à la montagne avec des descentes en VTT, des activités d’eaux vives avec du rafting ou de l’hydrospeed. \n                    L’hiver, pendant que les parents profitent des pistes de ski, les enfants s’amusent avec des activités dédiées. "
+msgstr ""
+
+#: Template/Layout/landing.ctp:551
+msgid "Montagne vacances - Le meilleur choix de destination pour votre prochain séjour"
+msgstr ""
+
+#: Template/Layout/landing.ctp:552
+msgid "Découvrez ou redécouvrez les joies des stations de ski : baladez-vous sur le front de neige pendant que les enfants s’améliorent grâce aux cours de ski proposés par des moniteurs certifiés. \n                    Les vacances d’hiver en famille à la montagne vous permettent de créer des souvenirs inoubliables. \n                    Profitez d’un <strong>séjour au ski tout compris</strong> en composant à la carte vos prochaines vacances selon vos envies."
+msgstr ""
+
+#: Template/Manager/Annonces/virementsreservations.ctp:28
+#: Template/Utilisateurs/infobancaire.ctp:108
+msgid "ID Réservation"
+msgstr ""
+
+#: Template/Manager/Annonces/virementsreservations.ctp:29
+#: Template/Reservations/locataire_view.ctp:53
+#: Template/Reservations/reservationcalendar.ctp:158
+#: Template/Reservations/validation.ctp:64
+#: Template/Reservations/view.ctp:469
+#: Template/Utilisateurs/infobancaire.ctp:109
+msgid "Période"
+msgstr ""
+
+#: Template/Manager/Annonces/virementsreservations.ctp:30
+#: Template/Utilisateurs/infobancaire.ctp:110
+msgid "ID Annonce"
+msgstr ""
+
+#: Template/Manager/Annonces/virementsreservations.ctp:32
+#: Template/Utilisateurs/infobancaire.ctp:112
+msgid "Montant (€)"
+msgstr ""
+
+#: Template/Manager/Annonces/virementsreservations.ctp:33
+#: Template/Utilisateurs/infobancaire.ctp:113
+#: Template/Utilisateurs/view.ctp:190
+msgid "Etat"
+msgstr ""
+
+#: Template/Manager/Arrivees/add.ctp:4
+#: Template/Manager/Arrivees/edit.ctp:10
+#: Template/Manager/Arrivees/view.ctp:6
+msgid "List Arrivees"
+msgstr ""
+
+#: Template/Manager/Arrivees/add.ctp:10
+msgid "Add Arrivee"
+msgstr ""
+
+#: Template/Manager/Arrivees/edit.ctp:16
+#: Template/Manager/Arrivees/view.ctp:4
+msgid "Edit Arrivee"
+msgstr ""
+
+#: Template/Manager/Arrivees/newarrive.ctp:275
+msgid "Premier"
+msgstr ""
+
+#: Template/Manager/Arrivees/newarrive.ctp:279
+msgid "Dernier"
+msgstr ""
+
+#: Template/Manager/Arrivees/nonarrive.ctp:313
+msgid "Première"
+msgstr ""
+
+#: Template/Manager/Arrivees/nonarrive.ctp:317
+msgid "Dernière"
+msgstr ""
+
+#: Template/Manager/Arrivees/view.ctp:5
+msgid "Delete Arrivee"
+msgstr ""
+
+#: Template/Manager/Arrivees/view.ctp:7
+msgid "New Arrivee"
+msgstr ""
+
+#: Template/Manager/Arrivees/view.ctp:14
+#: Template/Manager/Registres/view.ctp:34
+#: Template/Photos/view.ctp:24
+#: Template/Utilisateurs/view.ctp:154
+msgid "Id"
+msgstr ""
+
+#: Template/Manager/Arrivees/view.ctp:18
+msgid "Id Reservation"
+msgstr ""
+
+#: Template/Manager/Arrivees/view.ctp:22
+msgid "Id Gestionnaire"
+msgstr ""
+
+#: Template/Manager/Arrivees/view.ctp:26
+msgid "D Create"
+msgstr ""
+
+#: Template/Manager/Registres/add.ctp:4
+#: Template/Manager/Registres/view.ctp:6
+msgid "List Registres"
+msgstr ""
+
+#: Template/Manager/Registres/add.ctp:10
+msgid "Add Registre"
+msgstr ""
+
+#: Template/Manager/Registres/index.ctp:4
+#: Template/Manager/Registres/view.ctp:7
+msgid "New Registre"
+msgstr ""
+
+#: Template/Manager/Registres/index.ctp:8
+msgid "Registres"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:4
+msgid "Edit Registre"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:5
+msgid "Delete Registre"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:14
+msgid "App"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:18
+msgid "Bra"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:22
+msgid "Cle"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:26
+msgid "Val"
+msgstr ""
+
+#: Template/Manager/Registres/view.ctp:30
+msgid "Cpt"
+msgstr ""
+
+#: Template/Photos/add.ctp:4
+#: Template/Photos/edit.ctp:10
+#: Template/Photos/view.ctp:6
+msgid "List Photos"
+msgstr ""
+
+#: Template/Photos/add.ctp:12
+msgid "Add Photo"
+msgstr ""
+
+#: Template/Photos/edit.ctp:18
+#: Template/Photos/view.ctp:4
+msgid "Edit Photo"
+msgstr ""
+
+#: Template/Photos/index.ctp:4
+#: Template/Photos/view.ctp:7
+msgid "New Photo"
+msgstr ""
+
+#: Template/Photos/index.ctp:10
+msgid "Photos"
+msgstr ""
+
+#: Template/Photos/view.ctp:5
+msgid "Delete Photo"
+msgstr ""
+
+#: Template/Photos/view.ctp:20
+#: Template/Reservations/locataire_view.ctp:51
+msgid "Titre"
+msgstr ""
+
+#: Template/Photos/view.ctp:28
+msgid "Numero"
+msgstr ""
+
+#: Template/Reservations/edit.ctp:17
+#: Template/Reservations/index.ctp:11
+msgid "Liste des packs"
+msgstr ""
+
+#: Template/Reservations/edit.ctp:18
+#: Template/Reservations/index.ctp:12
+msgid "Nouveau pack"
+msgstr ""
+
+#: Template/Reservations/edit.ctp:24
+msgid "Modifier la réservation"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:248
+#: Template/Reservations/locataire_view.ctp:29
+#: Template/Reservations/reservationcalendar.ctp:118
+#: Template/Reservations/validation.ctp:20
+#: Template/Reservations/view.ctp:427
+#: Template/Utilisateurs/edit.ctp:20
+#: Template/Utilisateurs/index.ctp:38
+#: Template/Utilisateurs/infobancaire.ctp:8
+#: Template/Utilisateurs/listannonce.ctp:4
+#: Template/Utilisateurs/locataire_index.ctp:26
+#: Template/Utilisateurs/mesmessages.ctp:126
+msgid "Coordonnées"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:250
+#: Template/Reservations/locataire_view.ctp:31
+#: Template/Reservations/reservationcalendar.ctp:120
+#: Template/Reservations/validation.ctp:22
+#: Template/Reservations/view.ctp:429
+#: Template/Utilisateurs/edit.ctp:22
+#: Template/Utilisateurs/index.ctp:52
+#: Template/Utilisateurs/infobancaire.ctp:10
+#: Template/Utilisateurs/listannonce.ctp:6
+#: Template/Utilisateurs/mesmessages.ctp:128
+msgid "Annonces"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:251
+#: Template/Reservations/locataire_view.ctp:32
+#: Template/Reservations/reservationcalendar.ctp:121
+#: Template/Reservations/validation.ctp:23
+#: Template/Reservations/view.ctp:430
+#: Template/Utilisateurs/edit.ctp:23
+#: Template/Utilisateurs/index.ctp:66
+#: Template/Utilisateurs/infobancaire.ctp:11
+#: Template/Utilisateurs/listannonce.ctp:7
+#: Template/Utilisateurs/mesmessages.ctp:129
+msgid "Paiements"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:266
+#: Template/Reservations/reservationcalendar.ctp:136
+#: Template/Reservations/validation.ctp:38
+#: Template/Reservations/view.ctp:445
+msgid "Réservations en attente"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:269
+#: Template/Reservations/reservationcalendar.ctp:139
+#: Template/Reservations/validation.ctp:41
+#: Template/Reservations/view.ctp:448
+msgid "Réservations validées"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:272
+#: Template/Reservations/reservationcalendar.ctp:142
+#: Template/Reservations/validation.ctp:44
+#: Template/Reservations/view.ctp:451
+msgid "Réservations Synchronisées"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:275
+#: Template/Reservations/locataireAddres.ctp:94;194
+#: Template/Reservations/locataire_addres.ctp:365;628
+#: Template/Reservations/reservationcalendar.ctp:145
+#: Template/Reservations/validation.ctp:47
+#: Template/Reservations/view.ctp:454
+#: Template/Utilisateurs/index.ctp:85
+msgid "Créer une réservation"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:301
+#: Template/Reservations/locataire_addres.ctp:559
+msgid "Nombre d'enfants"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:311
+#: Template/Reservations/locataire_addres.ctp:573
+msgid "Nombre d'adultes à partir de 18 ans"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:322
+#: Template/Reservations/locataireAddres.ctp:110
+#: Template/Reservations/locataire_addres.ctp:462;1396
+msgid "Info locataire"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:328
+#: Template/Reservations/locataire_addres.ctp:483
+#: Template/Utilisateurs/infobancaire.ctp:61
+#: Template/Utilisateurs/view.ctp:158
+msgid "Pays"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:337
+#: Template/Reservations/locataire_addres.ctp:491
+msgid "Adresse e-mail"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:375
+#: Template/Reservations/locataireAddres.ctp:161
+#: Template/Reservations/locataire_addres.ctp:529
+msgid "Numéro portable"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:391
+#: Template/Reservations/locataire_addres.ctp:543
+msgid "2éme numéro portable"
+msgstr ""
+
+#: Template/Reservations/editreservationcalendar.ctp:404
+#: Template/Reservations/locataire_view.ctp:330
+#: Template/Reservations/view.ctp:541
+msgid "Modifier la réservation"
+msgstr ""
+
+#: Template/Reservations/get_reservation_locataire.ctp:45
+#: Template/Reservations/get_reservation_proprietaire.ctp:132
+msgid "Taxe de séjour gérée par alpissime"
+msgstr ""
+
+#: Template/Reservations/get_reservation_locataire.ctp:95
+#: Template/Reservations/get_reservation_proprietaire.ctp:140
+#: Template/Reservations/locataireAddres.ctp:177
+#: Template/Reservations/locataire_addres.ctp:616
+#: Template/Reservations/locataire_view.ctp:240
+msgid "Commentaire"
+msgstr ""
+
+#: Template/Reservations/get_reservation_locataire.ctp:102
+#: Template/Reservations/get_reservation_proprietaire.ctp:161
+#: Template/Utilisateurs/edit.ctp:136
+msgid "Sauvegarder"
+msgstr ""
+
+#: Template/Reservations/index.ctp:16
+msgid "Reservations"
+msgstr ""
+
+#: Template/Reservations/locataireAddres.ctp:106
+msgid "Lors de votre prochaine location demandez à votre futur locataire de réserver par alpissime.com de façon à alimenter automatiquement votre tableau de réservation"
+msgstr ""
+
+#: Template/Reservations/locataireAddres.ctp:112
+msgid "Civilité"
+msgstr ""
+
+#: Template/Reservations/locataireAddres.ctp:137
+#: Template/Utilisateurs/infobancaire.ctp:73
+msgid "Code postal"
+msgstr ""
+
+#: Template/Reservations/locataireAddres.ctp:145
+#: Template/Utilisateurs/infobancaire.ctp:85
+#: Template/Utilisateurs/view.ctp:66
+msgid "Ville"
+msgstr ""
+
+#: Template/Reservations/locataireAddres.ctp:240
+#: Template/Reservations/locataire_addres.ctp:599
+msgid "Je souhaite que la taxe de séjour soit collectée en mon nom par ma conciergerie"
+msgstr ""
+
+#: Template/Reservations/locataireAddres.ctp:299
+msgid "Confirmation réservation sur alpissime.com"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:153
+msgid "Veuillez choisir une période"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:161
+msgid "Merci de vérifier la saisie des numéros de téléphone."
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:383
+msgid "Vous pouvez créer une réservation afin d'indiquer les coordonnées de vos locataires et informations sur les séjours réservés sur d'autres plateformes à votre conciergerie."
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:390
+msgid "Choisir une annonce"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:404
+msgid "Veuillez choisir une annonce afin d'afficher le calendrier de réservation"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:410
+msgid "Choisir une période"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:469
+msgid "Occupation propriétaire"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:582
+msgid "Ajouter des numéros de téléphone"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:602
+msgid "La conciergerie pourra collecter la taxe de séjour par chèque à l'ordre du Trésor Public ou en espèce. Elle sera par la suite reversée à la commune."
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:636
+msgid "Lors de votre prochaine location demandez à votre futur locataire de réserver par alpissime.com de façon à alimenter automatiquement votre tableau de réservations"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:1152;1167;1178;1252;1262
+msgid "La période recherchée n'existe pas, souhaitez-vous la créer ?"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:1155
+msgid "PERIODE DISPONIBLE"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:1164
+msgid "PERIODE NON DISPONIBLE"
+msgstr ""
+
+#: Template/Reservations/locataire_addres.ctp:1164
+msgid "Minimum séjour"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:54
+#: Template/Reservations/validation.ctp:65
+#: Template/Reservations/view.ctp:470
+msgid "Prix"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:111
+msgid "Détails"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:142
+msgid "Fiche réservation"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:149
+msgid "Si vous avez modifié votre date d'arrivée"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:150
+msgid "le gestionnaire sur place est informé de cette modification"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:180;201
+msgid "Supprimer la réservation"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:186;206
+msgid "Voulez-vous supprimer cette reservation"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:213
+msgid "Annulation avec justificatif"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:216
+msgid "Expliquez-nous le motif de votre annulation"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:218
+msgid "Maladies ou blessures graves"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:221
+msgid "Décès d'un des locataires, proche ou parent"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:224
+msgid "Obligations officielles"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:229;235;242;252
+msgid "Ce champ est obligatoire"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:234
+msgid "Justificatif à uploader pdf/image"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:247
+msgid "Annulation sans justificatif"
+msgstr ""
+
+#: Template/Reservations/locataire_view.ctp:270
+#: Template/Reservations/view.ctp:367
+msgid "Envoyer un message"
+msgstr ""
+
+#: Template/Reservations/reservationcalendar.ctp:157
+msgid "Annonce ID"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:70
+msgid "Vous n'avez aucune réservation"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:133
+msgid "REFUSER"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:134
+msgid "ACCEPTER"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:146
+msgid "Vous êtes sur votre tableau de réservations.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCes options sont en attente de validation.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPour accéder à celles ci merci de bien vouloir prendre\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a target=\"_blank\" href=\"<?php echo BOUTIQUE_ALPISSIME ?>/mise-en-relation.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tun contrat de mise en relation\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>ou\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a target=\"_blank\" href=\"<?php echo BOUTIQUE_ALPISSIME ?>/contrat-de-gestion-de-cles.html\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tun contrat de gestion de séjours.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAvec nos remerciements<br/>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tl'équipe de alpissime.com"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:179
+msgid "Questions fréquemment posées"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:180
+msgid "Comment accepter ou refuser une demande de réservation ?"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:181
+msgid "Quelles sont les règles lorsque je dois annuler une réservation ?"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:182
+msgid "Comment modifier les informations d’une réservation ou la supprimer ?"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:183
+msgid "Je suis en contrat de conciergerie, comment informer la conciergerie que j’ai eu une nouvelle réservation ?"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:185
+msgid "Consultez notre"
+msgstr ""
+
+#: Template/Reservations/validation.ctp:194
+#: Template/Utilisateurs/index.ctp:138
+msgid "Information"
+msgstr ""
+
+#: Template/Reservations/view.ctp:472
+#: Template/Utilisateurs/view.ctp:206
+msgid "Statut"
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:2
+msgid "Inscription | Alpissime.com - Vos plus belles vacances à la montagne"
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:3
+msgid "Inscription | Alpissime.com - Vos plus belles vacances à la montagne"
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:4
+msgid "Inscrivez-vous pour réserver vos vacances à la montagne sur Alpissime et composer votre séjour à la carte."
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:62;284
+#: Template/Utilisateurs/edit.ctp:95
+msgid "Merci de renseigner votre date de naissance"
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:211
+msgid "Vous avez déjà un compte ?"
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:223
+msgid "Sélectionnez votre profil"
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:228
+#: Template/Utilisateurs/edit.ctp:54
+msgid "Veuillez choisir votre profil."
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:248
+#: Template/Utilisateurs/nouveau_mdp.ctp:23
+#: Template/Utilisateurs/ouvrircompte.ctp:57
+msgid "Veuillez entrer votre mot de passe."
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:254
+msgid "Veuillez confirmer votre mot de passe."
+msgstr ""
+
+#: Template/Utilisateurs/add.ctp:268
+#: Template/Utilisateurs/edit.ctp:81
+msgid "Veuillez entrer votre prénom."
+msgstr ""
+
+#: Template/Utilisateurs/detailmessage.ctp:172
+msgid "Message venant de"
+msgstr ""
+
+#: Template/Utilisateurs/edit.ctp:44;122
+msgid "Changer votre mot de passe"
+msgstr ""
+
+#: Template/Utilisateurs/edit.ctp:128
+#: Template/Utilisateurs/mdp_perdu.ctp:40
+msgid "Nouveau mot de passe"
+msgstr ""
+
+#: Template/Utilisateurs/edit.ctp:132
+msgid "Confirmez le nouveau mot de passe"
+msgstr ""
+
+#: Template/Utilisateurs/erreurconnexion.ctp:5
+msgid "Vous devez vous connecter pour accéder à votre espace client"
+msgstr ""
+
+#: Template/Utilisateurs/erreurconnexion.ctp:7
+msgid "Retourner à la connexion"
+msgstr ""
+
+#: Template/Utilisateurs/getinfomessage.ctp:1
+#: Template/Utilisateurs/listannonce.ctp:71
+msgid "Annonce N°"
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:24
+#: Template/Utilisateurs/locataire_index.ctp:12
+msgid "Heureux de vous revoir"
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:39
+msgid "Modifiez vos informations et indiquez la façon dont Alpissime ou vos locataires peuvent vous joindre."
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:40
+#: Template/Utilisateurs/locataire_index.ctp:28
+msgid "Modifier mes coordonnées"
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:53
+msgid "Modifiez les informations de présentation de vos annonces, assurez-vous de leur visibilité et détaillez les disponibilités."
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:54
+msgid "Modifier mes annonces"
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:67
+msgid "Ajoutez un mode de versement et consultez les derniers paiements reçus en rémunération de vos locations."
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:68
+msgid "Mes paiements"
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:83
+msgid "Acceptez ou modifiez vos réservations, accédez aux coordonnées de vos locataires ou créez une réservation manuelle."
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:98
+msgid "Découvrez les demandes d'informations de vacanciers et échangez avec vos locataires."
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:112
+msgid "Retrouvez vos services de conciergerie, commandez des activités en station ou consultez l'état de vos commandes."
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:115
+msgid "Mes Commandes"
+msgstr ""
+
+#: Template/Utilisateurs/index.ctp:124
+#: Template/Utilisateurs/locataire_index.ctp:64
+msgid "Retour à l'accueil"
+msgstr ""
+
+#: Template/Utilisateurs/infobancaire.ctp:33
+msgid "Mes coordonnées bancaires"
+msgstr ""
+
+#: Template/Utilisateurs/infobancaire.ctp:35
+msgid "IBAN"
+msgstr ""
+
+#: Template/Utilisateurs/infobancaire.ctp:42
+msgid "BIC / SWIFT"
+msgstr ""
+
+#: Template/Utilisateurs/infobancaire.ctp:49
+msgid "Titulaire du compte"
+msgstr ""
+
+#: Template/Utilisateurs/infobancaire.ctp:79
+msgid "Département"
+msgstr ""
+
+#: Template/Utilisateurs/infobancaire.ctp:103
+msgid "Historique virement"
+msgstr ""
+
+#: Template/Utilisateurs/listannonce.ctp:22
+msgid "<center>Vous n'avez aucune annonce</center>"
+msgstr ""
+
+#: Template/Utilisateurs/listannonce.ctp:83
+msgid "Modifier mon annonce"
+msgstr ""
+
+#: Template/Utilisateurs/listannonce.ctp:86
+msgid "Planning"
+msgstr ""
+
+#: Template/Utilisateurs/listannonce.ctp:100
+#: Template/Utilisateurs/mesmessages.ctp:239
+msgid "Détails de votre message"
+msgstr ""
+
+#: Template/Utilisateurs/listannonce.ctp:118
+msgid "Supprimer l'annonce"
+msgstr ""
+
+#: Template/Utilisateurs/listannonce.ctp:121
+msgid "Voulez-vous supprimer cette annonce"
+msgstr ""
+
+#: Template/Utilisateurs/locataire_index.ctp:27
+msgid "Modifiez vos informations et indiquez la façon dont Alpissime ou les propriétaires peuvent vous joindre."
+msgstr ""
+
+#: Template/Utilisateurs/locataire_index.ctp:41
+msgid "Accédez aux informations des hébergements que vous avez loués, consultez ou modifiez vos réservations."
+msgstr ""
+
+#: Template/Utilisateurs/locataire_index.ctp:55
+msgid "Si vous avez posé une question à un propriétaire à propos d'une réservation, sa réponse se trouve  ici."
+msgstr ""
+
+#: Template/Utilisateurs/mdp_perdu.ctp:2
+msgid "Location vacances aux Arcs - Nouveau mot de passe"
+msgstr ""
+
+#: Template/Utilisateurs/mdp_perdu.ctp:3
+msgid "Alpissime Location vacances aux Arcs - Nouveau mot de passe"
+msgstr ""
+
+#: Template/Utilisateurs/mdp_perdu.ctp:4
+msgid "Un nouveau mot de passe sera généré et vous sera envoyé par email à l'adresse indiquée dans ce formulaire."
+msgstr ""
+
+#: Template/Utilisateurs/mdp_perdu.ctp:42;59
+#: Template/Utilisateurs/nouveau_mdp.ctp:54
+msgid "Demander un nouveau mot de passe"
+msgstr ""
+
+#: Template/Utilisateurs/mdp_perdu.ctp:45
+msgid "Merci de préciser votre identifiant. Un nouveau mot de passe sera généré et vous sera envoyé par email à l'adresse indiquée dans votre fiche."
+msgstr ""
+
+#: Template/Utilisateurs/mdp_perdu.ctp:49
+msgid "Votre e-mail"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:16;28
+msgid "Aucune case cochée"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:164
+#: Template/Utilisateurs/view.ctp:138
+msgid "Type"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:167
+msgid "Date/heure"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:174
+msgid "Vous n'avez aucun message"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:179
+msgid "Envoyé"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:181
+msgid "Reçu"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:255
+msgid "Envoyer message"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:272
+msgid "Répondre au message"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:289
+msgid "Supprimer les messages"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp:294
+msgid "Voulez-vous supprimer ces messages ?"
+msgstr ""
+
+#: Template/Utilisateurs/nouveau_mdp.ctp:39
+#: Template/Utilisateurs/ouvrircompte.ctp:78
+msgid "Vous n'avez pas encore de compte ?"
+msgstr ""
+
+#: Template/Utilisateurs/nouveau_mdp.ctp:60
+msgid "Nous vous avons envoyé un e-mail avec les instructions pour réinitialiser votre mot de passe.<br>Vérifiez votre boite de réception et cliquez sur le lien."
+msgstr ""
+
+#: Template/Utilisateurs/nouveau_mdp.ctp:66
+msgid "Fermer la fenetre"
+msgstr ""
+
+#: Template/Utilisateurs/ouvrircompte.ctp:31
+msgid "Location vacances à la montagne - Connexion"
+msgstr ""
+
+#: Template/Utilisateurs/ouvrircompte.ctp:32
+msgid "Alpissime Location vacances à la montagne - Connexion"
+msgstr ""
+
+#: Template/Utilisateurs/ouvrircompte.ctp:33
+msgid "Pour vos belles vacances sur alpissime, Connectez vous sur votre compte."
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:4
+msgid "Edit Utilisateur"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:5
+msgid "Delete Utilisateur"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:14
+msgid "Code Client"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:22
+msgid "Mot Passe"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:26
+msgid "Priv"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:30
+msgid "Civilite"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:34
+msgid "Prenom"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:38
+msgid "Nom de famille"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:42
+msgid "Societe"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:46
+msgid "Telephone"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:50
+msgid "Fax"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:54
+msgid "Portable"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:62
+msgid "Code Postal"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:70
+msgid "Format"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:74
+msgid "Siret"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:78
+msgid "Ape"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:82
+msgid "Code Banque"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:86
+msgid "Code Guichet"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:90
+msgid "Numero Compte"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:94
+msgid "Cle Rib"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:98
+msgid "Domiciliation"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:102
+msgid "Iban"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:106
+msgid "Bic"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:110
+msgid "Url"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:114
+msgid "Message Client"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:118
+msgid "Nom Utilisateur"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:122
+msgid "Region"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:126
+msgid "Ident"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:130
+msgid "Pwd"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:134
+msgid "Statut Coupon"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:142
+msgid "Adr2"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:146
+msgid "Adr3"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:150
+msgid "Nature"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:162
+msgid "Cnil"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:166
+msgid "Newsletter"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:170
+msgid "Commercial"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:174
+msgid "Remise Percent"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:178
+msgid "Remise Valeur"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:182
+msgid "Points"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:186
+msgid "Avoir"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:194
+msgid "Id Parrain"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:198
+msgid "Id Groupe"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:202
+msgid "Prof Yn"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:210
+msgid "Info Cle Yn"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:214
+msgid "Info Ctt Yn"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:218
+msgid "Offres Promo Yn"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:222
+msgid "Club Alpissime"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:226
+msgid "Sms"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:230
+msgid "Naissance"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:234
+msgid "Date Insert"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:238
+msgid "Date Update"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:242
+msgid "Accept At"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:246
+msgid "Valide At"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:251
+msgid "Message"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:255
+msgid "Description"
+msgstr ""
+
+#: Template/Utilisateurs/view.ctp:259
+msgid "Alerte"
+msgstr ""
+
+#: Template/Webcam/index.ctp:1
+msgid "Sur la route des vacances | Trafic routier dans les Alpes du Nord"
+msgstr ""
+
+#: Template/Webcam/index.ctp:2
+msgid "Sur la route des vacances | Trafic routier dans les Alpes du Nord"
+msgstr ""
+
+#: Template/Webcam/index.ctp:3
+msgid "Webcam du trafic en direct - Avant de prendre la route, consultez l'aperçu de la circulation, en temps réel."
+msgstr ""
+
+#: Template/Webcam/index.ctp:349
+msgid "Webcams"
+msgstr ""
+
+#: Template/Webcam/index.ctp:352
+msgid "Vous pouvez agrandir la carte pour voir plus de caméras"
+msgstr ""
+
+#: Template/Webcam/index.ctp:355
+msgid "Choisir une section"
+msgstr ""
+
+#: Controller/Component/RecaptchaComponent.php:69
+msgid "You must set the secret Recaptcha key in config/recaptcha.php file"
+msgstr ""
+
+#: Template/Error/error400.ctp:34
+#: Template/Error/error500.ctp:39
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:36
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:37
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:494
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:157
+#: Http/Middleware/CsrfProtectionMiddleware.php:190
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:161
+#: Http/Middleware/CsrfProtectionMiddleware.php:194
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:258
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:260
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2400
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2411
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:915
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:111
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:112
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1885
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1039
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1042
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:795
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr ""
+
+#: Template/Utilisateurs/mesmessages.ctp - START
+msgid "Non résultats"
+msgstr ""
+
+#Left Caption
+msgid "Messagerie"
+msgstr ""
+
+#: + dropdown
+msgid "Marquer comme lu"
+msgstr ""
+
+msgid "Marquer comme non lu"
+msgstr ""
+
+msgid "Archiver"
+msgstr ""
+
+msgid "Non archiver"
+msgstr ""
+
+#: Reservation statuses
+# status 0
+msgid "Réservation en cours"
+msgstr ""
+
+# status 10
+msgid "Réservation expirée"
+msgstr ""
+
+# status 50
+msgid "Réservation en attente"
+msgstr ""
+
+# status 60
+msgid "Réservation non finalisée"
+msgstr ""
+
+# status 90 Arrival today
+msgid "Arrivée Aujourd'hui"
+msgstr ""
+
+# status 90 Arrival in X day(s)
+msgid "Arrivée dans %d jour%s"
+msgstr ""
+
+# status 90 Past booking
+msgid "Réservation passée"
+msgstr ""
+
+# status 100
+msgid "Annulation demandée"
+msgstr ""
+
+# status 110
+msgid "Réservation annulée"
+msgstr ""
+
+#: Message statuses
+msgid "Message lu"
+msgstr ""
+
+msgid "Message non lu"
+msgstr ""
+
+msgid "Archivé"
+msgstr ""
+
+#: filter options
+msgid "Trier"
+msgstr ""
+
+msgid "Sélectionnez un trier"
+msgstr ""
+
+msgid "Tous les messages"
+msgstr ""
+
+msgid "Messages lus"
+msgstr ""
+
+msgid "Messages non lus"
+msgstr ""
+
+msgid "Actifs"
+msgstr ""
+
+msgid "Archives"
+msgstr ""
+
+msgid "Voir la réservation"
+msgstr ""
+
+msgid "sélectionné(s)"
+msgstr ""
+
+msgid "Tous sélectionnés"
+msgstr ""
+
+#: Search inputs
+msgid "Rechercher un utilisateur"
+msgstr ""
+
+msgid "Rechercher dans la conversation"
+msgstr ""
+
+msgid "Du"
+msgstr ""
+
+msgid "Au"
+msgstr ""
+
+# Reservations page
+msgid "Référence"
+msgstr ""
+
+msgid "Confirmée"
+msgstr ""
+
+msgid "Passée"
+msgstr ""
+
+msgid "Voir les détails"
+msgstr ""
+
+msgid "Voir l'annonce"
+msgstr ""
+
+msgid "Ma réservation"
+msgstr ""
+
+msgid "Réserver à nouveau"
+msgstr ""
+
+msgid "Détail de la réservation"
+msgstr ""
+
+msgid "Identifiant de la réservation"
+msgstr ""
+
+msgid "Annuler la demande de réservation"
+msgstr ""
+
+msgid "Annuler la réservation"
+msgstr ""
+
+msgid "Activités et services"
+msgstr ""
+
+msgid "Préparer mes vacances"
+msgstr ""
+
+msgid "Mon hébergement"
+msgstr ""
+
+msgid "Mon arrivée en station"
+msgstr ""
+
+msgid "A propos du propriétaire"
+msgstr ""
+
+msgid "Habite à"
+msgstr ""
+
+msgid "Commentaires"
+msgstr ""
+
+msgid "Indiquez ici les commentaires relatifs à la réservation"
+msgstr ""
+
+msgid "Vos commentaires"
+msgstr ""
+
+msgid "Vous n'avez communiqué aucune remarque à {{prenom}}"
+msgstr ""
+
+msgid "Enregistrer le commentaire"
+msgstr ""
+
+msgid "Mon paiement"
+msgstr ""
+
+msgid "Montant des nuits réservéest"
+msgstr ""
+
+msgid "Autres frais (Ménage, animaux)"
+msgstr ""
+
+msgid "Frais de services"
+msgstr ""
+
+msgid "Montant total de la réservation"
+msgstr ""
+
+msgid "Vous serez débité lorsque {{prenom}} aura accepté votre demande de réservation"
+msgstr ""
+
+msgid "Voir ma commande"
+msgstr ""
+
+msgid "{{prenom}} a encore <b><span class='remained-hrs'>{{hrs}}</span> heure(s) et <span class='remained-mins'>{{mins}}</span> minute(s)</b> pour répondre à votre demande de réservation"
+msgstr ""
+
+msgid "Continuez la préparation de vos vacances en réservant des activités (location de skis, cours de skis, forfaits) et des services (ménage professionnel, location de linge, matériel bébé)"
+msgstr ""
+
+msgid "Remise de clés organisée par {{prenom}}"
+msgstr ""
+
+msgid "Remise de clés dans votre conciergerie Alpissime"
+msgstr ""
+
+msgid "Vous accéderez au numéro de téléphone de {{prenom}} une fois la réservation acceptée"
+msgstr ""
+
+msgid "Membre depuis"
+msgstr ""
+
+msgid "Acceptée le"
+msgstr ""
+
+msgid "Appeler"
+msgstr ""
+
+msgid "Réservé le"
+msgstr ""
+
+msgid "résidence"
+msgstr ""
+
+msgid "Appeler le"
+msgstr ""
+
+msgid "Commentaire de {{prenom}}"
+msgstr ""
+
+msgid "Etat des lieux d'entrée"
+msgstr ""
+
+msgid "Télécharger l'état des lieux à compléter"
+msgstr ""
+
+msgid "Envoyer l'état des lieux completé"
+msgstr ""
+
+msgid "Mes commentaires sur l'état des lieux"
+msgstr ""
+
+msgid "Remboursement à 100% de la taxe de séjour. Les frais de service ne sont pas remboursés."
+msgstr ""
+
+msgid "Le commentair n'a pas pu etre enregistré"
+msgstr ""
+
+msgid "Le commentair a été bien enregistré"
+msgstr ""
+
+msgid "Mauvais statut"
+msgstr ""
+
+msgid "Non réservation"
+msgstr ""
+
+msgid "Réservation%s en attente "
+msgstr ""
+
+msgid "Réservation%s confirmée"
+msgstr ""
+
+msgid "Réservation%s passée"
+msgstr ""
+
+msgid "Réservation%s annulée"
+msgstr ""
+
+msgid "Vous n'avez pas de encore de réservation."
+msgstr ""
+
+msgid "Commencer mes recherches"
+msgstr ""
+
+msgid "Attention, vous allez modifier votre date d'arrivée. Êtes-vous sûr(e) de vouloir continuer ?"
+msgstr ""
+
+msgid "Attention, vous allez modifier votre date de départ. Êtes-vous sûr(e) de vouloir continuer ?"
+msgstr ""
+
+msgid "Confirmer le changement"
+msgstr ""
+
+msgid "Le délai pour répondre à votre demande de réservation est expiré"
+msgstr ""
+
+msgid "Taxe de séjour à régler lors de la récupération des clés"
+msgstr ""
+
+msgid "Les promotions automatiques ne sont pas cumulables : la promotion la plus favorable au client sera automatiquement appliquée à sa demande de réservation."
+msgstr ""
+
+msgid "Une promotion automatique peut être cumulée avec une promotion classique, paramétrée lors de la création d'une disponibilité."
+msgstr ""
+
+msgid "C'est compris !"
+msgstr ""
+
+msgid "Personne à mobilité réduite"
+msgstr ""
+
+msgid "Parking"
+msgstr ""
+
+msgid "Espaces extérieurs"
+msgstr ""
+
+msgid "Espace pour les repas en plein air"
+msgstr ""
+
+msgid "Salle de fitness"
+msgstr ""
+
+msgid "Equipements préférés des vacanciers"
+msgstr ""
+
+msgid "Machineà laver"
+msgstr ""
+
+msgid "Proximité avec les pistes"
+msgstr ""
+
+msgid "Tous"
+msgstr ""
+
+msgid "Moins de 50 mètres"
+msgstr ""
+
+msgid "Note des vacanciers"
+msgstr ""
+ 
+msgid "Wifi gratuit: dans la résidence"
+msgstr ""
+
+msgid "Wifi gratuit: box dans l'appartement"
+msgstr ""

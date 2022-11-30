@@ -1,0 +1,11 @@
+.wrapper {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 
+    fonts
+    font-family: 'Open Sans', sans-serif; 4 5 7
+    font-family: 'Raleway', sans-serif; 4 6
+*/

@@ -1,0 +1,46 @@
+.reservation_container a,
+.reservation_container a:hover {
+    color: #212529 !important;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+.my-mb-10 {
+    margin-bottom: 10px;
+}
+
+.my-mt-10 {
+    margin-top: 10px;
+}
+
+.my-mb-15 {
+    margin-bottom: 15px;
+}
+
+.my-mb-25 {
+    margin-bottom: 25px;
+}
+
+.my-mt-25 {
+    margin-top: 25px;
+}
+
+.my-flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.my-font-italic {
+    font-style: italic;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.no-text-decoration,
+.no-text-decoration:hover {
+    text-decoration: none;
+}

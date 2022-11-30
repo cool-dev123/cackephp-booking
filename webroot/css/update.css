@@ -1,0 +1,99 @@
+/* Landing */
+.description-product .text a {
+    font-size: 16px !important;
+}
+ul.products.row {
+    padding-left: 0;
+}
+.products li {
+    margin-bottom: 35px;
+}
+h1.white {
+    color: #fff;
+}
+
+/* Menu recherche */
+.search_titre {
+  line-height: 1.1;
+  display: block;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+/* Detail annonce */
+/*.bx-viewport {
+   height: 504px !important;
+}*/
+.disprech{
+  display: inline-block;
+  position: relative;
+  margin: 0 auto;
+}
+.displblockre{
+  display: flex;
+}
+.disprech input {
+    width: 90% !important;
+}
+.modal #captcha-wrap {
+    background: #ff8700;
+}
+
+/* Mes coordonnées locataire */
+.filtre-reservation-new {
+    background: #ff8700;
+    padding: 12px 0px;
+    color: #fff;
+    height: 45px;
+}
+i.fa.fa-edit.fa-lg {
+    color: #ff8700;
+}
+i.fa.fa-times.fa-lg {
+    color: red;
+}
+
+/* ajout annonce*/
+  .d1 label { display:block;min-width:140px;float:left;font-weight:800 }
+  .nature_select { margin-left: 10px; margin-right: 5px; }
+  #tab_annonce { margin-top:10px; margin-bottom:10px; }
+  #tab_annonce tr { height:30px; }
+
+  .cadreresultatannonce p{
+  padding:0px !important;
+  }
+
+  i.fa.fa-edit.fa-lg {
+      color: #ff8700;
+  }
+  i.fa.fa-times.fa-lg {
+      color: red;
+  }
+
+  .input_search {
+    z-index: 0;
+}
+.btn-default{
+  z-index: 0;
+}
+.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front.ui-dialog-buttons.ui-draggable.ui-resizable {
+    z-index: 1;
+}
+select#nb_adult_get {
+  width: 35%;
+  margin-left: 42%;
+  margin-right: 0;
+}
+select#nb_child_get {
+  width: 20%;
+  margin-left: 42%;
+  margin-right: 0;
+}

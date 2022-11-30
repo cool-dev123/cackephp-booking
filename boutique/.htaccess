@@ -1,0 +1,2 @@
+RewriteEngine on
+RedirectMatch 301 / http://www.boutique.alpissime.com/

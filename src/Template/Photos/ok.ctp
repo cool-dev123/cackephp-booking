@@ -1,0 +1,1 @@
+<?php echo $action?>||<?php echo $id?>||<a id="bt2" class=" ">Cliquer pour <?= __("Ajouter") ?></a><img width="100%" height="60" src="<?php echo $this->Url->build('/',true)?>images_ann/<?php echo $vignette."?".time()?> " /> <input type="submit" style="background-color: transparent; border: 0; color: #3caffb;" value="Supprimer la photo" name="supp_photo"> 

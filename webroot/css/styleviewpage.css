@@ -1,0 +1,326 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 juil. 2018, 15:23:08
+*/
+td.greenday .ui-state-default {
+    background: #4cc075 !important;
+    color: white;
+}
+.ratingtable td {
+    border: none !important;
+    vertical-align: middle !important;
+}
+.ratingtable {
+    width: 76%;
+}
+/** Block review Rate **/
+.flexnote{
+  display: flex;
+}
+.label-avis{
+  font-size: 17px;
+  color: #969b9d;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  padding-left: 0px;
+}
+.commentaire .block {
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+.review-block{
+	background-color:#FAFAFA;
+	border:1px solid #EFEFEF;
+	padding:15px;
+	border-radius:3px;
+	margin-bottom:15px;
+}
+.review-block-name{
+	font-size:12px;
+	margin:10px 0;
+  padding: 0px;
+  /* margin-right: 15%; */
+}
+.review-block-name .fa {
+    margin-right: 10px;
+    color: #969b9d;
+}
+.review-block-date{
+	font-size:12px;
+}
+.review-block-rate{
+	font-size:13px;
+	margin-bottom:15px;
+  padding: 0px;
+}
+.review-block-title{
+	font-size:15px;
+	font-weight:700;
+	margin-bottom:10px;
+}
+.review-block-description{
+	font-size:13px;
+}
+.noter {
+    margin-bottom: 30px;
+}
+.easyPaginateNav a:hover, .easyPaginateNav a:focus{
+  color: white;
+}
+.easyPaginateNav a {
+    margin-right: 20px;
+    font-size: 15px;
+}
+.easyPaginateNav{
+  text-align: center;
+  display: inline-block;
+}
+.first, .last{
+  display: none;
+}
+.page, .next, .prev {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background: #ddd;
+    color: white;
+}
+a.page.current {
+    /* color: #ff8700; */
+    background: #2facff;
+}
+a.page:hover{
+  color: white;
+}
+.rateadd td {
+    vertical-align: middle !important;
+}
+.rating-container .caption{
+  margin-top: 10px;
+  margin-bottom: 15px;
+  display: block;
+}
+.labelrate{
+  margin-top: 9px;
+}
+.captionClass {
+  font-size: 15px;
+  color: #ff8700;
+  border: 1px solid #ff8700;
+  padding: 1px 20%;
+  border-radius: 5px;
+}
+.commentaire {
+    border-right: 1px solid #eee;
+}
+.commentaire:last-child {
+    border: none;
+}
+/* infobulle rating */
+.infobullerating{
+  display:none;
+	background:rgb(245, 245, 245);
+	padding:20px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	width:450px;
+	text-align:center;
+	position: absolute;
+	z-index:10;
+}
+.review-block-rate{
+  display: inline-block;
+}
+.review-block-rate:hover .infobullerating{
+  display:block;
+  left: -110%;
+}
+/* Répondre avis */
+.repondreavis {
+    font-size: 12px;
+    padding: 6px;
+    float: right;
+    margin-top: 10px;
+}
+.espacereponse {
+    background: #f6f6f6;
+    padding: 15px;
+    margin-top: 15px;
+    margin-left: 8%;
+    width: 90%;
+}
+.linkresponse {
+    float: right;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.reduire{
+  margin-top: 0;
+}
+.commentairecaractere{
+  font-size: 10px;
+  font-weight: 100;
+  font-style: italic;
+}
+.rowrating{
+    margin-top: 65px;
+}
+.botmar {
+    display: flex;
+}
+.flex {
+    margin-right: 9px;
+}
+#reservationloc {
+     margin-top: 0px; 
+     padding-top: 0px; 
+}
+.indic {
+     margin-top: 0px; 
+}
+.descriptiondiv{
+    margin-right: 15px;
+    border-right: 1px solid #eee;
+    width: 65%;
+}
+ .maprelative {
+    height: 400px !important;
+    margin-top: 12px !important;
+    overflow: hidden;
+    z-index: 3;
+    border-radius: 9px;
+    padding-right: 0px;
+    }
+
+@media (max-width:991px) {
+    .descriptiondiv {
+        margin-right: 0px; 
+        border-right: none; 
+        width: 100%;
+    }
+    #reservationloc {
+        padding-top: 8px;
+    }
+    .featured-product {
+        height: 450px;
+    }
+    .maprelative {
+        padding-right: 15px;
+    }
+}
+@media (min-width:992px) {
+    .description-details.block {
+        min-height: 270px;
+        overflow: hidden;
+    }
+    .featured-product {
+        height: 400px;
+    }
+}
+@media (min-width:1200px) {
+    .description-details.block {
+        min-height: 340px;
+    }
+}
+   .title-product {
+    background: #3caffb;
+    text-transform: none;
+    padding: 0px;
+}
+.description-product {
+    background: white;
+}
+.featured-product {
+    background: white;
+    box-shadow: 2px 4px 4px #ddd;
+}
+.btnrecherchebande {
+    margin-top: 15px;
+    padding: 2px;
+    width: 95%;
+    bottom: 60px;
+    margin-left: 7px;
+}
+.prixminbloc {
+    color: #3caffb;
+    margin-left: 5px;
+}
+.description-product .text a {
+    font-size: 15px !important;
+}
+.description-product p {
+    font-size: 12px;
+}
+/*.featured-product {
+    height: 400px;
+}*/
+/* Par défaut, une étoile est en gris,
+   avec un padding et un curseur en forme de main. */
+.newnote {
+    color: #ddd;
+    cursor: pointer;
+    padding: 0.0625rem;
+    font-size: 13px;
+}
+/* Si elle porte en plus la classe '.gold', elle sera en jaune. */
+.newnote.gold {
+    color: #3caffb;
+}
+
+/* Le groupe '.stars' positionne les étoiles
+         les unes à côté des autres sans espacements. */
+.stars {
+    display: inline-flex;
+    justify-content: center;
+    /*font-size: 3em;*/
+    margin-left: 10px;
+}
+/* Images Annonces */
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+ol.carousel-indicators {
+    bottom: 0%;
+}
+.glyphicon-chevron-right:before {
+    content: "\e258";
+}
+.glyphicon-chevron-left:before {
+    content: "\e257";
+}
+.item.next.left {
+    padding: 0px;
+}
+.products li{
+    margin-bottom: 0px;
+}
+

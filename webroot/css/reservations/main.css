@@ -1,0 +1,360 @@
+.reservation_container {
+    margin-bottom: 55px;
+}
+.reservations_row {
+    /*height: 400px;*/
+    border: 1px solid #000;
+    display: flex;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+.reservations_row > .image {
+    width: 470px;
+    position: relative;
+    height: auto !important;
+    margin: -1px;
+}
+
+.reservations_row > .image > img {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.reservations_row > .image:after {
+    content: "";
+    display: block;
+    width: 155px;
+    height: 155px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-image: url("/images/Coin1.png");
+    border-bottom-left-radius: 8px;
+}
+
+.reservation_body {
+    width: 55%;
+    padding: 30px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: space-between;*/
+    gap: 25px;
+}
+
+.reservations_row > .reservation_body > div {
+    width: 100%;
+    align-items: center;
+}
+
+.reservation_time {
+    color: #212529;
+    align-items: center;
+    font-size: 18px;
+    display: flex;
+    gap: 10px;
+}
+
+.reservation_time .dot {
+    height: 4px;
+    width: 5px;
+    background-color: #4b4b4b;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.reservation_time .fin_at {
+    text-align: end;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px
+}
+
+
+.bordered_button {
+    border: 1px solid #000;
+    width: max-content;
+    border-radius: 5px;
+    padding: 3px 29px;
+    text-align: center;
+    vertical-align: middle;
+    outline: none;
+    background-color: #fff;
+    color: #212529;
+}
+
+.more_details_cont {
+    width: 100%;
+    height: 1633vh;
+    background-color: #4b4b4b57;
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.more_details_cont:target {
+    visibility: visible;
+    opacity: 1;
+  }
+.more_description {
+    width: 580px;
+    height: max-content;
+    background-color: #fff;
+    padding: 25px;
+}
+
+
+.more_description .details_body_cont {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+}
+
+.details_body_cont hr {
+    width: 100%;
+    height: 1px;
+    background-color: #000;
+}
+
+.details_header span {
+    font-style: italic;
+    font-size: 16px;
+}
+
+.reservation_date>div:first-child {
+    display: flex;
+    justify-content: space-between
+}
+
+.reservation_date>div:nth-child(2) {
+    display: flex;
+    gap: 5px;
+    padding-top: 10px;
+}
+
+.div_text, .div_detail {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    white-space: nowrap;
+    width: 100%;
+}
+
+
+.div_detail {
+    align-items: flex-end;
+}
+
+.div_date {
+    letter-spacing: 0.2px;
+    height: 25px;
+    min-width: 155px;
+    border: 1px solid #000;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px 15px;
+    border-radius: 5px;
+}
+
+.reserver {
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+}
+
+.reserver div {
+    display: flex;
+    flex-direction: column;
+}
+
+.reserver div span {
+    font-size: 15px;
+}
+
+.reserver div span:first-child {
+    font-weight: bold;
+}
+
+.reserver button {
+    max-width: 276px;
+}
+
+.rectangle_cont h5 {
+    margin-top: 18px;
+}
+
+.rectangle {
+    width: 100%;
+    height: 116px;
+    border: 1px solid #000;
+    margin: 15px 0px 15px 0px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.inventaire {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.inventaire h5 {
+    margin: 0px;
+}
+
+.inventaire div {
+    display: flex;
+    flex-direction: column;
+}
+
+h5 {
+    margin-top: 25px;
+}
+
+.command, .div_detail {
+    color: #333;
+}
+
+.command {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.command:hover {
+    color: #888;
+}
+
+.reservation-details .modal-content {
+    width: max-content;
+}
+
+.reservation-details .modal-header {
+    padding: 10px 15px;
+    border: none
+}
+
+.reservation-details .modal-header button:focus {
+    outline: none;
+}
+
+.reservation-details .modal-body {
+    padding: 0 2rem 1rem;
+    width: 580px;
+}
+
+.reservation-details .modal-body a {
+    color: #212529;
+}
+
+.reservation-details .modal-body hr {
+    border-top: 1px solid #212529;
+}
+
+.reservation-details .modal-body p {
+    margin: 0;
+}
+
+.reservation-details .modal-body .send-message-long {
+    margin: 18px 0;
+    font-weight: 500;
+    width: 60%;
+    display: block;
+}
+
+.reservation-details .modal-body textarea {
+    width: 100%;
+    height: 70px;
+    resize: none;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.reservation-details .modal-body .add-comment-btn {
+    margin: 18px 0;
+    font-weight: 500;
+}
+
+.reservation-details .modal-body .cancel-reservation-btn {
+    cursor: pointer;
+    border-bottom: 1px solid #212529;
+}
+
+.reservation-details .modal-body .inventory-btn {
+    font-weight: 500;
+    width: 100%;
+}
+
+
+.reservation-details .modal-body .details-section .bordered_button {
+    width: 155px;
+}
+
+.reservation-details .modal-body .my-datepicker {
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.delete-confirmation-modal .custom-control-label {
+    cursor: pointer;
+}
+
+.delete-confirmation-modal .required-err-msg:not(.hidden) {
+    display: block;
+}
+
+.no-reservations-block {
+    background-image: url("/images/background_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    position: relative;
+}
+
+.no-reservations-block div {
+    font-size: 4rem;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.no-reservations-block a {
+    color: #fff !important;
+    border: 3px solid #fff;
+    width: 40%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+.no-reservations-block:after {
+    content: "";
+    display: block;
+    width: 240px;
+    height: 240px;
+    position: absolute;
+    top: 480px;
+    left: 0;
+    background-image: url("/images/Coin.png");
+    /*opacity: 0.7;*/
+    border-bottom-left-radius: 10px;
+}
